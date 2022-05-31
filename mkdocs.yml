@@ -1,0 +1,33 @@
+site_url: https://nihongonotes.com
+site_name: Nihongo Notes
+nav:
+    - Home: index.md
+theme:
+    name: material
+    custom_dir: overrides
+    language: en
+    favicon: images/favicon.png
+    logo: images/logo.svg
+    font:
+        text: Roboto
+    features:
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.sections
+extra:
+    # generator: false
+    analytics:
+        provider: google
+        property: G-Q36HCES7BW
+markdown_extensions:
+    # Python Markdown
+    - meta
+    - toc:
+        permalink: true
+    # Python Markdown Extensions
+    - pymdownx.highlight
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+        custom_checkbox: true
+plugins:
+    - search
