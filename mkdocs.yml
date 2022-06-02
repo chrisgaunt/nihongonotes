@@ -2,6 +2,11 @@ site_url: https://nihongonotes.com
 site_name: Nihongo Notes
 nav:
     - Home: index.md
+    - Log: log.md
+    - Watch:
+        - Kids TV:
+            - Peppa Pig: watch/kids-anime/peppa-pig.md
+    - About: about.md
 theme:
     name: material
     custom_dir: overrides
@@ -14,20 +19,27 @@ theme:
         - navigation.tabs
         - navigation.tabs.sticky
         - navigation.sections
+extra_css:
+  - stylesheets/extra.css
 extra:
     # generator: false
     analytics:
         provider: google
         property: G-Q36HCES7BW
 markdown_extensions:
-    # Python Markdown
     - meta
     - toc:
         permalink: true
-    # Python Markdown Extensions
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
     - pymdownx.highlight
     - pymdownx.superfences
-    - pymdownx.tasklist:
-        custom_checkbox: true
+    - pymdownx.tabbed:
+        alternate_style: true
 plugins:
-    - search
+    - search:
+        lang:
+            - en
+            - ja
