@@ -3,9 +3,20 @@ site_name: Nihongo Notes
 nav:
     - Home: index.md
     - Log: log.md
+    - Path: path.md
     - Watch:
         - Kids TV:
-            - Peppa Pig: watch/kids-anime/peppa-pig.md
+            - Peppa Pig: watch/kids-tv/peppa-pig.md
+    - Read:
+        - Satori Reader:
+            - Kiki-Mimi Radio: read/satori-reader/kiki-mimi-radio.md
+    - Listen:
+        - Music:
+            - Kenta Kiritani: listen/music/kenta-kiritani.md
+            - Kyu Sakamoto: listen/music/kyu-sakamoto.md
+    - Play:
+        - Steam:
+            - "Alba: A Wildlife Adventure": play/steam/alba-a-wildlife-adventure.md
     - About: about.md
 theme:
     name: material
@@ -31,13 +42,19 @@ markdown_extensions:
     - toc:
         permalink: true
     - attr_list
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.tilde
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
     - pymdownx.highlight
+    - admonition
+    - pymdownx.details
     - pymdownx.superfences
     - pymdownx.tabbed:
         alternate_style: true
+    - pymdownx.snippets
 plugins:
     - search:
         lang:
