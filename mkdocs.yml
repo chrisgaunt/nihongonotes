@@ -4,6 +4,7 @@ nav:
     - Home: index.md
     - Log: log.md
     - Path: path.md
+    - Resources: resources.md
     - Watch:
         - Kids TV:
             - Peppa Pig: watch/kids-tv/peppa-pig.md
@@ -55,6 +56,8 @@ markdown_extensions:
     - pymdownx.tabbed:
         alternate_style: true
     - pymdownx.snippets
+watch:
+    - includes
 plugins:
     - search:
         lang:
