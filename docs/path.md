@@ -2,6 +2,8 @@ This page lists out the immersion and study path I'm taking to learn Japanese. I
 
 ## June 2022 - <small>Rebuilding foundations</small>
 
+### Resources
+
 ??? success "Set up nihongonotes.com" 
 
     - [x] Hope page - 01/06/2022
@@ -13,8 +15,19 @@ This page lists out the immersion and study path I'm taking to learn Japanese. I
     - [x] Read section - 04/06/2022
     - [x] Play section - 04/06/2022
 
-I've previously completed Genki I and part of Genki II, but to consider them done I'm going through them one last time. This time I'm making notes so I no longer need to return to them.
+I've previously fumbled through Genki I and part of Genki II, but to consider them done I'm powering through them one last time.
 
---8<-- "includes/resources/001_genki_1.md"
+--8<-- "includes/resources/001_genki.md"
+
+--8<-- "includes/resources/002_organic_japanese.md"
+
+## July 2022 - <small>Breaking into immersion</small>
+
+--8<-- "includes/resources/003_satori_reader_kiki_mimi_radio.md"
+
+### Activities
+
+* Watched <a href="https://www.youtube.com/watch?v=O4vG1_Sa9VE&list=PLlojrgR2BiEdK3RL-amYF-nQ5y5LwhUlt" target="_blank">【マインクラフト】ヒカキンのマイクラ実況 Part1 いきなりまさかの展開 !?</a> :relaxed:
+* Watched <a href="https://www.youtube.com/watch?v=GZutpd2e2kU" target="_blank">【フォートナイト】新シーズン初見でビクロイするまで終われませんしたら敵強すぎてかつてない戦いにw【チャプター3 シーズン3】【FORTNITE】</a> :relaxed:
 
 --8<-- "includes/emoji-key.md"

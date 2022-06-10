@@ -22,12 +22,12 @@ Here's how I plan to fix these problems:
 * **Anki**
     * I'm only going to use Anki to learn the important things I keep forgetting during immersion. My dips into RTK and Tango Anki decks in the past have given me a decent foundation to start from. It's probably a little earlier than anyone would recommend to get into immersion, but the Anki method just doesn't work for me.
 * **Grammar**
-    * I'm going to gradually work my way through the Genki and Quartet books, and probably a few other books I've bought and never looked at! I'll sumamrise them on this site and I can then finally consider them finished and move on.
+    * I'm going to gradually work my way through the Genki and Quartet books, and probably a few other books I've bought and never looked at! I'll summarise them on this site and I can then finally consider them finished and move on.
 * **Knowing where I'm going**
-    * I'm going to plan out the things I want to achieve in Japanese so I always have something to aim for. It will be a mix of learning materials and immersion to keep ti structured and fun.
+    * I'm going to plan out the things I want to achieve in Japanese so I always have something to aim for. It will be a mix of learning materials and immersion to keep it structured and fun.
 * **Knowing how far I've come**
-    * This website is the main solution to this problem. I'll keep my notes on immersion here, and as the site grows I can be reasonably confident that my language ability is growing at a similar pace. Using the search I can also compare and make connections between words and phrases from all the resources I'm interested in.
-    * I've also had success in the past with using points of reference, such as TV shows or books. So I'll continue to do this and return to these after a few months to see how much more I can understand. The activity log and notes will help with this.
+    * This website is the main solution to this problem. I'll keep my notes on immersion here, and as the site grows I can be reasonably confident that my language ability is growing at a similar pace. Using the search I can also compare and make connections between words and phrases from all the resources I've taken notes on.
+    * I've also had success in the past with using points of reference, such as TV shows or books. So I'll continue to do this and return to these after a few months to see how much more I can understand. I may keep a log of each time I've visited each of them.
 
 I'm sharing these notes publicly as they may help others taking the same journey, and it gives me some feeling of responsibilty or accountability for that extra motivational nudge to keep going.
 

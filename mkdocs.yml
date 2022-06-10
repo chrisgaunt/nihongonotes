@@ -2,7 +2,6 @@ site_url: https://nihongonotes.com
 site_name: Nihongo Notes
 nav:
     - Home: index.md
-    - Log: log.md
     - Path: path.md
     - Resources: resources.md
     - Watch:

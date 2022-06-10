@@ -2,11 +2,7 @@ Here are all the immersion and study resources I've worked through or plan to wo
 
 ## :material-bookshelf: Textbooks
 
---8<-- "includes/resources/001_genki_1.md"
-
-??? textbooks "Genki II (2nd Edition)" 
-
-    - [ ] Chapter 1
+--8<-- "includes/resources/001_genki.md"
 
 ??? textbooks "Quartet I" 
 
@@ -44,35 +40,7 @@ Here are all the immersion and study resources I've worked through or plan to wo
 
 ## :material-bookmark: Satori Reader Series
 
-???+ satori "Kiki-Mimi Radio"
-
-    - [ ] Episode 1
-    - [ ] Episode 2
-    - [ ] Episode 3
-    - [ ] Episode 4
-    - [ ] Episode 5
-    - [ ] Episode 6
-    - [ ] Episode 7
-    - [ ] Episode 8
-    - [ ] Episode 9
-    - [ ] Episode 10
-    - [ ] Episode 11
-    - [ ] Episode 12
-    - [ ] Episode 13
-    - [ ] Episode 14
-    - [ ] Episode 15
-    - [ ] Episode 16
-    - [ ] Episode 17
-    - [ ] Episode 18
-    - [ ] Episode 19
-    - [ ] Episode 20
-    - [ ] Episode 21
-    - [ ] Episode 22
-    - [ ] Episode 23
-    - [ ] Episode 24
-    - [ ] Episode 25
-    - [ ] Episode 26
-    - [ ] Episode 27
+--8<-- "includes/resources/003_satori_reader_kiki_mimi_radio.md"
 
 ??? satori "Kona's Big Adventure"
 
@@ -168,7 +136,7 @@ Here are all the immersion and study resources I've worked through or plan to wo
 
 ??? youtube "Benjiro"
 ??? youtube "Comprehensible Japanese"
-??? youtube "Cure Dolly"
+--8<-- "includes/resources/002_organic_japanese.md"
 
 ## :material-music-note: Songs
 
