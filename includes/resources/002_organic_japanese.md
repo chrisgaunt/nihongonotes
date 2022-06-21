@@ -1,7 +1,8 @@
 ???+ youtube "Organic Japanese from scratch <i id='organic_japanese'></i>"
 
-    - [ ] Run at 1.25x speed = 16 hours 11 minutes
-    - [ ] <a href="https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=1" target="_blank">Lesson 1</a>
+    Run at 1.25x speed = 16 hours 11 minutes
+    
+    - [x] <a href="https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=1" target="_blank">Lesson 1</a>
     - [ ] <a href="https://www.youtube.com/watch?v=P3n8n0u3LHA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=2" target="_blank">Lesson 2</a>
     - [ ] <a href="https://www.youtube.com/watch?v=U9_T4eObNXg&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=3" target="_blank">Lesson 3</a>
     - [ ] <a href="https://www.youtube.com/watch?v=lU5rmrAORDY&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=4" target="_blank">Lesson 4</a>

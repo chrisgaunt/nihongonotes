@@ -1,6 +1,6 @@
 # About Nihongo Notes
 
-## June 2022
+## July 2022
 
 I've dabbled in learning Japanese in the past, but never got very far and never really took it seriously. I'm now very serious about learning Japanese. 
 
@@ -29,4 +29,4 @@ Here's how I plan to fix these problems:
 
 I'm sharing these notes publicly as they may help others taking the same journey, and it gives me some feeling of responsibilty or accountability for that extra motivational nudge to keep going.
 
-This site started on 1st June 2022.
+This site started on 1st July 2022.

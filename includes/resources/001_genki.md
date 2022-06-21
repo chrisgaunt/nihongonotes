@@ -1,43 +1,40 @@
 ???+ textbooks "Genki I (2nd Edition) <i id='genki_1_2nd_edition'></i>"
 
-    - [ ] Roughly 10hr of video
-    - [ ] Review <a href="https://bunpro.jp/paths/genki_1_2nd_edition" target="_blank">Bunpro grammar points</a> and example sentences
-    - [ ] Reference <a href="https://itazuraneko.neocities.org/grammar/dojg/dojgbasic.html" target="_blank">A Dictionary of Basic Japanese Grammar</a>
+    Roughly 10hr of video.  
+    Review <a href="https://bunpro.jp/paths/genki_1_2nd_edition" target="_blank">Bunpro grammar points</a> and example sentences.  
+    Reference <a href="https://itazuraneko.neocities.org/grammar/dojg/dojgbasic.html" target="_blank">A Dictionary of Basic Japanese Grammar</a>
 
-    ???+ textbooks "Chapter 1"
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
-        - [ ] XはYです
-            - [ ] <a href="https://www.youtube.com/watch?v=15ukUhFolU4&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=3" target="_blank">Tokini Andy Video</a>
-            - [ ] <a href="https://www.youtube.com/watch?v=GUymRdqBglo&t=0s" target="_blank">Japanese Ammo video</a>
-        - [ ] の
-            - [ ] <a href="https://www.youtube.com/watch?v=MFPOPg34INI&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=3" target="_blank">Tokini Andy Video</a>
-            - [ ] <a href="https://www.youtube.com/watch?v=Qyc_i3Q72Fw" target="_blank">Japanese Ammo video</a>
-            - [ ] <a href="https://www.youtube.com/watch?v=5IzL2Q5xgGQ&list=PLg9uYxuZf8x-8W6LZmKCfQ5PKrmOXXpFI" target="_blank">Organic Japanese の particle videos</a>
-        - [ ] か
-            - [ ] <a href="https://www.youtube.com/watch?v=O_jgRVfIIio&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=4" target="_blank">Tokini Andy Video</a>
-            - [ ] <a href="https://www.youtube.com/watch?v=pubwgjOKtSM" target="_blank">Japanese Ammo video</a>
+    ???+ success "Chapter 1"
+        - [x] Read book chapter
+        - [x] Do reading exercise
+        - [x] Do workbook exercises
+        - [x] XはYです
+            - [x] <a href="https://www.youtube.com/watch?v=15ukUhFolU4&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=3" target="_blank">Tokini Andy Video</a>
+        - [x] の
+            - [x] <a href="https://www.youtube.com/watch?v=MFPOPg34INI&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=3" target="_blank">Tokini Andy Video</a>
+            - [x] <a href="https://www.youtube.com/watch?v=5IzL2Q5xgGQ&list=PLg9uYxuZf8x-8W6LZmKCfQ5PKrmOXXpFI" target="_blank">Organic Japanese の particle videos</a>
+        - [x] か
+            - [x] <a href="https://www.youtube.com/watch?v=O_jgRVfIIio&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=4" target="_blank">Tokini Andy Video</a>
 
-    ??? textbooks "Chapter 2"
+    ??? success "Chapter 2"
 
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
-        - [ ] これ, それ, あれ, どれ
-            - [ ] <a href="https://www.youtube.com/watch?v=pv9B20HEjVY&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=5" target="_blank">Tokini Andy Video</a>
-        - [ ] この, その, あの, どの
-            - [ ] <a href="https://www.youtube.com/watch?v=hRTO7EwVzww&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=6" target="_blank">Tokini Andy Video</a>
-        - [ ] ここ, そこ, あそこ, どこ
-            - [ ] <a href="https://www.youtube.com/watch?v=a3FDCGbeGVU&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=7" target="_blank">Tokini Andy Video</a>
-        - [ ] だれの
-            - [ ] <a href="https://www.youtube.com/watch?v=VC7T0UaCW1M&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=8" target="_blank">Tokini Andy Video</a>
-        - [ ] も
-            - [ ] <a href="https://www.youtube.com/watch?v=qlat4n28fBI&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=9" target="_blank">Tokini Andy Video</a>
-        - [ ] じゃない
-            - [ ] <a href="https://www.youtube.com/watch?v=WOCMO3kYhng&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=10" target="_blank">Tokini Andy Video</a>
-        - [ ] よ and ね
-            - [ ] <a href="https://www.youtube.com/watch?v=632_7NiSg0Y&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=11" target="_blank">Tokini Andy Video</a>
+        - [x] Read book chapter
+        - [x] Do reading exercise
+        - [x] Do workbook exercises
+        - [x] これ, それ, あれ, どれ
+            - [x] <a href="https://www.youtube.com/watch?v=pv9B20HEjVY&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=5" target="_blank">Tokini Andy Video</a>
+        - [x] この, その, あの, どの
+            - [x] <a href="https://www.youtube.com/watch?v=hRTO7EwVzww&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=6" target="_blank">Tokini Andy Video</a>
+        - [x] ここ, そこ, あそこ, どこ
+            - [x] <a href="https://www.youtube.com/watch?v=a3FDCGbeGVU&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=7" target="_blank">Tokini Andy Video</a>
+        - [x] だれの
+            - [x] <a href="https://www.youtube.com/watch?v=VC7T0UaCW1M&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=8" target="_blank">Tokini Andy Video</a>
+        - [x] も
+            - [x] <a href="https://www.youtube.com/watch?v=qlat4n28fBI&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=9" target="_blank">Tokini Andy Video</a>
+        - [x] じゃない
+            - [x] <a href="https://www.youtube.com/watch?v=WOCMO3kYhng&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=10" target="_blank">Tokini Andy Video</a>
+        - [x] よ and ね
+            - [x] <a href="https://www.youtube.com/watch?v=632_7NiSg0Y&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=11" target="_blank">Tokini Andy Video</a>
 
     ??? textbooks "Chapter 3"
 

@@ -1,7 +1,7 @@
 # Peppa Pig - Anime for kids <br><small>ペッパピッグ | 子供向けアニメ</small>
 
 ## Notes
-### June 2022 
+### July 2022 
 
 Peppa Pig has so far been good for some comprehensible input. It's not exactly thrilling TV, but since it's mostly comprehensible (i+1) it remains interesting.
 
