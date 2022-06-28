@@ -111,12 +111,16 @@ Here are all the immersion and study resources I've worked through or plan to wo
 ??? anime "One Punch Man"
 ??? anime "Konosuba"
 
-## :material-television: TV Series
+## :material-television: Kids TV Series
+
+--8<-- "includes/resources/002_peppa_pig.md"
 
 ??? tv "Rilakkuma and Kaoru"
 
     - [ ] Episode 1
     - [ ] Episode 1 with audio description
+
+## :material-television: TV Series
 
 ??? tv "Terrace House"
 ??? tv "Midnight Diner: S1"

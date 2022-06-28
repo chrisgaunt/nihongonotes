@@ -4,7 +4,7 @@
     Review <a href="https://bunpro.jp/paths/genki_1_2nd_edition" target="_blank">Bunpro grammar points</a> and example sentences.  
     Reference <a href="https://itazuraneko.neocities.org/grammar/dojg/dojgbasic.html" target="_blank">A Dictionary of Basic Japanese Grammar</a>
 
-    ???+ success "Chapter 1"
+    ??? success "Chapter 1"
         - [x] Read book chapter
         - [x] Do reading exercise
         - [x] Do workbook exercises
@@ -15,8 +15,9 @@
             - [x] <a href="https://www.youtube.com/watch?v=5IzL2Q5xgGQ&list=PLg9uYxuZf8x-8W6LZmKCfQ5PKrmOXXpFI" target="_blank">Organic Japanese の particle videos</a>
         - [x] か
             - [x] <a href="https://www.youtube.com/watch?v=O_jgRVfIIio&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=4" target="_blank">Tokini Andy Video</a>
+        - [x] Write up [summary](/notes/grammar)
 
-    ??? success "Chapter 2"
+    ???+ success "Chapter 2"
 
         - [x] Read book chapter
         - [x] Do reading exercise
@@ -35,6 +36,7 @@
             - [x] <a href="https://www.youtube.com/watch?v=WOCMO3kYhng&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=10" target="_blank">Tokini Andy Video</a>
         - [x] よ and ね
             - [x] <a href="https://www.youtube.com/watch?v=632_7NiSg0Y&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=11" target="_blank">Tokini Andy Video</a>
+        - [ ] Write up [summary](/notes/grammar)
 
     ??? textbooks "Chapter 3"
 

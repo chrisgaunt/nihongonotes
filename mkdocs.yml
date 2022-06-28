@@ -3,20 +3,20 @@ site_name: Nihongo Notes
 nav:
     - Home: index.md
     - Path: path.md
-    - Resources: resources.md
-    - Watch:
+    - Notes:
+        - Grammar: notes/grammar.md
+        # - Gaming: notes/gaming.md
+        # - Steam Games:
+        #     - "Alba: A Wildlife Adventure": notes/play/steam/alba-a-wildlife-adventure.md
         - Kids TV:
-            - Peppa Pig: watch/kids-tv/peppa-pig.md
-    - Read:
-        - Satori Reader:
-            - Kiki-Mimi Radio: read/satori-reader/kiki-mimi-radio.md
-    - Listen:
+            - Peppa Pig: notes/watch/kids-tv/peppa-pig.md
+        # - Satori Reader:
+        #     - Kiki-Mimi Radio: notes/read/satori-reader/kiki-mimi-radio.md
         - Music:
-            - Kenta Kiritani: listen/music/kenta-kiritani.md
-            - Kyu Sakamoto: listen/music/kyu-sakamoto.md
-    - Play:
-        - Steam:
-            - "Alba: A Wildlife Adventure": play/steam/alba-a-wildlife-adventure.md
+            - Kenta Kiritani: notes/listen/music/kenta-kiritani.md
+            - Kyu Sakamoto: notes/listen/music/kyu-sakamoto.md
+    - Resources: resources.md
+    - Kanji: kanji.md
     - About: about.md
 theme:
     name: material
@@ -39,9 +39,11 @@ extra:
         property: G-Q36HCES7BW
 markdown_extensions:
     - meta
+    - def_list
     - toc:
         permalink: true
     - attr_list
+    - md_in_html
     - pymdownx.tasklist:
         custom_checkbox: true
     - pymdownx.tilde
@@ -51,7 +53,11 @@ markdown_extensions:
     - pymdownx.highlight
     - admonition
     - pymdownx.details
-    - pymdownx.superfences
+    - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
     - pymdownx.tabbed:
         alternate_style: true
     - pymdownx.snippets

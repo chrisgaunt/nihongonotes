@@ -3,7 +3,26 @@
     font-weight: normal;
 }
 
+.large {
+    font-size: 2em;
+}
+
+.right {
+    float: right;
+}
+
+.faded {
+    color: #CCCCCC;
+}
+
+blockquote.story {
+    margin-left: 2.8rem;
+}
+
 /* Adminitions */
+.md-typeset .admonition {
+    box-shadow: none;
+}
 :root {
     --md-admonition-icon--textbooks: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 3v15h3V3H9m3 2 4 13 3-1-4-13-3 1M5 5v13h3V5H5M3 19v2h18v-2H3Z"/></svg>')
 }
@@ -182,4 +201,47 @@
     background-color: #9e9e9e;
     -webkit-mask-image: var(--md-admonition-icon--other);
     mask-image: var(--md-admonition-icon--other);
+}
+
+/* GRIDS */
+
+.md-typeset .grid {
+    grid-gap: 0.4rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 1em 0;
+}
+
+.md-typeset .grid.grid--kanji {
+    margin-left: 2.8rem;
+}
+
+.md-typeset .grid>* {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+ .md-typeset .grid>.card {
+    border: 0.05rem solid var(--md-default-fg-color--lightest);
+    border-radius: 0.1rem;
+    display: block;
+    margin: 0;
+    padding: 0.8rem;
+    transition: border .25s,box-shadow .25s;
+}
+
+.md-typeset .grid>.card {
+    border: 0.05rem solid var(--md-default-fg-color--lightest);
+    border-radius: 0.1rem;
+    display: block;
+    margin: 0;
+    padding: 0.8rem;
+}
+
+.md-typeset .grid>.card.empty {
+    border: 0.05rem solid #f2f2f2;
+    color: var(--md-default-fg-color--light);
+    border-radius: 0.1rem;
+    display: block;
+    margin: 0;
+    padding: 0.8rem;
 }
