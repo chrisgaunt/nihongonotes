@@ -15,8 +15,23 @@
     color: #CCCCCC;
 }
 
+.kanji {
+    padding: 0.5rem 1rem;
+    border: 0.05rem solid var(--md-default-fg-color--lightest);
+    border-radius: 0.1rem;
+    margin-right: 1rem;
+    display: inline-block;
+    box-shadow: var(--md-shadow-z1);
+    background-color: var(--md-primary-fg-color);
+    color: white;
+}
+
+.kanji-details {
+    display: inline-block;
+}
+
 blockquote.story {
-    margin-left: 2.8rem;
+    margin-left: 1.4rem;
 }
 
 /* Adminitions */
@@ -213,7 +228,7 @@ blockquote.story {
 }
 
 .md-typeset .grid.grid--kanji {
-    margin-left: 2.8rem;
+    margin-left: 1.4rem;
 }
 
 .md-typeset .grid>* {
