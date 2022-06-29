@@ -16,7 +16,16 @@ nav:
             - Kenta Kiritani: notes/listen/music/kenta-kiritani.md
             - Kyu Sakamoto: notes/listen/music/kyu-sakamoto.md
     - Resources: resources.md
-    - Kanji: kanji.md
+    - Kanji:
+        - "<span>1st Grade&nbsp;<mark class=\"cited\">WIP</mark></span>": kanji/grade1.md
+        - "<span>2nd Grade&nbsp;<mark class=\"cited\">WIP</mark></span>": kanji/grade2.md
+        - "<span>3rd Grade&nbsp;<mark class=\"cited\">WIP</mark></span>": kanji/grade3.md
+        - "<span>4th Grade&nbsp;<mark class=\"cited\">WIP</mark></span>": kanji/grade4.md
+        - "<span>5th Grade&nbsp;<mark class=\"cited\">WIP</mark></span>": kanji/grade5.md
+        - "<span>6th Grade&nbsp;<mark class=\"cited\">WIP</mark></span>": kanji/grade6.md
+        - "<span>Secondary School&nbsp;<mark class=\"cited\">WIP</mark></span>": kanji/grade7.md
+        - "<span>Other&nbsp;<mark class=\"cited\">WIP</mark></span>": kanji/other.md
+        - "<span>Particles&nbsp;<mark class=\"cited\">WIP</mark></span>": kanji/particles.md
     - About: about.md
 theme:
     name: material
@@ -24,8 +33,7 @@ theme:
     language: en
     favicon: images/favicon.png
     logo: images/logo.svg
-    font:
-        text: Roboto
+    font: false
     features:
         - navigation.tabs
         - navigation.tabs.sticky

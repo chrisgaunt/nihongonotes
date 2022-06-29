@@ -15,8 +15,20 @@
     color: #CCCCCC;
 }
 
+.japanese {
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
+
+.kanji-wrapper h3 {
+    display: flex;
+    font-size: 22px;
+}
+
 .kanji {
-    padding: 0.5rem 1rem;
+    width: 90px;
+    height: 90px;
+    position: relative;
+    padding: 0;
     border: 0.05rem solid var(--md-default-fg-color--lightest);
     border-radius: 0.1rem;
     margin-right: 1rem;
@@ -24,13 +36,35 @@
     box-shadow: var(--md-shadow-z1);
     background-color: var(--md-primary-fg-color);
     color: white;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    font-size: 44px;
+    line-height: 1.6;
+}
+
+.kanji span {
+    position: absolute;
+    top: 0.3rem;
+    left: 1rem;
+}
+
+.kanji:hover {
+    font-family: 'Sawarabi Mincho', serif;
+}
+
+.kanji:hover span {
+    top: 0.375rem;
 }
 
 .kanji-details {
     display: inline-block;
+    padding-top: 0.4rem;
 }
 
 blockquote.story {
+    margin-left: 1.4rem;
+}
+
+.kanji-contexts {
     margin-left: 1.4rem;
 }
 
@@ -229,6 +263,11 @@ blockquote.story {
 
 .md-typeset .grid.grid--kanji {
     margin-left: 1.4rem;
+}
+
+.md-typeset .grid.grid--kanji strong {
+    font-weight: normal;
+    opacity: .75;
 }
 
 .md-typeset .grid>* {

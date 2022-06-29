@@ -16,10 +16,3 @@ Text in <span class="faded">grey</span> is not from the Netflix audio, but comes
 | ナレーター       | 今日は雨<span class="faded">が降っています</span>。 <span class="faded">だから</span>ぺパとジョージは外で遊べません。  |
 | ペパピッグ       | ダディー、雨がやんだよ！ |
 | ペパピッグ       | お外で遊んでもいい？ |
-
-
-| kanji | on | variants | keyword    | particles         |
-| ----- | -- | -------- | ---------- | ----------------- |
-| 必     |    |          | inevitable | heart,slash       |
-| 学     |    |          | study      | schoolhouse,child |
-| 校     |    |          | school     | tree,mingle       |
