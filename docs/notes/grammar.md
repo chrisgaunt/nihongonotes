@@ -1,3 +1,8 @@
+---
+title: Japanese Grammar Summary
+description:These are my notes on grammar and anything else I find relevant to learning Japanese.
+---
+
 These are my notes on grammar and anything else I find relevant to learning Japanese.
 
 !!! warning "Warning"

@@ -1,3 +1,8 @@
+---
+title: Kenta Kiritani Japanese Lyrics
+description: Japanese lyrics to songs by Kenta Kiritani
+---
+
 # Kenta Kiritani <br><small>桐谷 健太</small>
 
 ## Voice of the Sea <br><small>海の声</small>

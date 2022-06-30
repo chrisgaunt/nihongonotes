@@ -1,3 +1,8 @@
+---
+title: Japanese Study Resources
+description: Here are all the immersion and study resources I've worked through or plan to work through.
+---
+
 Here are all the immersion and study resources I've worked through or plan to work through. Each section is ordered mainly from easiest to most difficult. The ordering is very subjective, and some items I've listed first purely because I have more interest in them or because they are a stepping stone to something else I'm interested in.
 
 ## :material-bookshelf: Textbooks

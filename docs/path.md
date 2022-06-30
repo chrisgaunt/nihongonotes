@@ -1,3 +1,8 @@
+---
+title: Japanese Study Path
+description: This page lists out the immersion and study path I'm taking to learn Japanese.
+---
+
 This page lists out the immersion and study path I'm taking to learn Japanese. It requires a bit of work initially to plan out, but I'm hoping by breaking it down into smaller steps I can keep the motivation going.
 
 ## July 2022 - <small>Rebuilding foundations</small>

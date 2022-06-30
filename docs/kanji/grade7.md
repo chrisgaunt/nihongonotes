@@ -156,7 +156,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> eye, <a href="/kanji/grade2#ground-0187-unreviewed">ground</a></p>
+<p class="card"><strong>Particles</strong><br> eye, <a href="/kanji/grade7#one-2115-unreviewed">one</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">か.つ</span></p>
 </div>
@@ -1676,7 +1676,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>虎</span></span> <span class="kanji-details">tiger <br><small>0912 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
-<p class="card"><strong>Variant</strong><br> <span class="japanese">虍</span></p>
+<p class="card"><strong>Variant</strong><br> <span class="japanese large">虍</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese"><mark class="critic">コ</mark></span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">とら</span></p>
@@ -8643,13 +8643,21 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あま</span></p>
 </div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>泥</span></span> <span class="kanji-details">mud <br><small>2117</small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>泥</span></span> <span class="kanji-details">mud <br><small>2117 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <a href="/kanji/particles#water-0000-unreviewed">water</a>, <a href="/kanji/particles#butt-0000-unreviewed">butt</a>, <a href="/kanji/particles#spoon-0000-unreviewed">spoon</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese"><mark class="critic">デイ</mark></span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">どろ</span></p>
+</div>
+
+<div class="kanji-contexts" markdown>
+??? cite "Context"
+
+    <!-- -->
+    > [泥の水たまり](/notes/kids-tv/peppa-pig#episode-1)
+
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>漏</span></span> <span class="kanji-details">leak <br><small>2118 <mark class="cited">Unreviewed</mark></small></span></div>

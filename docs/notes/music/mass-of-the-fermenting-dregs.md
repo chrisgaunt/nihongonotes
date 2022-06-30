@@ -1,3 +1,8 @@
+---
+title: MASS OF THE FERMENTING DREGS Japanese Lyrics
+description: Japanese lyrics to songs by MASS OF THE FERMENTING DREGS
+---
+
 # MASS OF THE FERMENTING DREGS<br><small>マス オブ ザ ファーメンティング ドレッグス</small>
 
 ## ハイライト

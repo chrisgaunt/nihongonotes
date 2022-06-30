@@ -1,3 +1,7 @@
+---
+title: Kyu Sakamoto Japanese Lyrics
+description: Japanese lyrics to songs by Kyu Sakamoto
+---
 
 # Kyu Sakamoto <br><small>坂本 九</small>
 
