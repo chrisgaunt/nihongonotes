@@ -209,7 +209,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2#ground-0187-unreviewed">ground</a>, <a href="/kanji/particles#hood-0000-unreviewed">hood</a>, <a href="/kanji/grade1#mountain-0037-unreviewed">mountain</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade7#one-2115-unreviewed">one</a>, <a href="/kanji/particles#hood-0000-unreviewed">hood</a>, <a href="/kanji/grade1#mountain-0037-unreviewed">mountain</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese"><mark class="critic">リョウ</mark></span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -757,7 +757,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>丁</span></span> <span class="kanji-details">street <br><small>0437 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
-<p class="card"><strong>Variant</strong><br> <span class="japanese">𠄐</span></p>
+<p class="card"><strong>Variant</strong><br> <span class="japanese large">𠄐</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese"><mark class="critic">チョウ</mark> ・ テイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
@@ -857,7 +857,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles#spikes-0000-unreviewed">spikes</a>, <a href="/kanji/grade3#sheep-0490-unreviewed">sheep</a>, <a href="/kanji/grade1#eight-0010-unreviewed">eight</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese"><mark class="critic">ギョウ</mark> ・ ゴウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">わざ</span></p>
 </div>

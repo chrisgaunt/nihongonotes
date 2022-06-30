@@ -47,6 +47,9 @@
     left: 1rem;
 }
 
+.kanji img {
+}
+
 .kanji:hover {
     font-family: 'Sawarabi Mincho', serif;
 }

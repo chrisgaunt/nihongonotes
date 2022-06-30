@@ -75,7 +75,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> top hat, little feet</p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles#top-hat-0000-unreviewed">top hat</a>, <a href="/kanji/grade1#eight-0010-unreviewed">eight</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese"><mark class="critic">ロク</mark></span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">む ・ む.つ ・ むっ.つ ・ むい</span></p>
 </div>
@@ -93,7 +93,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> little feet</p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese"><mark class="critic">ハチ</mark></span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">や ・ や.つ ・ やっ.つ ・ よう</span></p>
 </div>
@@ -417,7 +417,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> eye, little feet</p>
+<p class="card"><strong>Particles</strong><br> eye, <a href="/kanji/grade1#eight-0010-unreviewed">eight</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">かい</span></p>
 </div>

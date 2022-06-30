@@ -1,5 +1,6 @@
 site_url: https://nihongonotes.com
 site_name: Nihongo Notes
+dev_addr: '127.0.0.1:9000'
 nav:
     - Home: index.md
     - Path: path.md
@@ -7,14 +8,14 @@ nav:
         - Grammar: notes/grammar.md
         # - Gaming: notes/gaming.md
         # - Steam Games:
-        #     - "Alba: A Wildlife Adventure": notes/play/steam/alba-a-wildlife-adventure.md
+        #     - "Alba: A Wildlife Adventure": notes/games/alba-a-wildlife-adventure.md
         - Kids TV:
-            - Peppa Pig: notes/watch/kids-tv/peppa-pig.md
+            - Peppa Pig: notes/kids-tv/peppa-pig.md
         # - Satori Reader:
-        #     - Kiki-Mimi Radio: notes/read/satori-reader/kiki-mimi-radio.md
+        #     - Kiki-Mimi Radio: notes/satori-reader/kiki-mimi-radio.md
         - Music:
-            - Kenta Kiritani: notes/listen/music/kenta-kiritani.md
-            - Kyu Sakamoto: notes/listen/music/kyu-sakamoto.md
+            - Kenta Kiritani: notes/music/kenta-kiritani.md
+            - Kyu Sakamoto: notes/music/kyu-sakamoto.md
     - Resources: resources.md
     - Kanji:
         - "<span>1st Grade&nbsp;<mark class=\"cited\">WIP</mark></span>": kanji/grade1.md

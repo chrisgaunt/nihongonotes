@@ -45,7 +45,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1#soil-0030-unreviewed">soil</a></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/other#hang-0206-unreviewed">吊</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade7#hang-1117-unreviewed">掛</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>冖</span></span> <span class="kanji-details">cover <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -55,14 +55,15 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>亠</span></span> <span class="kanji-details">top hat, tophat <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>亠</span></span> <span class="kanji-details">top hat <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1#six-0008-unreviewed">六</a> <a href="/kanji/grade2#mingle-0102-unreviewed">交</a> <a href="/kanji/grade2#tall-0185-unreviewed">高</a> </span></p>
 </div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span></span></span> <span class="kanji-details">schoolhouse <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/schoolhouse.png"></span> <span class="kanji-details">schoolhouse <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -75,7 +76,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3#ball-1099-unreviewed">球</a> <a href="/kanji/grade2#self-0081-unreviewed">自</a> <a href="/kanji/grade3#facing-yonder-0183-unreviewed">向</a> <a href="/kanji/grade4#from-0066-unreviewed">以</a> <a href="/kanji/grade6#good-1213-unreviewed">善</a> <a href="/kanji/other#pool-0168-unreviewed">勺</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1#ball-0073-unreviewed">玉</a> <a href="/kanji/grade2#self-0081-unreviewed">自</a> <a href="/kanji/grade3#facing-yonder-0183-unreviewed">向</a> <a href="/kanji/grade4#from-0066-unreviewed">以</a> <a href="/kanji/grade4#good-0285-unreviewed">良</a> <a href="/kanji/other#pool-0168-unreviewed">勺</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>𠆢</span></span> <span class="kanji-details">roof <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -91,10 +92,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#wide-0238-unreviewed">広</a> <a href="/kanji/grade2#strong-0423-unreviewed">強</a> <a href="/kanji/grade3#past-0138-unreviewed">去</a> <a href="/kanji/grade5#detain-1170-unreviewed">留</a> <a href="/kanji/grade6#-0237-unreviewed">私</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#public-0089-unreviewed">公</a> <a href="/kanji/grade2#wide-0238-unreviewed">広</a> <a href="/kanji/grade2#strong-0423-unreviewed">強</a> <a href="/kanji/grade3#past-0138-unreviewed">去</a> <a href="/kanji/grade5#detain-1170-unreviewed">留</a> <a href="/kanji/grade6#-0237-unreviewed">私</a> </span></p>
 </div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span></span></span> <span class="kanji-details">smushed nose <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/smushed-nose.png"></span> <span class="kanji-details">smushed nose <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -110,7 +111,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#company-0314-unreviewed">社</a> </span></p>
 </div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span></span></span> <span class="kanji-details">by one's side <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/by-ones-side.png"></span> <span class="kanji-details">by one's side <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -131,7 +132,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1#four-0006-unreviewed">四</a> <a href="/kanji/grade7#before-1222-unreviewed">曽</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1#four-0006-unreviewed">四</a> <a href="/kanji/grade1#before-0134-unreviewed">先</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>乚</span></span> <span class="kanji-details">hook <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -142,7 +143,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade4#from-0066-unreviewed">以</a> <a href="/kanji/grade6#milk-0160-unreviewed">乳</a> </span></p>
 </div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span></span></span> <span class="kanji-details">eel <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/eel.png"></span> <span class="kanji-details">eel <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -154,7 +155,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> spice, <a href="/kanji/grade1#tree-0028-unreviewed">tree</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1#stand-0067-unreviewed">stand</a>, <a href="/kanji/grade1#tree-0028-unreviewed">tree</a></p>
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#new-0275-unreviewed">新</a> <a href="/kanji/grade2#parent-0276-unreviewed">親</a> </span></p>
 </div>
 
@@ -182,7 +183,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#same-0182-unreviewed">同</a> <a href="/kanji/grade3#both-0177-unreviewed">両</a> <a href="/kanji/grade4#circumference-0304-unreviewed">周</a> <a href="/kanji/other#hill-0178-unreviewed">岡</a> </span></p>
 </div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span></span></span> <span class="kanji-details">tremor <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/tremor.png"></span> <span class="kanji-details">tremor <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -219,7 +220,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3#change-0120-unreviewed">化</a> <a href="/kanji/grade3#finger-0932-unreviewed">指</a> <a href="/kanji/grade7#compare-0693-unreviewed">較</a> <a href="/kanji/grade7#compare-0693-unreviewed">較</a> <a href="/kanji/grade7#mud-2117">泥</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3#change-0120-unreviewed">化</a> <a href="/kanji/grade3#finger-0932-unreviewed">指</a> <a href="/kanji/grade5#compare-0123-unreviewed">比</a> <a href="/kanji/grade5#compare-0123-unreviewed">比</a> <a href="/kanji/grade7#mud-2117">泥</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>豕</span></span> <span class="kanji-details">pig <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -230,7 +231,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/particles#house-0000-unreviewed">宀</a> <a href="/kanji/particles#pig-0000-unreviewed">豕</a> </span></p>
 </div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span></span></span> <span class="kanji-details">gun <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/gun.png"></span> <span class="kanji-details">gun <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -238,7 +239,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1#year-0117-unreviewed">年</a> <a href="/kanji/grade2#every-0105-unreviewed">毎</a> <a href="/kanji/grade2#noon-0115-unreviewed">午</a> <a href="/kanji/grade3#tribe-0568-unreviewed">族</a> <a href="/kanji/grade3#trip-0569-unreviewed">旅</a> <a href="/kanji/grade3#play-0570-unreviewed">遊</a> </span></p>
 </div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span></span></span> <span class="kanji-details">apron <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/apron.png"></span> <span class="kanji-details">apron <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -259,7 +260,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1#sun-0001-unreviewed">sun</a>, <a href="/kanji/particles#skirt-0000-unreviewed">skirt</a></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3#silver-0283-unreviewed">銀</a> <a href="/kanji/grade6#good-1213-unreviewed">善</a> <a href="/kanji/grade5#eyeball-1092-unreviewed">眼</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3#silver-0283-unreviewed">銀</a> <a href="/kanji/grade4#good-0285-unreviewed">良</a> <a href="/kanji/grade5#eyeball-1092-unreviewed">眼</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>𧘇</span></span> <span class="kanji-details">skirt <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -275,7 +276,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade7#hold-0664-unreviewed">抱</a> <a href="/kanji/grade3#finger-0932-unreviewed">指</a> <a href="/kanji/other#i-0220-unreviewed">吾</a> <a href="/kanji/other#hang-0206-unreviewed">吊</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3#hold-0384-unreviewed">持</a> <a href="/kanji/grade3#finger-0932-unreviewed">指</a> <a href="/kanji/grade6#i-0221-unreviewed">我</a> <a href="/kanji/grade7#hang-1117-unreviewed">掛</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>卬</span></span> <span class="kanji-details">cat pirate <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -331,7 +332,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade7#spirit-2110-unreviewed">霊</a> <a href="/kanji/grade2#drawing-0298-unreviewed">図</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1#spirit-0126-unreviewed">気</a> <a href="/kanji/grade2#drawing-0298-unreviewed">図</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>㠯</span></span> <span class="kanji-details">bear <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -379,7 +380,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1#below-0040-unreviewed">下</a> <a href="/kanji/grade2#outside-0266-unreviewed">外</a> <a href="/kanji/other#hang-0206-unreviewed">吊</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1#below-0040-unreviewed">下</a> <a href="/kanji/grade2#outside-0266-unreviewed">外</a> <a href="/kanji/grade7#hang-1117-unreviewed">掛</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>气</span></span> <span class="kanji-details">air <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -387,7 +388,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade7#spirit-2110-unreviewed">霊</a> <a href="/kanji/grade6#steam-0960-unreviewed">蒸</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1#spirit-0126-unreviewed">気</a> <a href="/kanji/grade2#steam-0127-unreviewed">汽</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>丨</span></span> <span class="kanji-details">stick <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -402,7 +403,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#drawing-0298-unreviewed">図</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#drawing-0176-unreviewed">画</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>匚</span></span> <span class="kanji-details">cage <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -427,12 +428,12 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade5#paragraph-0166-unreviewed">句</a> <a href="/kanji/grade7#in-season-0167-unreviewed">旬</a> <a href="/kanji/other#pool-0168-unreviewed">勺</a> </span></p>
 </div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>卩</span></span> <span class="kanji-details">seal <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/seal.png"></span> <span class="kanji-details">seal <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
-<p class="card"><strong>Variant</strong><br> <span class="japanese large">㔾</span></p>
+<p class="card"><strong>Variant</strong><br> <span class="japanese large">卩㔾</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade4#orders-0229-unreviewed">令</a> <a href="/kanji/particles#seal-0000-unreviewed">卩</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade4#orders-0229-unreviewed">令</a> <a href="/kanji/particles#seal-0000-unreviewed"></a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>厂</span></span> <span class="kanji-details">cliff <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -440,7 +441,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">广</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#expression-0180-unreviewed">顔</a> <a href="/kanji/grade2#original-0208-unreviewed">原</a> <a href="/kanji/grade2#wide-0238-unreviewed">広</a> <a href="/kanji/grade4#give-birth-0181-unreviewed">産</a> <a href="/kanji/grade4#government-office-0247-unreviewed">府</a> <a href="/kanji/grade5#pressure-0186-unreviewed">圧</a> <a href="/kanji/grade5#equipprovide-0715-unreviewed">備</a> <a href="/kanji/grade7#abandon-0606-unreviewed">棄</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#expression-0180-unreviewed">顔</a> <a href="/kanji/grade2#original-0208-unreviewed">原</a> <a href="/kanji/grade2#wide-0238-unreviewed">広</a> <a href="/kanji/grade4#give-birth-0181-unreviewed">産</a> <a href="/kanji/grade4#government-office-0247-unreviewed">府</a> <a href="/kanji/grade5#pressure-0186-unreviewed">圧</a> <a href="/kanji/grade5#equipprovide-0715-unreviewed">備</a> <a href="/kanji/grade7#abandon-0149-unreviewed">廃</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>幺</span></span> <span class="kanji-details">spiderman <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -495,7 +496,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade6#steam-0960-unreviewed">蒸</a> <a href="/kanji/grade2#pond-0188-unreviewed">池</a> <a href="/kanji/grade6#warm-1127-unreviewed">暖</a> <a href="/kanji/grade3#lake-0259-unreviewed">湖</a> <a href="/kanji/grade3#next-0278-unreviewed">次</a> <a href="/kanji/grade4#method-0139-unreviewed">法</a> <a href="/kanji/grade4#full-0179-unreviewed">満</a> <a href="/kanji/grade5#semi-0714-unreviewed">準</a> <a href="/kanji/grade6#wash-0135-unreviewed">洗</a> <a href="/kanji/grade6#tide-0146-unreviewed">潮</a> <a href="/kanji/grade6#spring-0207-unreviewed">泉</a> <a href="/kanji/grade6#source-0209-unreviewed">源</a> <a href="/kanji/grade7#moist-1491-unreviewed">潤</a> <a href="/kanji/grade7#overnight-1183-unreviewed">泊</a> <a href="/kanji/grade7#mud-2117">泥</a> <a href="/kanji/other#evening-tide-0268-unreviewed">汐</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#steam-0127-unreviewed">汽</a> <a href="/kanji/grade2#pond-0188-unreviewed">池</a> <a href="/kanji/grade3#warm-0199-unreviewed">温</a> <a href="/kanji/grade3#lake-0259-unreviewed">湖</a> <a href="/kanji/grade3#next-0278-unreviewed">次</a> <a href="/kanji/grade4#method-0139-unreviewed">法</a> <a href="/kanji/grade4#full-0179-unreviewed">満</a> <a href="/kanji/grade5#semi-0714-unreviewed">準</a> <a href="/kanji/grade6#wash-0135-unreviewed">洗</a> <a href="/kanji/grade6#tide-0146-unreviewed">潮</a> <a href="/kanji/grade6#spring-0207-unreviewed">泉</a> <a href="/kanji/grade6#source-0209-unreviewed">源</a> <a href="/kanji/grade7#moist-0200-unreviewed">湿</a> <a href="/kanji/grade7#overnight-1183-unreviewed">泊</a> <a href="/kanji/grade7#mud-2117">泥</a> <a href="/kanji/other#evening-tide-0268-unreviewed">汐</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>丬</span></span> <span class="kanji-details">icicle <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -542,7 +543,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/other#i-0220-unreviewed">吾</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade6#i-0221-unreviewed">我</a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>戊</span></span> <span class="kanji-details">double-ended spear <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -557,7 +558,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#long-0091-unreviewed">長</a> <a href="/kanji/grade5#make-0699-unreviewed">造</a> <a href="/kanji/grade4#yesterday-0153-unreviewed">昨</a> <a href="/kanji/particles#seal-0000-unreviewed">卩</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#long-0091-unreviewed">長</a> <a href="/kanji/grade2#make-0152-unreviewed">作</a> <a href="/kanji/grade4#yesterday-0153-unreviewed">昨</a> <a href="/kanji/particles#seal-0000-unreviewed"></a> </span></p>
 </div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>毌</span></span> <span class="kanji-details">mother <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
@@ -665,11 +666,11 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2#tall-0185-unreviewed">高</a> <a href="/kanji/grade3#facing-yonder-0183-unreviewed">向</a> <a href="/kanji/grade7#furthermore-0184-unreviewed">尚</a> </span></p>
 </div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span></span></span> <span class="kanji-details">spikes <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/spikes.png"></span> <span class="kanji-details">spikes <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">业</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade7#moist-1491-unreviewed">潤</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3#work-business-industry-0498-unreviewed">業</a> <a href="/kanji/grade7#moist-0200-unreviewed">湿</a> </span></p>
 </div>
 
