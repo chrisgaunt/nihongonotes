@@ -8,6 +8,8 @@ description: A list of kanji particles, used to help remember the kanji
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
+<div class="progress"><div class="headings"><div>0/85 particles reviewed</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>彳</span></span> <span class="kanji-details">flash <br><small>0000 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">

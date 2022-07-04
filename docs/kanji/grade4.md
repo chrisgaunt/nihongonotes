@@ -8,6 +8,8 @@ description: A list of the 4th grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
+<div class="progress"><div class="headings"><div>0/200 kanji reviewed</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>無</span></span> <span class="kanji-details">without <br><small>0048 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -224,7 +226,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>印</span></span> <span class="kanji-details">seal <br><small>0231 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
-<p class="card"><strong>Variant</strong><br> <span class="japanese">卩</span></p>
+<p class="card"><strong>Variant</strong><br> <span class="japanese large">卩</span></p>
 <p class="card"><strong>Particles</strong><br> <a href="/kanji/particles#key-0000-unreviewed">key</a>, <a href="/kanji/particles#seal-0000-unreviewed">seal</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese"><mark class="critic">イン</mark></span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">しるし ・ -じるし</span></p>
@@ -962,7 +964,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>衣</span></span> <span class="kanji-details">garment <br><small>0700 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
-<p class="card"><strong>Variant</strong><br> <span class="japanese">衤</span></p>
+<p class="card"><strong>Variant</strong><br> <span class="japanese large">衤</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese"><mark class="critic">イ</mark> ・ エ*</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ころも</span></p>

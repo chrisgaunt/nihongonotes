@@ -8,6 +8,8 @@ description: A list of the 6th grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
+<div class="progress"><div class="headings"><div>0/181 kanji reviewed</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>宝</span></span> <span class="kanji-details">treasure <br><small>0074 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -274,7 +276,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>己</span></span> <span class="kanji-details">oneself <br><small>0426 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
-<p class="card"><strong>Variant</strong><br> <span class="japanese">已</span></p>
+<p class="card"><strong>Variant</strong><br> <span class="japanese large">已</span></p>
 <p class="card"><strong>Particles</strong><br> <a href="/kanji/grade6#oneself-0426-unreviewed">oneself</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese"><mark class="critic">コ ・ キ</mark></span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">おのれ</span></p>

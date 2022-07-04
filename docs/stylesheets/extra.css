@@ -15,6 +15,27 @@
     color: #CCCCCC;
 }
 
+.progress .headings {
+    display: flex;
+    justify-content: space-between;
+    color: var(--md-primary-fg-color);
+    font-weight: bold;
+}
+
+.progress .bar {
+    width: 100%;
+    height: 1rem;
+    background-color: #e5e7eb;
+    border-radius: 9999px;
+}
+
+.progress .percent {
+    width: 0;
+    height: 1rem;
+    background-color: var(--md-primary-fg-color);
+    border-radius: 9999px;
+}
+
 .japanese {
     font-family: 'Sawarabi Gothic', sans-serif;
 }
@@ -43,8 +64,8 @@
 
 .kanji span {
     position: absolute;
-    top: 0.3rem;
-    left: 1rem;
+    top: 8px;
+    left: 22px;
 }
 
 .kanji img {

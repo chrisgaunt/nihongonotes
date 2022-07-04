@@ -8,6 +8,8 @@ description: A list of the 5th grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
+<div class="progress"><div class="headings"><div>0/185 kanji reviewed</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>舌</span></span> <span class="kanji-details">tongue <br><small>0052 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -21,7 +23,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2#ground-0187-unreviewed">ground</a>, <a href="/kanji/particles#ceremony-0000-unreviewed">ceremony</a>, <a href="/kanji/grade4#stop-1424-unreviewed">stop</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade7#one-2115-unreviewed">one</a>, <a href="/kanji/particles#ceremony-0000-unreviewed">ceremony</a>, <a href="/kanji/grade4#stop-1424-unreviewed">stop</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese"><mark class="critic">ブ</mark> ・ ム</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>

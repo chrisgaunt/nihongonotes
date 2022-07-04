@@ -8,6 +8,8 @@ description: A list of the 3rd grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
+<div class="progress"><div class="headings"><div>0/200 kanji reviewed</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>定</span></span> <span class="kanji-details">fix <br><small>0045 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">

@@ -10,6 +10,8 @@ These kanji are part of the KKLC list but do not appear in the jōyō kanji list
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
+<div class="progress"><div class="headings"><div>0/206 kanji reviewed</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>頁</span></span> <span class="kanji-details">gooey-duck ・ page <br><small>0156 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -49,7 +51,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>爫</span></span> <span class="kanji-details">claw <br><small>0201 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
-<p class="card"><strong>Variant</strong><br> <span class="japanese">爪</span></p>
+<p class="card"><strong>Variant</strong><br> <span class="japanese large">爪</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つめ ・ つま-</span></p>
@@ -1021,7 +1023,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>乃</span></span> <span class="kanji-details">stairs <br><small>1754 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
-<p class="card"><strong>Variant</strong><br> <span class="japanese">の</span></p>
+<p class="card"><strong>Variant</strong><br> <span class="japanese large">の</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese"><mark class="critic">ナイ</mark> ・ ダイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">の ・ すなわ.ち</span></p>
