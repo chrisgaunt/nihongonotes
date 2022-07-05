@@ -49,7 +49,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#water-p009">water</a>, <a href="/kanji/grade7/#before-1222-unreviewed">before</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#water-p009">water</a>, <a href="/kanji/grade72/#before-1222-unreviewed">before</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">セン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あら.う</span></p>
 </div>
@@ -71,7 +71,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/other/#claw-0201-unreviewed">claw</a>, <a href="/kanji/grade7/#child-2148-unreviewed">child</a>, <a href="/kanji/particles/#hook-p008">hook</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/other/#claw-0201-unreviewed">claw</a>, <a href="/kanji/grade75/#child-2148-unreviewed">child</a>, <a href="/kanji/particles/#hook-p008">hook</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ニュウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ちち ・ ち</span></p>
 </div>
@@ -557,7 +557,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#soil-0030">soil</a>, <a href="/kanji/particles/#slash-p006">slash</a>, <a href="/kanji/grade7/#child-2148-unreviewed">child</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#soil-0030">soil</a>, <a href="/kanji/particles/#slash-p006">slash</a>, <a href="/kanji/grade75/#child-2148-unreviewed">child</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">コウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>

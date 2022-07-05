@@ -566,7 +566,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade7/#child-2148-unreviewed">child</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade75/#child-2148-unreviewed">child</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">シ ・ ス</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">こ ・ -こ ・ -.っこ</span></p>
 </div>
@@ -588,7 +588,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#schoolhouse-p029">schoolhouse</a>, <a href="/kanji/grade7/#child-2148-unreviewed">child</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#schoolhouse-p029">schoolhouse</a>, <a href="/kanji/grade75/#child-2148-unreviewed">child</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ガク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まな.ぶ</span></p>
 </div>
@@ -819,7 +819,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade7/#insect-1425-unreviewed">insect</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade73/#insect-1425-unreviewed">insect</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">チュウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">むし</span></p>
 </div>

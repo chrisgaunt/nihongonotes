@@ -16,7 +16,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade7/#crotch-1990-unreviewed">crotch</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade75/#crotch-1990-unreviewed">crotch</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">また ・ また- ・ また.の-</span></p>
 </div>
@@ -137,7 +137,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#gold-0029">gold</a>, <a href="/kanji/grade1/#white-0076-unreviewed">white</a>, <a href="/kanji/grade7/#towel-0203-unreviewed">towel</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#gold-0029">gold</a>, <a href="/kanji/grade1/#white-0076-unreviewed">white</a>, <a href="/kanji/grade71/#towel-0203-unreviewed">towel</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">キン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">にしき</span></p>
 </div>
@@ -170,7 +170,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade6/#attain-0250-unreviewed">attain</a>, <a href="/kanji/particles/#dominatrix-p045">dominatrix</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade6/#attain-0250-unreviewed">attain</a>, <a href="/kanji/particles/#chair-shot-p045">chair shot</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">チ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">いた.す</span></p>
 </div>
@@ -181,7 +181,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#bamboo-p081">bamboo</a>, <a href="/kanji/grade7/#hard-0891-unreviewed">hard</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#bamboo-p081">bamboo</a>, <a href="/kanji/grade71/#hard-0891-unreviewed">hard</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">カ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>

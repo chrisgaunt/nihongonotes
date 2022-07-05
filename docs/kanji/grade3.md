@@ -29,7 +29,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#ear-0057">ear</a>, <a href="/kanji/grade7/#crotch-1990-unreviewed">crotch</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#ear-0057">ear</a>, <a href="/kanji/grade75/#crotch-1990-unreviewed">crotch</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">シュ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">と.る ・ と.り ・ と.り-とり- ・ -ど.り</span></p>
 </div>
@@ -387,7 +387,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#door-0248-unreviewed">door</a>, <a href="/kanji/grade7/#axe-0193-unreviewed">axe</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#door-0248-unreviewed">door</a>, <a href="/kanji/grade71/#axe-0193-unreviewed">axe</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ショ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ところ ・ -ところ ・ どころ</span></p>
 </div>
@@ -1223,7 +1223,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#road-p040">road</a>, <a href="/kanji/grade2/#direction-0173-unreviewed">direction</a>, <a href="/kanji/particles/#gun-p004">gun</a>, <a href="/kanji/grade7/#child-2148-unreviewed">child</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#road-p040">road</a>, <a href="/kanji/grade2/#direction-0173-unreviewed">direction</a>, <a href="/kanji/particles/#gun-p004">gun</a>, <a href="/kanji/grade75/#child-2148-unreviewed">child</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ユウ ・ ユ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あそ.ぶ ・ あそ.ばす</span></p>
 </div>
@@ -1311,7 +1311,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#rice-field-0020">rice field</a>, <a href="/kanji/grade7/#concern-oneself-0611-unreviewed">concern oneself</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#rice-field-0020">rice field</a>, <a href="/kanji/grade71/#concern-oneself-0611-unreviewed">concern oneself</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">カイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -1454,7 +1454,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#remains-p061">remains</a>, <a href="/kanji/grade7/#sword-1033-unreviewed">sword</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#remains-p061">remains</a>, <a href="/kanji/grade72/#sword-1033-unreviewed">sword</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">レツ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -1874,7 +1874,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade7/#excuse-1272-unreviewed">excuse</a>, <a href="/kanji/grade1/#power-0084-unreviewed">power</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade72/#excuse-1272-unreviewed">excuse</a>, <a href="/kanji/grade1/#power-0084-unreviewed">power</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ベン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>

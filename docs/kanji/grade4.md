@@ -86,7 +86,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#mouth-0019">mouth</a>, <a href="/kanji/grade1/#power-0084-unreviewed">power</a>, <a href="/kanji/grade7/#sword-1033-unreviewed">sword</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#mouth-0019">mouth</a>, <a href="/kanji/grade1/#power-0084-unreviewed">power</a>, <a href="/kanji/grade72/#sword-1033-unreviewed">sword</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ベツ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">わか.れる</span></p>
 </div>
@@ -97,7 +97,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#woman-0093-unreviewed">woman</a>, <a href="/kanji/grade7/#child-2148-unreviewed">child</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#woman-0093-unreviewed">woman</a>, <a href="/kanji/grade75/#child-2148-unreviewed">child</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">コウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">この.む ・ す.く ・ よ.い* ・ い.い*</span></p>
 </div>
@@ -198,7 +198,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade7/#sword-1033-unreviewed">sword</a>, <a href="/kanji/particles/#road-p040">road</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade72/#sword-1033-unreviewed">sword</a>, <a href="/kanji/particles/#road-p040">road</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ヘン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あた.り ・ -べ</span></p>
 </div>
@@ -297,7 +297,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#cliff-p027">cliff</a>, <a href="/kanji/grade7/#attach-2214-unreviewed">attach</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#cliff-p027">cliff</a>, <a href="/kanji/grade76/#attach-2214-unreviewed">attach</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">フ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -1914,7 +1914,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade7/#spicy-1462-unreviewed">spicy</a>, <a href="/kanji/grade5/#tongue-0052">tongue</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade73/#spicy-1462-unreviewed">spicy</a>, <a href="/kanji/grade5/#tongue-0052">tongue</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ジ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">や.める</span></p>
 </div>
