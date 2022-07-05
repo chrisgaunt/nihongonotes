@@ -46,6 +46,8 @@ theme:
         - navigation.sections
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
 extra:
     # generator: false
     analytics:
