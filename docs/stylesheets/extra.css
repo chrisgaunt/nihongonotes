@@ -15,6 +15,10 @@
     color: #CCCCCC;
 }
 
+.progress {
+    margin-bottom: 1rem;
+}
+
 .progress .headings {
     display: flex;
     justify-content: space-between;
@@ -34,6 +38,13 @@
     height: 1rem;
     background-color: var(--md-primary-fg-color);
     border-radius: 9999px;
+}
+
+.progress--contexts .headings {
+    color: #ab47bd;
+}
+.progress--contexts .percent {
+    background-color: #ab47bd;
 }
 
 .japanese {

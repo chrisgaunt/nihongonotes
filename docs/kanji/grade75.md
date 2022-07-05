@@ -8,9 +8,9 @@ description: A list of the high school kanji, ordered by the Kodansha Kanji Lear
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>0/280 keywords reviewed</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress"><div class="headings"><div>0/287 keywords reviewed</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>1/280 kanji contexts</div><div>1 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress progress--contexts"><div class="headings"><div>1/287 kanji contexts</div><div>1 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>露</span></span> <span class="kanji-details">dew ・ expose <br><small>1907 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -3101,4 +3101,81 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/渓%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=渓" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>璽</span></span> <span class="kanji-details">imperial seal <br><small>2288 <mark class="cited">Unreviewed</mark></small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ジ</span></p>
+<p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/璽%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=璽" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>爽</span></span> <span class="kanji-details">refreshing <br><small>2289 <mark class="cited">Unreviewed</mark></small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ソウ</span></p>
+<p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">さわ.やか</span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/爽%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=爽" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>桑</span></span> <span class="kanji-details">mulberry <br><small>2291 <mark class="cited">Unreviewed</mark></small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ソウ</span></p>
+<p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">くわ</span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/桑%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=桑" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>蚊</span></span> <span class="kanji-details">mosquito <br><small>2295 <mark class="cited">Unreviewed</mark></small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong class="japanese">音読み</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">か</span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/蚊%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=蚊" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>蛇</span></span> <span class="kanji-details">snake <br><small>2297 <mark class="cited">Unreviewed</mark></small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ジャ ・ ダ</span></p>
+<p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">へび</span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/蛇%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=蛇" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>繭</span></span> <span class="kanji-details">cocoon <br><small>2298 <mark class="cited">Unreviewed</mark></small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ケン</span></p>
+<p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まゆ</span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/繭%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=繭" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>虹</span></span> <span class="kanji-details">rainbow <br><small>2300 <mark class="cited">Unreviewed</mark></small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">コウ*</span></p>
+<p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">にじ</span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/虹%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=虹" target="_blank">wanikani.com</a></small></div>
 
