@@ -1,5 +1,7 @@
+---
 title: Learn Japanese with Peppa Pig
 description: Peppa Pig in Japanese is great comprehensible input for immersion learning
+---
 
 # Peppa Pig - Anime for kids <br><small>ペッパピッグ | 子供向けアニメ</small>
 

@@ -9,16 +9,7 @@ This page lists out the immersion and study path I'm taking to learn Japanese. I
 
 ### Resources
 
-??? success "Set up nihongonotes.com" 
-
-    - [x] Hope page
-    - [x] About page
-    - [x] Log section
-    - [x] Path section
-    - [x] Watch section
-    - [x] Listen section
-    - [x] Read section
-    - [x] Play section2
+!!! success "Set up nihongonotes.com"
 
 I've previously fumbled through Genki I and part of Genki II, but to consider them done I'm powering through them one last time.
 
