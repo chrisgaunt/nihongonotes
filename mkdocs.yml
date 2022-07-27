@@ -19,18 +19,18 @@ nav:
             - Fortnite: notes/games/fortnite.md
     - Resources: resources.md
     - Kanji:
-        - "<span>1st Grade Kanji&nbsp;<mark class=\"cited\">49%</mark></span>": kanji/grade1.md
-        - "<span>2nd Grade Kanji&nbsp;<mark class=\"cited\">8%</mark></span>": kanji/grade2.md
-        - "<span>3rd Grade Kanji&nbsp;<mark class=\"cited\">1%</mark></span>": kanji/grade3.md
-        - "<span>4th Grade Kanji&nbsp;<mark class=\"cited\">1%</mark></span>": kanji/grade4.md
-        - "<span>5th Grade Kanji&nbsp;<mark class=\"cited\">1%</mark></span>": kanji/grade5.md
-        - "<span>6th Grade Kanji&nbsp;<mark class=\"cited\">0%</mark></span>": kanji/grade6.md
-        - "<span>High School Kanji (1/5)&nbsp;<mark class=\"cited\">0%</mark></span>": kanji/grade71.md
+        - "<span>1st Grade Kanji&nbsp;<mark class=\"cited\">85%</mark></span>": kanji/grade1.md
+        - "<span>2nd Grade Kanji&nbsp;<mark class=\"cited\">29%</mark></span>": kanji/grade2.md
+        - "<span>3rd Grade Kanji&nbsp;<mark class=\"cited\">9%</mark></span>": kanji/grade3.md
+        - "<span>4th Grade Kanji&nbsp;<mark class=\"cited\">6%</mark></span>": kanji/grade4.md
+        - "<span>5th Grade Kanji&nbsp;<mark class=\"cited\">4%</mark></span>": kanji/grade5.md
+        - "<span>6th Grade Kanji&nbsp;<mark class=\"cited\">3%</mark></span>": kanji/grade6.md
+        - "<span>High School Kanji (1/5)&nbsp;<mark class=\"cited\">2%</mark></span>": kanji/grade71.md
         - "<span>High School Kanji (2/5)&nbsp;<mark class=\"cited\">0%</mark></span>": kanji/grade72.md
         - "<span>High School Kanji (3/5)&nbsp;<mark class=\"cited\">0%</mark></span>": kanji/grade73.md
         - "<span>High School Kanji (4/5)&nbsp;<mark class=\"cited\">0%</mark></span>": kanji/grade74.md
         - "<span>High School Kanji (5/5)&nbsp;<mark class=\"cited\">0%</mark></span>": kanji/grade75.md
-        - "<span>Other Kanji&nbsp;<mark class=\"cited\">0%</mark></span>": kanji/other.md
+        - "<span>Other Kanji&nbsp;<mark class=\"cited\">1%</mark></span>": kanji/other.md
         - "<span>Particles</span>": kanji/particles.md
     - About: about.md
 theme:

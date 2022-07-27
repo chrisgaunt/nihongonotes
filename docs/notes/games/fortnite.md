@@ -5,6 +5,50 @@ description: Fortnite has lots of repetitive phrases and will test your katakana
 
 # Fortnite <br><small>フォートナイト</small>
 
+## Common Phrases
+
+<table class="phrases">
+    <thead>
+        <tr>
+            <th>Phrase</th>
+            <th>Reading</th>
+            <th>Meaning</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>破壊する</td>
+            <td>はかい する</td>
+            <td>Destroy</td>
+        </tr>
+        <tr>
+            <td>修理する</td>
+            <td>しゅうり する</td>
+            <td>Repair</td>
+        </tr>
+        <tr>
+            <td>移動する</td>
+            <td>いどう する</td>
+            <td>Travel/Move</td>
+        </tr>
+        <tr>
+            <td>乗り物</td>
+            <td>のり もの</td>
+            <td>Vehicle</td>
+        </tr>
+        <tr>
+            <td>乗りながら</td>
+            <td>のり ながら</td>
+            <td>Whilst riding</td>
+        </tr>
+        <tr>
+            <td>敵</td>
+            <td>てき</td>
+            <td>Opponent</td>
+        </tr>
+    </tbody>
+</table>
+
 ## チャプター3 シーズン2
 
 ### デイリークエスト

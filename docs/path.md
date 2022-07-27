@@ -7,32 +7,22 @@ This page lists out the immersion and study path I'm taking to learn Japanese. I
 
 ## July 2022 - <small>Rebuilding foundations</small>
 
-### Resources
-
 !!! success "Set up nihongonotes.com"
 
-I've previously fumbled through Genki I and part of Genki II, but to consider them done I'm powering through them one last time.
+<!-- ???+ success "Immersion"
+
+    I started logging immersion towards the end of July
+
+    | Date      | Description                          |
+    | ----------- | ------------------------------------ |
+    | 26/07/2022 | ペッパピッグ - 泥の水たまり</a> :relaxed: | -->
+
+I've previously fumbled through various grammar resources, but to consider them done I'm powering through them one last time. I'm taking [notes](/notes/grammar) so I can quickly refer to them in future (and ditch the books!).
 
 --8<-- "includes/resources/001_genki.md"
 
 --8<-- "includes/resources/002_organic_japanese.md"
 
-### Immersion
-
---8<-- "includes/resources/002_peppa_pig.md"
-
-### Activities
-
-* Watched <a href="https://www.youtube.com/watch?v=O4vG1_Sa9VE&list=PLlojrgR2BiEdK3RL-amYF-nQ5y5LwhUlt" target="_blank">【マインクラフト】ヒカキンのマイクラ実況 Part1 いきなりまさかの展開 !?</a> :relaxed:
-* Watched <a href="https://www.youtube.com/watch?v=GZutpd2e2kU" target="_blank">【フォートナイト】新シーズン初見でビクロイするまで終われませんしたら敵強すぎてかつてない戦いにw【チャプター3 シーズン3】【FORTNITE】</a> :relaxed:
-
-
-## August 2022 - <small>Breaking into immersion</small>
-
-### Resources
-
---8<-- "includes/resources/004_quartet.md"
-
---8<-- "includes/resources/003_satori_reader_kiki_mimi_radio.md"
+<hr>
 
 --8<-- "includes/emoji-key.md"

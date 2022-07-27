@@ -103,6 +103,39 @@ blockquote.story {
     margin-left: 1.4rem;
 }
 
+table.phrases {
+    background-color: var(--md-default-bg-color);
+    border: 0.05rem solid var(--md-typeset-table-color);
+    border-radius: 0.1rem;
+    display: inline-block;
+    max-width: 100%;
+    overflow: auto;
+    touch-action: auto;
+}
+
+table.phrases th {
+    font-weight: bold;
+    text-align: left;
+    padding: 1em 1.25em;
+    vertical-align: top;
+}
+
+table.phrases tr {
+    transition: background-color 125ms;
+}
+
+table.phrases tr:hover {
+    background-color: rgba(0,0,0,.035);
+    box-shadow: 0 0.05rem 0 var(--md-default-bg-color) inset;
+}
+
+table.phrases td {
+    text-align: left;
+    padding: 1em 1.25em;
+    vertical-align: top;
+    border-top: 0.05rem solid var(--md-typeset-table-color);
+}
+
 /* Adminitions */
 .md-typeset .admonition {
     box-shadow: none;
