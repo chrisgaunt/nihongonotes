@@ -64,31 +64,147 @@ Nouns are words that represent people, places or things.
 > あきらが日本人だ  
 > *Akira is Japanese*
 
-#### ～い Adjectives
+#### Adjectives
 
 Adjectives are words that describe nouns.
+
+### ～い 
 
 >りんごが赤い  
 >*The apple is red*
 
 赤い = あか (Red) ＋ い (Is)
 
+>赤いりんごがおいしい  
+>*Red apples are delicious*
+
+### ～う 
+
+>少女が歌った  
+>*The girl who sang*
+
+>歌った少女が寝ている  
+>*The girl who sang is sleeping*
+
+### ～だ (な adjectives)
+
+Replace だ with な
+
+>犬がやんちゃだ  
+>*The bad dog*
+
+>やんちゃな犬が寝ている  
+>*The bad dog is sleeping*
+
+### の
+
+>ゼルダの伝説  
+>*The legend of Zelda*
+
+>伝説の戦士  
+>*Legendary warrior*
+
 ## Particles
 
 ### Noun+が (Subject)
+
+[Tokini Andy Video](https://www.youtube.com/watch?v=ytjRoTwWnzw&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=17)
 
 ### Noun+は (Topic)
 
 ### Noun+を (Object)
 
-### Noun+に (Indirect Object/Direction)
+### Noun+で (Utilisation)
+
+[Tokini Andy Video](https://www.youtube.com/watch?v=a4Ia0ha5l7Q&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=14)
+
+### Noun+に (Indirect Object)
+
+[Tokini Andy Video](https://www.youtube.com/watch?v=dExn1AygbpQ&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=15)
+
+Things done to someone  
+友達に手紙を書きます
+
+Things done to you or for you  
+お母さんにケーキを買ってもらった
+
+### Noun+に・へ (Direction/Movement/Location)
+
+Interchangable with へ
+
+日本にいきます  
+日本へいきます
+
+紙に書きます  
+紙へ書きます
+
+### Time+に
+
+If the time is absolute it requires に, such as "On Monday".  
+Otherwise に is not required e.g. "Today", "Tomorrow"
 
 ### Noun+も (Even/Also)
 
+## Verb Conjugation
+
+### いる・える (ichidan)
+
+When conjugating just swap out the る
+
+### う (godan)
+
+[Tokini Andy video](https://www.youtube.com/watch?v=UHo3qUb79No)
+
+#### う・つ・る
+
+Replace う、つ or る with って
+
+笑う→笑って  
+持つ→持って  
+取る→取って
+
+If there is no い or え sound before it, verbs that end in a る are also godan verbs
+
+#### ぬ・ぶ・め
+
+Replace ぬ・ぶ・め with んで
+
+死ぬ→死んで  
+飲む→飲んで  
+遊ぶ→遊んで
+
+### く・ぐ
+
+Replace く with いて  
+Replace ぐ with いで
+
+歩く→歩いて  
+泳ぐ→泳いで
+
+### す
+
+Replace す with して
+
+話す→話して
+
+### くる・する (irregular)
+
+Replace くる with きて
+Replace する with して
+Replace いく with いって
+
 ## Tense
 
-WIP
+Non-past tense (dictionary form) defaults to future tense.
 
-## Conjugation
+>たべる  
+>*I will eat.*
 
-WIP
+Dictionary form can seem impolite, so instead use ます
+
+>たべます  
+>*I will eat.*
+
+## Adverbs
+
+[Tokini Andy Video](https://www.youtube.com/watch?v=Cw1NqcHrVQA&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=16)

@@ -3,14 +3,11 @@
     Run at 1.25x speed = 16 hours 11 minutes
     
     - [x] <a href="https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=1" target="_blank">Lesson 1</a>
-        - [x] Write up [summary](/notes/grammar/#sentence-endings)
     - [x] <a href="https://www.youtube.com/watch?v=P3n8n0u3LHA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=2" target="_blank">Lesson 2</a>
-        - [x] Write up [summary](/notes/grammar/#every-sentence-includes)
     - [x] <a href="https://www.youtube.com/watch?v=U9_T4eObNXg&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=3" target="_blank">Lesson 3</a>
-        - [x] Write up [summary](/notes/grammar/#noun-topic)
-    - [ ] <a href="https://www.youtube.com/watch?v=lU5rmrAORDY&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=4" target="_blank">Lesson 4</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=GzEVLMDC8nw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=5" target="_blank">Lesson 5</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=6" target="_blank">Lesson 6</a>
+    - [x] <a href="https://www.youtube.com/watch?v=lU5rmrAORDY&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=4" target="_blank">Lesson 4</a>
+    - [x] <a href="https://www.youtube.com/watch?v=GzEVLMDC8nw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=5" target="_blank">Lesson 5</a>
+    - [x] <a href="https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=6" target="_blank">Lesson 6</a>
     - [ ] <a href="https://www.youtube.com/watch?v=KIPhvGxp43c&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=7" target="_blank">Lesson 7</a>
     - [ ] <a href="https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8" target="_blank">Conjugations</a>
     - [ ] <a href="https://www.youtube.com/watch?v=uqlQYrE2oFM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=9" target="_blank">Lesson 8</a>

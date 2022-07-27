@@ -15,9 +15,8 @@
             - [x] <a href="https://www.youtube.com/watch?v=5IzL2Q5xgGQ&list=PLg9uYxuZf8x-8W6LZmKCfQ5PKrmOXXpFI" target="_blank">Organic Japanese の particle videos</a>
         - [x] か
             - [x] <a href="https://www.youtube.com/watch?v=O_jgRVfIIio&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=4" target="_blank">Tokini Andy Video</a>
-        - [x] Write up [summary](/notes/grammar)
 
-    ???+ success "Chapter 2"
+    ??? success "Chapter 2"
 
         - [x] Read book chapter
         - [x] Do reading exercise
@@ -36,31 +35,30 @@
             - [x] <a href="https://www.youtube.com/watch?v=WOCMO3kYhng&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=10" target="_blank">Tokini Andy Video</a>
         - [x] よ and ね
             - [x] <a href="https://www.youtube.com/watch?v=632_7NiSg0Y&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=11" target="_blank">Tokini Andy Video</a>
-        - [ ] Write up [summary](/notes/grammar)
 
-    ??? textbooks "Chapter 3"
+    ??? success "Chapter 3"
 
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
-        - [ ] vます
-            - [ ] <a href="https://www.youtube.com/watch?v=PhwLu18ssPk&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=12" target="_blank">Tokini Andy Video</a>
-        - [ ] を
-            - [ ] <a href="https://www.youtube.com/watch?v=k2lJ87F10Co&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=13" target="_blank">Tokini Andy Video</a>
-        - [ ] で
-            - [ ] <a href="https://www.youtube.com/watch?v=a4Ia0ha5l7Q&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=14" target="_blank">Tokini Andy Video</a>
-        - [ ] に, へ and で
-            - [ ] <a href="https://www.youtube.com/watch?v=dExn1AygbpQ&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=15" target="_blank">Tokini Andy Video</a>
-        - [ ] Frequency adverbs
-            - [ ] <a href="https://www.youtube.com/watch?v=Cw1NqcHrVQA&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=16" target="_blank">Tokini Andy Video</a>
-        - [ ] は and が
-            - [ ] <a href="https://www.youtube.com/watch?v=ytjRoTwWnzw&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=17" target="_blank">Tokini Andy Video</a>
+        - [ ] ~~Read book chapter~~
+        - [ ] ~~Do reading exercise~~
+        - [ ] ~~Do workbook exercises~~
+        - [x] vます
+            - [x] <a href="https://www.youtube.com/watch?v=PhwLu18ssPk&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=12" target="_blank">Tokini Andy Video</a>
+        - [x] を
+            - [x] <a href="https://www.youtube.com/watch?v=k2lJ87F10Co&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=13" target="_blank">Tokini Andy Video</a>
+        - [x] で
+            - [x] <a href="https://www.youtube.com/watch?v=a4Ia0ha5l7Q&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=14" target="_blank">Tokini Andy Video</a>
+        - [x] に, へ and で
+            - [x] <a href="https://www.youtube.com/watch?v=dExn1AygbpQ&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=15" target="_blank">Tokini Andy Video</a>
+        - [x] Frequency adverbs
+            - [x] <a href="https://www.youtube.com/watch?v=Cw1NqcHrVQA&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=16" target="_blank">Tokini Andy Video</a>
+        - [x] は and が
+            - [x] <a href="https://www.youtube.com/watch?v=ytjRoTwWnzw&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=17" target="_blank">Tokini Andy Video</a>
 
-    ??? textbooks "Chapter 4"
+    ???+ textbooks "Chapter 4"
 
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read book chapter~~
+        - [ ] ~~Do reading exercise~~
+        - [ ] ~~Do workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=knbAUQqFR68&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=4" target="_blank">Tokini Andy Video</a>
         - [ ] がある
         - [ ] がいる
@@ -72,9 +70,9 @@
         
     ??? textbooks "Chapter 5"
 
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read book chapter~~
+        - [ ] ~~Do reading exercise~~
+        - [ ] ~~Do workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=zCzxXKFTYps&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=5" target="_blank">Tokini Andy Video</a>
         - [ ] い-Adjectives
         - [ ] な-Adjectives
@@ -85,9 +83,9 @@
         
     ??? textbooks "Chapter 6"
 
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read book chapter~~
+        - [ ] ~~Do reading exercise~~
+        - [ ] ~~Do workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=whHaSkKf-jU&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=6" target="_blank">Tokini Andy Video</a>
         - [ ] Verb + て
         - [ ] てください
@@ -100,18 +98,18 @@
 
     ??? textbooks "Chapter 7"
 
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read book chapter~~
+        - [ ] ~~Do reading exercise~~
+        - [ ] ~~Do workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=l5zV-7bs2Eo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=7" target="_blank">Tokini Andy Video</a>
         - [ ] ている
         - [ ] Verb + にいく
 
     ??? textbooks "Chapter 8"
 
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read book chapter~~
+        - [ ] ~~Do reading exercise~~
+        - [ ] ~~Do workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=c1R--xAXleo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=8" target="_blank">Tokini Andy Video</a>
         - [ ] と
         - [ ] とおもう
@@ -124,9 +122,9 @@
 
     ??? textbooks "Chapter 9"
 
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read book chapter~~
+        - [ ] ~~Do reading exercise~~
+        - [ ] ~~Do workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=icQv6j3Hz_4&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=9" target="_blank">Tokini Andy Video</a>
         - [ ] じゃなかった
         - [ ] Verb［た・ている］+ Noun
@@ -135,9 +133,9 @@
 
     ??? textbooks "Chapter 10"
 
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read book chapter~~
+        - [ ] ~~Do reading exercise~~
+        - [ ] ~~Do workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=qaFX3x4G6mU&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=10" target="_blank">Tokini Andy Video</a>
         - [ ] より～のほうが
         - [ ] のなかで～がいちばん～
@@ -150,9 +148,9 @@
 
     ??? textbooks "Chapter 11"
 
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read book chapter~~
+        - [ ] ~~Do reading exercise~~
+        - [ ] ~~Do workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=1r-SZJ79MZo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=11" target="_blank">Tokini Andy Video</a>
         - [ ] たい
         - [ ] たり～たりする
@@ -162,9 +160,9 @@
 
     ??? textbooks "Chapter 12"
 
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read book chapter~~
+        - [ ] ~~Do reading exercise~~
+        - [ ] ~~Do workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=tCua2K28oPE&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=12" target="_blank">Tokini Andy Video</a>
         - [ ] ～んです
         - [ ] ないほうがいい
