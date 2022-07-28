@@ -632,7 +632,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#gun-p004">gun</a>, <a href="/kanji/grade2/#cow-0116-unreviewed">cow</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#gun-p004">gun</a>, <a href="/kanji/grade2/#cow-0116">cow</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ネン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">とし</span></p>
 </div>
@@ -687,7 +687,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#cow-0116-unreviewed">cow</a>, <a href="/kanji/particles/#human-legs-p001">human legs</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#cow-0116">cow</a>, <a href="/kanji/particles/#human-legs-p001">human legs</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">セン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">さき ・ ま.ず*</span></p>
 </div>
