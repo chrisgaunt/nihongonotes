@@ -10,7 +10,7 @@ These kanji are part of the KKLC list but do not appear in the jōyō kanji list
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>2/206 keywords reviewed</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
+<div class="progress"><div class="headings"><div>9/206 keywords reviewed</div><div>4%</div></div><div class="bar"><div class="percent" style="width:4%"></div></div></div>
 
 <div class="progress progress--contexts"><div class="headings"><div>0/206 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
@@ -25,7 +25,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/頁%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=頁" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>勺</span></span> <span class="kanji-details">pool <br><small>0168 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>勺</span></span> <span class="kanji-details">droplet <br><small>0168</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -36,7 +36,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/勺%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=勺" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>勿</span></span> <span class="kanji-details">must not <br><small>0171 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>勿</span></span> <span class="kanji-details">must not <br><small>0171</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -47,7 +47,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/勿%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=勿" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>岡</span></span> <span class="kanji-details">hill <br><small>0178 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>岡</span></span> <span class="kanji-details">hill ② <br><small>0178</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -69,7 +69,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/爫%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=爫" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>瓜</span></span> <span class="kanji-details">melon <br><small>0202 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>瓜</span></span> <span class="kanji-details">melon <br><small>0202</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -80,7 +80,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/瓜%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=瓜" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>吊</span></span> <span class="kanji-details">hang <br><small>0206 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>吊</span></span> <span class="kanji-details">hang <br><small>0206</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -91,7 +91,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/吊%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=吊" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>猪</span></span> <span class="kanji-details">wild boar <br><small>0217 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>猪</span></span> <span class="kanji-details">wild boar <br><small>0217</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -102,7 +102,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/猪%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=猪" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>吾</span></span> <span class="kanji-details">I <br><small>0220 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>吾</span></span> <span class="kanji-details">I <br><small>0220</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -762,7 +762,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/遥%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=遥" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>逢</span></span> <span class="kanji-details">meet <br><small>1379 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>逢</span></span> <span class="kanji-details">meet ② <br><small>1379 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>

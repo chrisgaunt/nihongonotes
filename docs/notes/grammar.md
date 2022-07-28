@@ -145,6 +145,14 @@ Otherwise に is not required e.g. "Today", "Tomorrow"
 
 ### Noun+も (Even/Also)
 
+#### にも
+
+Comes after a に sentence to say also did something
+僕は東京にいく。  
+長野にもいく。
+
+### と (and/with)
+
 ## Verb Conjugation
 
 ### いる・える (ichidan)
@@ -208,3 +216,29 @@ Dictionary form can seem impolite, so instead use ます
 ## Adverbs
 
 [Tokini Andy Video](https://www.youtube.com/watch?v=Cw1NqcHrVQA&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=16)
+
+## ある・いる　To have, To exist
+
+[Tokini Andy Video](https://www.youtube.com/watch?v=knbAUQqFR68&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=4&t=36s)
+
+ある (あります) = inanimate object
+いる (います) = animate object (people, animals, etc)
+
+### Negative form
+
+[Cure Dolly video](https://www.youtube.com/watch?v=KIPhvGxp43c&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)
+[Tae Kim link](https://guidetojapanese.org/learn/complete/negativeverbs)
+
+For ru-verbs: Drop the 「る」 and attach 「ない」    
+Example: 食べ~~る~~ + ない = 食べない
+
+For u-verbs that end in 「う」: Replace 「う」 with 「わ」 and attach 「ない」  
+Example: 買~~う~~ + わ + ない = 買わない
+
+For all other u-verbs: Replace the u-vowel sound with the a-vowel equivalent and attach 「ない」  
+Example: 待~~つ~~ + た = 待たない
+
+Exceptions:  
+する → しない  
+くる → こない  
+ある → ない (exception for this conjugation only, not an exception verb)

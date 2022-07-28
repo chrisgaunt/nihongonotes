@@ -54,21 +54,21 @@
         - [x] は and が
             - [x] <a href="https://www.youtube.com/watch?v=ytjRoTwWnzw&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=17" target="_blank">Tokini Andy Video</a>
 
-    ???+ textbooks "Chapter 4"
+    ??? success "Chapter 4"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~
         - [ ] ~~Do workbook exercises~~
-        - [ ] <a href="https://www.youtube.com/watch?v=knbAUQqFR68&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=4" target="_blank">Tokini Andy Video</a>
-        - [ ] がある
-        - [ ] がいる
-        - [ ] う - Verbs
-        - [ ] も
-        - [ ] と
-        - [ ] たくさん
-        - [ ] くらい
+        - [x] <a href="https://www.youtube.com/watch?v=knbAUQqFR68&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=4" target="_blank">Tokini Andy Video</a>
+        - [x] がある
+        - [x] がいる
+        - [x] う - Verbs
+        - [x] も
+        - [x] と
+        - [x] たくさん
+        - [x] くらい
         
-    ??? textbooks "Chapter 5"
+    ???+ textbooks "Chapter 5"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~
