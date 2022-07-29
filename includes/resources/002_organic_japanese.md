@@ -9,10 +9,10 @@
     - [x] <a href="https://www.youtube.com/watch?v=GzEVLMDC8nw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=5" target="_blank">Lesson 5</a>
     - [x] <a href="https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=6" target="_blank">Lesson 6</a>
     - [x] <a href="https://www.youtube.com/watch?v=KIPhvGxp43c&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=7" target="_blank">Lesson 7</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8" target="_blank">Conjugations</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=uqlQYrE2oFM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=9" target="_blank">Lesson 8</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=dwcTI9qvO-U&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=10" target="_blank">Lesson 8b</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=vk3aKqMQwhM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=11" target="_blank">Lesson 9</a>
+    - [x] <a href="https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8" target="_blank">Conjugations</a>
+    - [x] <a href="https://www.youtube.com/watch?v=uqlQYrE2oFM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=9" target="_blank">Lesson 8</a>
+    - [x] <a href="https://www.youtube.com/watch?v=dwcTI9qvO-U&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=10" target="_blank">Lesson 8b</a>
+    - [x] <a href="https://www.youtube.com/watch?v=vk3aKqMQwhM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=11" target="_blank">Lesson 9</a>
     - [ ] <a href="https://www.youtube.com/watch?v=qcOhHmU0znI&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12" target="_blank">Lesson 10</a>
     - [ ] <a href="https://www.youtube.com/watch?v=3X2ZCWazrDw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=13" target="_blank">Lesson 11</a>
     - [ ] <a href="https://www.youtube.com/watch?v=7dYT6Xf1BkA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=14" target="_blank">Lesson 12</a>

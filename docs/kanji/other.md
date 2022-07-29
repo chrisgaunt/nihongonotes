@@ -10,7 +10,7 @@ These kanji are part of the KKLC list but do not appear in the jōyō kanji list
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>9/206 keywords reviewed</div><div>4%</div></div><div class="bar"><div class="percent" style="width:4%"></div></div></div>
+<div class="progress"><div class="headings"><div>11/206 keywords reviewed</div><div>5%</div></div><div class="bar"><div class="percent" style="width:5%"></div></div></div>
 
 <div class="progress progress--contexts"><div class="headings"><div>0/206 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
@@ -95,7 +95,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#animal-p049">animal</a>, someone</p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#animal-p049">animal</a>, <a href="/kanji/grade3/#someone-0107">someone</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">チョ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">いのしし ・ い</span></p>
 </div>
@@ -113,22 +113,22 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/吾%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=吾" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>胡</span></span> <span class="kanji-details">barbarian <br><small>0258 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>胡</span></span> <span class="kanji-details">foreign <br><small>0258</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade4/#old-0629-unreviewed">old</a>, <a href="/kanji/grade1/#moon-0023">moon</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#old-0254">old</a>, <a href="/kanji/grade1/#moon-0023">moon</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">コ ・ ゴ ・ ウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/胡%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=胡" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>汐</span></span> <span class="kanji-details">(evening) tide <br><small>0268 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>汐</span></span> <span class="kanji-details">eventide <br><small>0268</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#water-p009">water</a>, <a href="/kanji/grade6/#evening-1275-unreviewed">evening</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#water-p009">water</a>, <a href="/kanji/grade1/#evening-0265">evening</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">セキ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">しお</span></p>
 </div>

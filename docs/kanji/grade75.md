@@ -172,7 +172,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade4/#bundle-0307-unreviewed">bundle</a>, gooey-duck</p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade4/#bundle-0307">bundle</a>, gooey-duck</p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ライ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">たの.む ・ たの.もしい ・ たよ.る</span></p>
 </div>
@@ -1290,7 +1290,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/嫌%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=嫌" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>謙</span></span> <span class="kanji-details">humble <br><small>2059 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>謙</span></span> <span class="kanji-details">modesty <br><small>2059 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>

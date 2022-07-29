@@ -8,7 +8,7 @@ description: A list of the 6th grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>12/181 keywords reviewed</div><div>7%</div></div><div class="bar"><div class="percent" style="width:7%"></div></div></div>
+<div class="progress"><div class="headings"><div>14/181 keywords reviewed</div><div>8%</div></div><div class="bar"><div class="percent" style="width:8%"></div></div></div>
 
 <div class="progress progress--contexts"><div class="headings"><div>0/181 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
@@ -144,9 +144,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/私%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=私" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>至</span></span> <span class="kanji-details">attain <br><small>0250 <mark class="cited">Unreviewed</mark></small></span></div>
-
-<blockquote class="story"><p>Smush nose + soil = attain the truffles!</p></blockquote>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>至</span></span> <span class="kanji-details">attain <br><small>0250</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -157,11 +155,11 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/至%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=至" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>党</span></span> <span class="kanji-details">party <br><small>0319 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>党</span></span> <span class="kanji-details">party <br><small>0319</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#schoolhouse-p029">schoolhouse</a>, <a href="/kanji/grade2/#older-brother-1193-unreviewed">older brother</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">トウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -1224,7 +1222,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/遺%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=遺" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>善</span></span> <span class="kanji-details">good <br><small>1213 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>善</span></span> <span class="kanji-details">virtuous <br><small>1213 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -1257,7 +1255,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/済%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=済" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>晩</span></span> <span class="kanji-details">evening <br><small>1275 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>晩</span></span> <span class="kanji-details">nightfall <br><small>1275 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>

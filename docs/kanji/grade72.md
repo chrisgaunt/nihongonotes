@@ -1028,7 +1028,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#fingers-p057">fingers</a>, <a href="/kanji/particles/#old-wizard-p085">old wizard</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">テキ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つ.む</span></p>
 </div>
@@ -1039,7 +1039,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#water-p009">water</a>, <a href="/kanji/particles/#old-wizard-p085">old wizard</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">テキ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">しずく ・ したた.る</span></p>
 </div>
@@ -1050,7 +1050,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#woman-0093">woman</a>, <a href="/kanji/particles/#old-wizard-p085">old wizard</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">チャク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
