@@ -68,20 +68,20 @@
         - [x] たくさん
         - [x] くらい
         
-    ???+ textbooks "Chapter 5"
+    ??? success "Chapter 5"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~
         - [ ] ~~Do workbook exercises~~
-        - [ ] <a href="https://www.youtube.com/watch?v=zCzxXKFTYps&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=5" target="_blank">Tokini Andy Video</a>
-        - [ ] い-Adjectives
-        - [ ] な-Adjectives
-        - [ ] ましょう
-        - [ ] ～ましょうか
-        - [ ] 好き
-        - [ ] きらい
+        - [x] <a href="https://www.youtube.com/watch?v=zCzxXKFTYps&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=5" target="_blank">Tokini Andy Video</a>
+        - [x] い-Adjectives
+        - [x] な-Adjectives
+        - [x] ましょう
+        - [x] ～ましょうか
+        - [x] 好き
+        - [x] きらい
         
-    ??? textbooks "Chapter 6"
+    ???+ textbooks "Chapter 6"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~

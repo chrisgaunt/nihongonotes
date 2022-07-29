@@ -8,7 +8,7 @@ description: A list of the 6th grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>14/181 keywords reviewed</div><div>8%</div></div><div class="bar"><div class="percent" style="width:8%"></div></div></div>
+<div class="progress"><div class="headings"><div>17/181 keywords reviewed</div><div>9%</div></div><div class="bar"><div class="percent" style="width:9%"></div></div></div>
 
 <div class="progress progress--contexts"><div class="headings"><div>0/181 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
@@ -166,33 +166,33 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/党%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=党" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>映</span></span> <span class="kanji-details">reflect ・ project <br><small>0329 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>映</span></span> <span class="kanji-details">reflect <br><small>0329</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#sun-0001">sun</a>, <a href="/kanji/grade3/#center-0328">center</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">エイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">うつ.る ・ うつ.す ・ は.える ・ -ば.え</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/映%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=映" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>並</span></span> <span class="kanji-details">line up <br><small>0333 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>並</span></span> <span class="kanji-details">line up <br><small>0333</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#horns-p047">horns</a>, <a href="/kanji/particles/#spikes-p082">spikes</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ヘイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">なみ ・ な.み ・ なら.べる ・ なら.ぶ ・ なら.びに</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/並%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=並" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>尺</span></span> <span class="kanji-details">shaku <br><small>0337 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>尺</span></span> <span class="kanji-details">the rock <br><small>0337</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> the rock</p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">シャク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>

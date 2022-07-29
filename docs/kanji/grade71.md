@@ -8,7 +8,7 @@ description: A list of the high school kanji, ordered by the Kodansha Kanji Lear
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>21/200 keywords reviewed</div><div>11%</div></div><div class="bar"><div class="percent" style="width:11%"></div></div></div>
+<div class="progress"><div class="headings"><div>27/200 keywords reviewed</div><div>14%</div></div><div class="bar"><div class="percent" style="width:14%"></div></div></div>
 
 <div class="progress progress--contexts"><div class="headings"><div>0/200 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
@@ -245,66 +245,66 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/凶%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=凶" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>償</span></span> <span class="kanji-details">recompense <br><small>0323 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>償</span></span> <span class="kanji-details">reimburse <br><small>0323</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#person-0015">person</a>, <a href="/kanji/grade4/#prize-0322">prize</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ショウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つぐな.う</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/償%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=償" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>掌</span></span> <span class="kanji-details">palm of one's hand ・ take charge of <br><small>0324 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>掌</span></span> <span class="kanji-details">manipulate <br><small>0324</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#schoolhouse-p029">schoolhouse</a>, <a href="/kanji/grade1/#mouth-0019">mouth</a>, <a href="/kanji/grade1/#hand-0046">hand</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ショウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">てのひら*</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/掌%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=掌" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>悟</span></span> <span class="kanji-details">awake to <br><small>0326 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>悟</span></span> <span class="kanji-details">comprehend <br><small>0326</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#feeling-p018">feeling</a>, <a href="/kanji/other/#i-0220">I</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ゴ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">さと.る</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/悟%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=悟" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>尽</span></span> <span class="kanji-details">exhaust <br><small>0338 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>尽</span></span> <span class="kanji-details">exhaust <br><small>0338</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade6/#the-rock-0337">the rock</a>, <a href="/kanji/particles/#ice-p010">ice</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ジン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つ.くす ・ -つ.くす ・ -ず.くし ・ つ.きる ・ つ.かす</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/尽%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=尽" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>触</span></span> <span class="kanji-details">touch <br><small>0344 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>触</span></span> <span class="kanji-details">touch <br><small>0344</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#angle-0342">angle</a>, <a href="/kanji/grade1/#insect-0343">insect</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ショク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ふ.れる ・ さわ.る</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/触%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=触" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>占</span></span> <span class="kanji-details">occupy ・ divine <br><small>0348 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>占</span></span> <span class="kanji-details">fortune <br><small>0348</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#wand-p003">wand</a>, <a href="/kanji/grade1/#mouth-0019">mouth</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">セン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">し.める ・ うらな.う</span></p>
 </div>

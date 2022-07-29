@@ -7,7 +7,7 @@ description: A list of kanji particles, used to help remember the kanji
 
 
 
-<div class="progress"><div class="headings"><div>87/87 keywords reviewed</div><div>100%</div></div><div class="bar"><div class="percent" style="width:100%"></div></div></div>
+<div class="progress"><div class="headings"><div>88/88 keywords reviewed</div><div>100%</div></div><div class="bar"><div class="percent" style="width:100%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>儿</span></span> <span class="kanji-details">human legs <br><small>p001</small></span></div>
 
@@ -32,9 +32,9 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>ト</span></span> <span class="kanji-details">wand <br><small>p003</small></span></div>
 
 <div class="grid cards grid--kanji">
-<p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Variant</strong><br> <span class="japanese large">⺊</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1/#below-0040">下</a> <a href="/kanji/grade2/#outside-0266">外</a> <a href="/kanji/grade72/#suspend-1117-unreviewed">掛</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1/#below-0040">下</a> <a href="/kanji/grade2/#outside-0266">外</a> <a href="/kanji/grade71/#fortune-0348">占</a> <a href="/kanji/grade72/#suspend-1117-unreviewed">掛</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/ト%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=ト" target="_blank">wanikani.com</a></small></div>
@@ -94,7 +94,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2/#lively-0054">活</a> <a href="/kanji/grade2/#sea-0106">海</a> <a href="/kanji/grade2/#steam-0127">汽</a> <a href="/kanji/grade2/#pond-0188">池</a> <a href="/kanji/grade2/#comfort-0302">楽</a> <a href="/kanji/grade3/#warm-up-0199">温</a> <a href="/kanji/grade3/#lake-0259">湖</a> <a href="/kanji/grade3/#next-0278">次</a> <a href="/kanji/grade4/#method-0139">法</a> <a href="/kanji/grade4/#full-0179">満</a> <a href="/kanji/grade5/#semi-0714-unreviewed">準</a> <a href="/kanji/grade6/#wash-0135">洗</a> <a href="/kanji/grade6/#tide-0146">潮</a> <a href="/kanji/grade6/#spring-water-0207">泉</a> <a href="/kanji/grade6/#source-0209">源</a> <a href="/kanji/grade71/#damp-0200">湿</a> <a href="/kanji/grade71/#ferry-across-0281">渡</a> <a href="/kanji/grade72/#drop-2-1119-unreviewed">滴</a> <a href="/kanji/grade72/#overnight-1183-unreviewed">泊</a> <a href="/kanji/grade75/#mud-2117-unreviewed">泥</a> <a href="/kanji/other/#eventide-0268">汐</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2/#lively-0054">活</a> <a href="/kanji/grade2/#sea-0106">海</a> <a href="/kanji/grade2/#steam-0127">汽</a> <a href="/kanji/grade2/#pond-0188">池</a> <a href="/kanji/grade2/#comfort-0302">楽</a> <a href="/kanji/grade3/#warm-up-0199">温</a> <a href="/kanji/grade3/#lake-0259">湖</a> <a href="/kanji/grade3/#next-0278">次</a> <a href="/kanji/grade3/#decide-0330">決</a> <a href="/kanji/grade4/#method-0139">法</a> <a href="/kanji/grade4/#full-0179">満</a> <a href="/kanji/grade5/#semi-0714-unreviewed">準</a> <a href="/kanji/grade6/#wash-0135">洗</a> <a href="/kanji/grade6/#tide-0146">潮</a> <a href="/kanji/grade6/#spring-water-0207">泉</a> <a href="/kanji/grade6/#source-0209">源</a> <a href="/kanji/grade71/#damp-0200">湿</a> <a href="/kanji/grade71/#ferry-across-0281">渡</a> <a href="/kanji/grade72/#drop-2-1119-unreviewed">滴</a> <a href="/kanji/grade72/#overnight-1183-unreviewed">泊</a> <a href="/kanji/grade75/#mud-2117-unreviewed">泥</a> <a href="/kanji/other/#eventide-0268">汐</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/氵%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=氵" target="_blank">wanikani.com</a></small></div>
@@ -104,7 +104,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2/#diagram-0298">図</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2/#diagram-0298">図</a> <a href="/kanji/grade71/#exhaust-0338">尽</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/冫%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=冫" target="_blank">wanikani.com</a></small></div>
@@ -123,7 +123,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">火</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3/#field-0129">畑</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2/#point-0349">点</a> <a href="/kanji/grade3/#field-0129">畑</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/灬%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=灬" target="_blank">wanikani.com</a></small></div>
@@ -183,7 +183,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">㣺</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade5/#gender-0128">性</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade5/#gender-0128">性</a> <a href="/kanji/grade5/#pleasant-0331">快</a> <a href="/kanji/grade71/#comprehend-0326">悟</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/忄%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=忄" target="_blank">wanikani.com</a></small></div>
@@ -272,7 +272,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">广</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2/#expression-0180">顔</a> <a href="/kanji/grade2/#original-0208">原</a> <a href="/kanji/grade2/#wide-0238">広</a> <a href="/kanji/grade3/#degrees-0280">度</a> <a href="/kanji/grade4/#give-birth-0181">産</a> <a href="/kanji/grade4/#government-office-0247">府</a> <a href="/kanji/grade4/#seat-0279">席</a> <a href="/kanji/grade5/#pressure-0186">圧</a> <a href="/kanji/grade5/#equipprovide-0715-unreviewed">備</a> <a href="/kanji/grade71/#obsolete-0149">廃</a> <a href="/kanji/grade71/#corridor-0287">廊</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2/#expression-0180">顔</a> <a href="/kanji/grade2/#original-0208">原</a> <a href="/kanji/grade2/#wide-0238">広</a> <a href="/kanji/grade2/#shop-2-0347">店</a> <a href="/kanji/grade3/#degrees-0280">度</a> <a href="/kanji/grade4/#give-birth-0181">産</a> <a href="/kanji/grade4/#government-office-0247">府</a> <a href="/kanji/grade4/#seat-0279">席</a> <a href="/kanji/grade5/#pressure-0186">圧</a> <a href="/kanji/grade5/#equipprovide-0715-unreviewed">備</a> <a href="/kanji/grade71/#obsolete-0149">廃</a> <a href="/kanji/grade71/#corridor-0287">廊</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/厂%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=厂" target="_blank">wanikani.com</a></small></div>
@@ -292,7 +292,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#little-0677-unreviewed">little</a>, <a href="/kanji/particles/#cover-p028">cover</a></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1/#study-0099">学</a> <a href="/kanji/grade4/#hall-0320">堂</a> <a href="/kanji/grade5/#normal-0321">常</a> <a href="/kanji/grade6/#party-0319">党</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1/#study-0099">学</a> <a href="/kanji/grade4/#hall-0320">堂</a> <a href="/kanji/grade4/#prize-0322">賞</a> <a href="/kanji/grade4/#memorize-0325">覚</a> <a href="/kanji/grade5/#normal-0321">常</a> <a href="/kanji/grade6/#party-0319">党</a> <a href="/kanji/grade71/#manipulate-0324">掌</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>Custom image particle, no dictionary lookup available.</small></div>
@@ -463,7 +463,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1/#flower-0121">花</a> <a href="/kanji/grade1/#grass-0144">草</a> <a href="/kanji/grade3/#medicine-0303">薬</a> <a href="/kanji/grade3/#leaf-0605-unreviewed">葉</a> <a href="/kanji/grade4/#full-0179">満</a> <a href="/kanji/grade4/#art-0225">芸</a> <a href="/kanji/grade4/#vegetable-0988-unreviewed">菜</a> <a href="/kanji/grade5/#equipprovide-0715-unreviewed">備</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade1/#flower-0121">花</a> <a href="/kanji/grade1/#grass-0144">草</a> <a href="/kanji/grade3/#medicine-0303">薬</a> <a href="/kanji/grade3/#leaf-0605-unreviewed">葉</a> <a href="/kanji/grade4/#full-0179">満</a> <a href="/kanji/grade4/#art-0225">芸</a> <a href="/kanji/grade4/#england-0332">英</a> <a href="/kanji/grade4/#vegetable-0988-unreviewed">菜</a> <a href="/kanji/grade5/#equipprovide-0715-unreviewed">備</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/艹%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=艹" target="_blank">wanikani.com</a></small></div>
@@ -473,7 +473,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">丷</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2/#front-0113">前</a> <a href="/kanji/grade2/#rice-0234">米</a> <a href="/kanji/other/#hill-2-0178">岡</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade2/#front-0113">前</a> <a href="/kanji/grade2/#rice-0234">米</a> <a href="/kanji/grade3/#peace-0334">平</a> <a href="/kanji/grade6/#line-up-0333">並</a> <a href="/kanji/other/#hill-2-0178">岡</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/䒑%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=䒑" target="_blank">wanikani.com</a></small></div>
@@ -493,7 +493,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/other/#wild-boar-0217">猪</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade5/#alone-0346">独</a> <a href="/kanji/other/#wild-boar-0217">猪</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/犭%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=犭" target="_blank">wanikani.com</a></small></div>
@@ -722,7 +722,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#spear-p071">spear</a>, <a href="/kanji/particles/#slash-p006">slash</a></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade4/#become-0070">成</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3/#emotion-0327">感</a> <a href="/kanji/grade4/#become-0070">成</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/戊%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=戊" target="_blank">wanikani.com</a></small></div>
@@ -789,7 +789,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3/#peace-0236">和</a> <a href="/kanji/grade6/#watashi-0237">私</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3/#harmony-0236">和</a> <a href="/kanji/grade6/#watashi-0237">私</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/禾%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=禾" target="_blank">wanikani.com</a></small></div>
@@ -818,7 +818,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">业</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3/#work-business-industry-0498-unreviewed">業</a> <a href="/kanji/grade71/#damp-0200">湿</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="/kanji/grade3/#work-business-industry-0498-unreviewed">業</a> <a href="/kanji/grade6/#line-up-0333">並</a> <a href="/kanji/grade71/#damp-0200">湿</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>Custom image particle, no dictionary lookup available.</small></div>
@@ -871,4 +871,13 @@ description: A list of kanji particles, used to help remember the kanji
 </div>
 
 <div class="kanji-contexts"><small>Custom image particle, no dictionary lookup available.</small></div>
+
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>ユ</span></span> <span class="kanji-details">yu <br><small>p088</small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/ユ%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=ユ" target="_blank">wanikani.com</a></small></div>
 

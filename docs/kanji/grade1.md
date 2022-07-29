@@ -8,7 +8,7 @@ description: A list of the 1st grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>74/81 keywords reviewed</div><div>91%</div></div><div class="bar"><div class="percent" style="width:91%"></div></div></div>
+<div class="progress"><div class="headings"><div>75/81 keywords reviewed</div><div>93%</div></div><div class="bar"><div class="percent" style="width:93%"></div></div></div>
 
 <div class="progress progress--contexts"><div class="headings"><div>0/81 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
@@ -815,11 +815,11 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/犬%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=犬" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>虫</span></span> <span class="kanji-details">insect <br><small>0343 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>虫</span></span> <span class="kanji-details">insect <br><small>0343</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade73/#insect-1425-unreviewed">insect</a></p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">チュウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">むし</span></p>
 </div>

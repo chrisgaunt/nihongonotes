@@ -8,7 +8,7 @@ description: A list of the 5th grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>22/185 keywords reviewed</div><div>12%</div></div><div class="bar"><div class="percent" style="width:12%"></div></div></div>
+<div class="progress"><div class="headings"><div>25/185 keywords reviewed</div><div>14%</div></div><div class="bar"><div class="percent" style="width:14%"></div></div></div>
 
 <div class="progress progress--contexts"><div class="headings"><div>0/185 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
@@ -254,33 +254,33 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/常%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=常" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>快</span></span> <span class="kanji-details">pleasant <br><small>0331 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>快</span></span> <span class="kanji-details">pleasant <br><small>0331</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#feeling-p018">feeling</a>, <a href="/kanji/grade3/#center-0328">center</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">カイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">こころよ.い</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/快%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=快" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>解</span></span> <span class="kanji-details">take apart ・ dissolve ・ clarify <br><small>0345 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>解</span></span> <span class="kanji-details">solve <br><small>0345</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#angle-0342">angle</a>, <a href="/kanji/grade2/#sword-0085">sword</a>, <a href="/kanji/grade2/#cow-0116">cow</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">カイ ・ ゲ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">と.く ・ と.かす ・ と.ける</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/解%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=解" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>独</span></span> <span class="kanji-details">alone <br><small>0346 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>独</span></span> <span class="kanji-details">alone <br><small>0346</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#animal-p049">animal</a>, <a href="/kanji/grade1/#insect-0343">insect</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ドク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ひと.り</span></p>
 </div>
