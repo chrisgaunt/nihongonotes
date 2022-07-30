@@ -13,11 +13,11 @@
     - [x] <a href="https://www.youtube.com/watch?v=uqlQYrE2oFM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=9" target="_blank">Lesson 8</a>
     - [x] <a href="https://www.youtube.com/watch?v=dwcTI9qvO-U&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=10" target="_blank">Lesson 8b</a>
     - [x] <a href="https://www.youtube.com/watch?v=vk3aKqMQwhM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=11" target="_blank">Lesson 9</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=qcOhHmU0znI&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12" target="_blank">Lesson 10</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=3X2ZCWazrDw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=13" target="_blank">Lesson 11</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=7dYT6Xf1BkA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=14" target="_blank">Lesson 12</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=15" target="_blank">Lesson 13</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=9DR9ifftMvs&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=16" target="_blank">Lesson 14</a>
+    - [x] <a href="https://www.youtube.com/watch?v=qcOhHmU0znI&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12" target="_blank">Lesson 10</a>
+    - [x] <a href="https://www.youtube.com/watch?v=3X2ZCWazrDw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=13" target="_blank">Lesson 11</a>
+    - [x] <a href="https://www.youtube.com/watch?v=7dYT6Xf1BkA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=14" target="_blank">Lesson 12</a>
+    - [x] <a href="https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=15" target="_blank">Lesson 13</a>
+    - [x] <a href="https://www.youtube.com/watch?v=9DR9ifftMvs&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=16" target="_blank">Lesson 14</a>
     - [ ] <a href="https://www.youtube.com/watch?v=ELk1dqaEmyk&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=17" target="_blank">Lesson 15</a>
     - [ ] <a href="https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=18" target="_blank">Lesson 16</a>
     - [ ] <a href="https://www.youtube.com/watch?v=ymJWb31qWI8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=19" target="_blank">Lesson 17</a>

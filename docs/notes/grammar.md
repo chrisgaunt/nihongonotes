@@ -242,3 +242,7 @@ Exceptions:
 する → しない  
 くる → こない  
 ある → ない (exception for this conjugation only, not an exception verb)
+
+### れる・られる
+
+[Cure dolly video](https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=16)

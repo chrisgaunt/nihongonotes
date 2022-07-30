@@ -250,5 +250,3 @@ Here are all the immersion and study resources I've worked through or plan to wo
     - [x] Listen section - 04/06/2022
     - [x] Read section - 04/06/2022
     - [x] Play section - 04/06/2022
-
---8<-- "includes/emoji-key.md"

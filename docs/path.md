@@ -11,35 +11,35 @@ This page lists out the immersion and study path I'm taking to learn Japanese. I
 
 ???+ success "Immersion"
 
-    I only started logging immersion/effort towards the end of July
+    I only started intensive immersion/study towards the end of July. This month and August will be spent building foundations with Kanji and grammar study. After this I will stop doing dedicated textbook/lesson study, and focus exclusively on immersion with kanji/grammar lookups.
 
-    <strong>8.2 hours</strong> total immersion  
-    <strong>245 minutes</strong> total <strong>Kanji</strong> immersion  
-    <strong>203 minutes</strong> total <strong>Grammar</strong> immersion  
+    <strong>10.8 hours</strong> total immersion over 5 days  
+    <strong>354 minutes</strong> total <strong>Kanji</strong> immersion  
+    <strong>252 minutes</strong> total <strong>Grammar</strong> immersion  
     <strong>32 minutes</strong> total <strong>TV</strong> immersion  
     <strong>10 minutes</strong> total <strong>Satori Reader</strong> immersion  
 
-    | Date      | Description | Type | Minutes |
-    | ----------- | ------------- | ------------- | ------------- |
-    | 26/07/2022 | [ペッパピッグ \| シーズン１エピソード 1 \| 泥の水たまり](https://www.youtube.com/watch?v=pwfLG69L30s) :relaxed: | TV | 5 |
-    | 27/07/2022 | [聞き耳ラジオ](https://www.satorireader.com/series/kiki-mimi-rajio#kiki-mimi-rajio-episode-1) :relaxed: | Satori Reader | 10 |
-    | 27/07/2022 | Kanji keyword reviews :face_with_spiral_eyes: | Kanji | 56 |
-    | 27/07/2022 | テラスハウス BOYS×GIRLS NEXT DOOR :grinning: | TV | 27 |
-    | 27/07/2022 | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) :grin: | Grammar | 28 |
-    | 27/07/2022 | [Tokini Andy videos](https://www.youtube.com/watch?v=PhwLu18ssPk&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=13) :grin: | Grammar | 15 |
-    | 28/07/2022 | Kanji keyword reviews :face_with_spiral_eyes: | Kanji | 64 |
-    | 28/07/2022 | [Tokini Andy videos](https://www.youtube.com/watch?v=knbAUQqFR68&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=4) :grin: | Grammar | 60 |
-    | 28/07/2022 | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) :grin: | Grammar | 40 |
-    | 29/07/2022 | Kanji keyword reviews :face_with_spiral_eyes: | Kanji | 76 |
-    | 28/07/2022 | [Tokini Andy videos](https://www.youtube.com/watch?v=zCzxXKFTYps&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=5) :grin: | Grammar | 60 |
-    | 29/07/2022 | Kanji keyword reviews :face_with_spiral_eyes: | Kanji | 49 |
+    | Date      | Rating | Description | Type | Minutes |
+    | ----------- | ------------- | ------------- | ------------- | ------------- |
+    | 26/07/2022 | <abbr title="Relaxed and enjoyed it, no pressure to look up words or phrases"><img src="../images/relaxed.svg" class="twemoji"></abbr> | [ペッパピッグ \| シーズン１エピソード 1 \| 泥の水たまり](https://www.youtube.com/watch?v=pwfLG69L30s) | TV | 5 |
+    | 27/07/2022 | <abbr title="Relaxed and enjoyed it, no pressure to look up words or phrases"><img src="../images/relaxed.svg" class="twemoji"></abbr> | [聞き耳ラジオ](https://www.satorireader.com/series/kiki-mimi-rajio#kiki-mimi-rajio-episode-1) | Satori Reader | 10 |
+    | 27/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | Kanji keyword reviews | Kanji | 56 |
+    | 27/07/2022 | <abbr title="Starting to understand but looking up a lot of words and grammar"><img src="../images/star.svg" class="twemoji"><img src="../images/star.svg" class="twemoji"></abbr> | テラスハウス BOYS×GIRLS NEXT DOOR | TV | 27 |
+    | 27/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Grammar | 28 |
+    | 27/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=PhwLu18ssPk&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=13) | Grammar | 15 |
+    | 28/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | Kanji keyword reviews | Kanji | 64 |
+    | 28/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=knbAUQqFR68&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=4) | Grammar | 60 |
+    | 28/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Grammar | 40 |
+    | 29/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | Kanji keyword reviews | Kanji | 76 |
+    | 29/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=zCzxXKFTYps&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=5) | Grammar | 36 |
+    | 29/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | Kanji keyword reviews | Kanji | 49 |
+    | 29/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Grammar | 36 |
+    | 30/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | Kanji keyword reviews | Kanji | 109 |
+    | 30/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=whHaSkKf-jU&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=7) | Grammar | 10 |
+    | 30/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Grammar | 27 |
 
 I've previously fumbled through various grammar resources, but to consider them done I'm powering through them one last time. I'm taking [notes](/notes/grammar) so I can quickly refer to them in future (and ditch the books!).
 
 --8<-- "includes/resources/001_genki.md"
 
 --8<-- "includes/resources/002_organic_japanese.md"
-
-<hr>
-
---8<-- "includes/emoji-key.md"

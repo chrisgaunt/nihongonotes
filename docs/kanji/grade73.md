@@ -100,7 +100,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/愁%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=愁" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>載</span></span> <span class="kanji-details">load ・ put in print <br><small>1318 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>載</span></span> <span class="kanji-details">put in print <br><small>1318 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -661,11 +661,11 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/騒%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=騒" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>旦</span></span> <span class="kanji-details">husband/master <br><small>1392 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>旦</span></span> <span class="kanji-details">dawn <br><small>1392 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> nightbreak</p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">タン ・ ダン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -1497,7 +1497,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/狙%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=狙" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>宜</span></span> <span class="kanji-details">right <br><small>1519 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>宜</span></span> <span class="kanji-details">best regards <br><small>1519 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -1717,7 +1717,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/環%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=環" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>還</span></span> <span class="kanji-details">return <br><small>1550 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>還</span></span> <span class="kanji-details">send back <br><small>1550 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>

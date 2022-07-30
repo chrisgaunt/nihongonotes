@@ -8,7 +8,7 @@ description: A list of the high school kanji, ordered by the Kodansha Kanji Lear
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>0/287 keywords reviewed</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress"><div class="headings"><div>1/287 keywords reviewed</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
 <div class="progress progress--contexts"><div class="headings"><div>1/287 kanji contexts</div><div>1 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
@@ -1793,11 +1793,11 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/漏%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=漏" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>氾</span></span> <span class="kanji-details">flood <br><small>2119 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>氾</span></span> <span class="kanji-details">spread out <br><small>2119</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#water-p009">water</a>, <a href="/kanji/particles/#seal-p026">seal</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ハン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>

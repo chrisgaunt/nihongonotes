@@ -81,22 +81,22 @@
         - [x] 好き
         - [x] きらい
         
-    ???+ textbooks "Chapter 6"
+    ??? success "Chapter 6"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~
         - [ ] ~~Do workbook exercises~~
-        - [ ] <a href="https://www.youtube.com/watch?v=whHaSkKf-jU&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=6" target="_blank">Tokini Andy Video</a>
-        - [ ] Verb + て
-        - [ ] てください
-        - [ ] Verb + てもいい
-        - [ ] てはいけない
-        - [ ] から
-        - [ ] ～ましょうか
-        - [ ] けっこう
-        - [ ] Verb + て + B
+        - [x] <a href="https://www.youtube.com/watch?v=whHaSkKf-jU&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=6" target="_blank">Tokini Andy Video</a>
+        - [x] Verb + て
+        - [x] てください
+        - [x] Verb + てもいい
+        - [x] てはいけない
+        - [x] から
+        - [x] ～ましょうか
+        - [x] けっこう
+        - [x] Verb + て + B
 
-    ??? textbooks "Chapter 7"
+    ???+ textbooks "Chapter 7"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~

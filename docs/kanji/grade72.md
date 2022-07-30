@@ -419,7 +419,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/掃%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=掃" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>戻</span></span> <span class="kanji-details">return <br><small>1019 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>戻</span></span> <span class="kanji-details">revert <br><small>1019 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -1508,7 +1508,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/珠%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=珠" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>殊</span></span> <span class="kanji-details">special <br><small>1208 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>殊</span></span> <span class="kanji-details">especially <br><small>1208 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -1882,7 +1882,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/怪%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=怪" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>斉</span></span> <span class="kanji-details">equal <br><small>1258 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>斉</span></span> <span class="kanji-details">simultaneous <br><small>1258 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -2020,7 +2020,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> elephant head, legs</p>
+<p class="card"><strong>Particles</strong><br> elephant head, <a href="/kanji/particles/#legs-p001">legs</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">メン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まぬか.れる ・ まぬが.れる</span></p>
 </div>
