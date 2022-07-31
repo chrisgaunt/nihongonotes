@@ -38,7 +38,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#person-0015">person</a>, <a href="/kanji/grade2/#say-0051">say</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#person-0015">person</a>, <a href="https://nihongonotes.com/kanji/grade2/#say-0051">say</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">シン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -49,7 +49,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#person-0015">person</a>, measure</p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#person-0015">person</a>, measure</p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">フ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つ.ける ・ -つ.ける ・ -ず.ける ・ つ.け ・ つ.け- ・ -つ.け ・ -ず.け ・ -ずけ ・ つ.く ・ -ず.く ・ つ.き ・ -つ.き ・ -つき ・ -ず.き ・ -ずき</span></p>
 </div>
@@ -62,7 +62,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#hook-p008">hook</a>, <a href="/kanji/particles/#drop-p007">drop</a>, <a href="/kanji/grade1/#person-0015">person</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#hook-p008">hook</a>, <a href="https://nihongonotes.com/kanji/particles/#drop-p007">drop</a>, <a href="https://nihongonotes.com/kanji/grade1/#person-0015">person</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">イ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">もっ.て*</span></p>
 </div>
@@ -73,7 +73,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#double-edged-spear-p072">double-edged spear</a>, <a href="/kanji/particles/#gasp-p005">gasp</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#double-edged-spear-p072">double-edged spear</a>, <a href="https://nihongonotes.com/kanji/particles/#gasp-p005">gasp</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">セイ ・ ジョウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">な.る ・ な.す ・ -な.す</span></p>
 </div>
@@ -84,7 +84,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#mouth-0019">mouth</a>, <a href="/kanji/grade1/#power-0084">power</a>, <a href="/kanji/grade2/#sword-0085">sword</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#mouth-0019">mouth</a>, <a href="https://nihongonotes.com/kanji/grade1/#power-0084">power</a>, <a href="https://nihongonotes.com/kanji/grade2/#sword-0085">sword</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ベツ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">わか.れる</span></p>
 </div>
@@ -95,7 +95,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#woman-0093">woman</a>, <a href="/kanji/grade1/#child-0094">child</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#woman-0093">woman</a>, <a href="https://nihongonotes.com/kanji/grade1/#child-0094">child</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">コウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">この.む ・ す.く ・ よ.い* ・ い.い*</span></p>
 </div>
@@ -106,7 +106,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade3/#cheap-0096">cheap</a>, <a href="/kanji/grade1/#tree-0028">tree</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade3/#cheap-0096">cheap</a>, <a href="https://nihongonotes.com/kanji/grade1/#tree-0028">tree</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">アン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -117,7 +117,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#life-0036">life</a>, <a href="/kanji/particles/#mother-p074">mother</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#life-0036">life</a>, <a href="https://nihongonotes.com/kanji/particles/#mother-p074">mother</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ドク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -128,7 +128,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#water-p009">water</a>, <a href="/kanji/grade3/#past-0138">past</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#water-p009">water</a>, <a href="https://nihongonotes.com/kanji/grade3/#past-0138">past</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ホウ ・ ハッ- ・ ホッ-</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -139,7 +139,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#sun-0001">sun</a>, <a href="/kanji/particles/#key-p073">key</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#sun-0001">sun</a>, <a href="https://nihongonotes.com/kanji/particles/#key-p073">key</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">サク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -150,7 +150,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#white-0076">white</a>, <a href="/kanji/other/#droplet-0168">droplet</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#white-0076">white</a>, <a href="https://nihongonotes.com/kanji/other/#droplet-0168">droplet</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">テキ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まと</span></p>
 </div>
@@ -161,7 +161,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#thread-0112">thread</a>, <a href="/kanji/other/#droplet-0168">droplet</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#thread-0112">thread</a>, <a href="https://nihongonotes.com/kanji/other/#droplet-0168">droplet</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ヤク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -172,7 +172,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#water-p009">water</a>, <a href="/kanji/particles/#flowers-p046">flowers</a>, <a href="/kanji/grade3/#both-0177">both</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#water-p009">water</a>, <a href="https://nihongonotes.com/kanji/particles/#flowers-p046">flowers</a>, <a href="https://nihongonotes.com/kanji/grade3/#both-0177">both</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">マン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">み.ちる ・ み.つ ・ み.たす</span></p>
 </div>
@@ -183,7 +183,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#stand-0067">stand</a>, <a href="/kanji/particles/#cliff-p027">cliff</a>, <a href="/kanji/grade1/#life-0036">life</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#stand-0067">stand</a>, <a href="https://nihongonotes.com/kanji/particles/#cliff-p027">cliff</a>, <a href="https://nihongonotes.com/kanji/grade1/#life-0036">life</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">サン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">う.む ・ う.まれる ・ うぶ-</span></p>
 </div>
@@ -194,7 +194,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#sword-0085">sword</a>, <a href="/kanji/particles/#road-p040">road</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#sword-0085">sword</a>, <a href="https://nihongonotes.com/kanji/particles/#road-p040">road</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ヘン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あた.り ・ -べ</span></p>
 </div>
@@ -205,7 +205,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#sun-0001">sun</a>, <a href="/kanji/grade3/#take-0059">take</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#sun-0001">sun</a>, <a href="https://nihongonotes.com/kanji/grade3/#take-0059">take</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">サイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">もっと.も</span></p>
 </div>
@@ -216,7 +216,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#original-0208">original</a>, <a href="/kanji/other/#page-0156">page</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#original-0208">original</a>, <a href="https://nihongonotes.com/kanji/other/#page-0156">page</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ガン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ねが.う</span></p>
 </div>
@@ -227,7 +227,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#person-0015">person</a>, <a href="/kanji/grade2/#cloud-0897-unreviewed">cloud</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#person-0015">person</a>, <a href="https://nihongonotes.com/kanji/grade2/#cloud-0897-unreviewed">cloud</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">デン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つた.わる ・ つた.える ・ つた.う ・ -ずた.い</span></p>
 </div>
@@ -238,7 +238,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#flowers-p046">flowers</a>, <a href="/kanji/grade2/#cloud-0897-unreviewed">cloud</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#flowers-p046">flowers</a>, <a href="https://nihongonotes.com/kanji/grade2/#cloud-0897-unreviewed">cloud</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ゲイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -249,7 +249,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#meet-p086">meet</a>, <a href="/kanji/particles/#seal-p026">seal</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#meet-p086">meet</a>, <a href="https://nihongonotes.com/kanji/particles/#seal-p026">seal</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">レイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -260,7 +260,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#now-0228">now</a>, <a href="/kanji/grade2/#heart-0056">heart</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#now-0228">now</a>, <a href="https://nihongonotes.com/kanji/grade2/#heart-0056">heart</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ネン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -271,7 +271,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">卩</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#comb-p087">comb</a>, <a href="/kanji/particles/#seal-p026">seal</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#comb-p087">comb</a>, <a href="https://nihongonotes.com/kanji/particles/#seal-p026">seal</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">イン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">しるし ・ -じるし</span></p>
 </div>
@@ -282,7 +282,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#tree-0028">tree</a>, <a href="/kanji/grade2/#public-0089">public</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#tree-0028">tree</a>, <a href="https://nihongonotes.com/kanji/grade2/#public-0089">public</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ショウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まつ</span></p>
 </div>
@@ -293,7 +293,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#cliff-p027">cliff</a>, <a href="/kanji/grade4/#attach-0064">attach</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#cliff-p027">cliff</a>, <a href="https://nihongonotes.com/kanji/grade4/#attach-0064">attach</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">フ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -304,7 +304,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#enclosure-p014">enclosure</a>, <a href="/kanji/grade2/#old-0254">old</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#enclosure-p014">enclosure</a>, <a href="https://nihongonotes.com/kanji/grade2/#old-0254">old</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">コ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">かた.める ・ かた.まる ・ かた.まり ・ かた.い</span></p>
 </div>
@@ -315,7 +315,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#tree-0028">tree</a>, <a href="/kanji/grade1/#one-0002">one</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#tree-0028">tree</a>, <a href="https://nihongonotes.com/kanji/grade1/#one-0002">one</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ミ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">いま.だ* ・ ま.だ*</span></p>
 </div>
@@ -326,7 +326,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#tree-0028">tree</a>, <a href="/kanji/grade1/#one-0002">one</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#tree-0028">tree</a>, <a href="https://nihongonotes.com/kanji/grade1/#one-0002">one</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">マツ ・ バツ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">すえ</span></p>
 </div>
@@ -348,7 +348,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#cliff-p027">cliff</a>, <a href="/kanji/particles/#box-p020">box</a>, <a href="/kanji/grade71/#towel-0203">towel</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#cliff-p027">cliff</a>, <a href="https://nihongonotes.com/kanji/particles/#box-p020">box</a>, <a href="https://nihongonotes.com/kanji/grade71/#towel-0203">towel</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">セキ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -359,7 +359,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#drop-p007">drop</a>, <a href="/kanji/particles/#root-p055">root</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#drop-p007">drop</a>, <a href="https://nihongonotes.com/kanji/particles/#root-p055">root</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">リョウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">よ.い ・ -よ.い ・ い.い*</span></p>
 </div>
@@ -370,7 +370,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#house-p031">house</a>, <a href="/kanji/particles/#bear-p052">bear</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#house-p031">house</a>, <a href="https://nihongonotes.com/kanji/particles/#bear-p052">bear</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">カン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -381,7 +381,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#mouth-0019">mouth</a>, <a href="/kanji/grade1/#big-0033">big</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#mouth-0019">mouth</a>, <a href="https://nihongonotes.com/kanji/grade1/#big-0033">big</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">キ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">うつわ</span></p>
 </div>
@@ -392,7 +392,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#hood-p021">hood</a>, <a href="/kanji/particles/#tremor-p033">tremor</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#hood-p021">hood</a>, <a href="https://nihongonotes.com/kanji/particles/#tremor-p033">tremor</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">シュウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まわ.り</span></p>
 </div>
@@ -403,7 +403,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#tree-0028">tree</a>, <a href="/kanji/grade1/#mouth-0019">mouth</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#tree-0028">tree</a>, <a href="https://nihongonotes.com/kanji/grade1/#mouth-0019">mouth</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ソク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">たば ・ たば.ねる ・ つか*</span></p>
 </div>
@@ -414,7 +414,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#rice-0234">rice</a>, <a href="/kanji/grade1/#big-0033">big</a>, <a href="/kanji/other/#page-0156">page</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#rice-0234">rice</a>, <a href="https://nihongonotes.com/kanji/grade1/#big-0033">big</a>, <a href="https://nihongonotes.com/kanji/other/#page-0156">page</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ルイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">たぐい</span></p>
 </div>
@@ -425,7 +425,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#schoolhouse-p029">schoolhouse</a>, <a href="/kanji/grade1/#mouth-0019">mouth</a>, <a href="/kanji/grade1/#soil-0030">soil</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#schoolhouse-p029">schoolhouse</a>, <a href="https://nihongonotes.com/kanji/grade1/#mouth-0019">mouth</a>, <a href="https://nihongonotes.com/kanji/grade1/#soil-0030">soil</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ドウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -436,7 +436,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#schoolhouse-p029">schoolhouse</a>, <a href="/kanji/grade3/#member-0317">member</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#schoolhouse-p029">schoolhouse</a>, <a href="https://nihongonotes.com/kanji/grade3/#member-0317">member</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ショウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -447,7 +447,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#schoolhouse-p029">schoolhouse</a>, <a href="/kanji/grade1/#see-0083">see</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#schoolhouse-p029">schoolhouse</a>, <a href="https://nihongonotes.com/kanji/grade1/#see-0083">see</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">カク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">おぼ.える ・ さ.ます ・ さ.める ・ さと.る**</span></p>
 </div>
@@ -458,7 +458,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#flowers-p046">flowers</a>, <a href="/kanji/grade3/#center-0328">center</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#flowers-p046">flowers</a>, <a href="https://nihongonotes.com/kanji/grade3/#center-0328">center</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">エイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -480,7 +480,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#thread-0112">thread</a>, <a href="/kanji/grade2/#sell-0353">sell</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#thread-0112">thread</a>, <a href="https://nihongonotes.com/kanji/grade2/#sell-0353">sell</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ゾク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つず.く ・ つず.ける</span></p>
 </div>
@@ -491,7 +491,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#two-hands-p065">two hands</a>, <a href="/kanji/grade1/#eight-0010">eight</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#two-hands-p065">two hands</a>, <a href="https://nihongonotes.com/kanji/particles/#little-feet-p091">little feet</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">キョウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">とも ・ とも.に ・ -ども</span></p>
 </div>
@@ -502,7 +502,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#eat-0288">eat</a>, <a href="/kanji/grade3/#anti-0374">anti</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#eat-0288">eat</a>, <a href="https://nihongonotes.com/kanji/grade3/#anti-0374">anti</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ハン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">めし</span></p>
 </div>
@@ -513,7 +513,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#cow-0116">cow</a>, <a href="/kanji/grade2/#buddhist-temple-0382">buddhist temple</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#cow-0116">cow</a>, <a href="https://nihongonotes.com/kanji/grade2/#buddhist-temple-0382">buddhist temple</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">トク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -524,7 +524,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#flash-p016">flash</a>, <a href="/kanji/grade73/#dawn-1392-unreviewed">dawn</a>, <a href="/kanji/particles/#glue-p090">glue</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#flash-p016">flash</a>, <a href="https://nihongonotes.com/kanji/grade73/#dawn-1392-unreviewed">dawn</a>, <a href="https://nihongonotes.com/kanji/particles/#glue-p090">glue</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">トク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">え.る ・ う.る</span></p>
 </div>
@@ -535,7 +535,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#bamboo-p081">bamboo</a>, <a href="/kanji/grade71/#instant-0390">instant</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#bamboo-p081">bamboo</a>, <a href="https://nihongonotes.com/kanji/grade71/#instant-0390">instant</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">セツ ・ セチ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ふし ・ -ぶし</span></p>
 </div>
@@ -546,7 +546,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#grain-p079">grain</a>, <a href="/kanji/grade1/#child-0094">child</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#grain-p079">grain</a>, <a href="https://nihongonotes.com/kanji/grade1/#child-0094">child</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">キ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -557,7 +557,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#grain-p079">grain</a>, <a href="/kanji/grade2/#sword-0085">sword</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#grain-p079">grain</a>, <a href="https://nihongonotes.com/kanji/grade2/#sword-0085">sword</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">リ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">き.く</span></p>
 </div>
@@ -568,7 +568,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#house-p031">house</a>, <a href="/kanji/grade1/#life-0036">life</a>, <a href="/kanji/grade1/#mouth-0019">mouth</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#house-p031">house</a>, <a href="https://nihongonotes.com/kanji/grade1/#life-0036">life</a>, <a href="https://nihongonotes.com/kanji/grade1/#mouth-0019">mouth</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ガイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -579,7 +579,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#thread-0112">thread</a>, <a href="/kanji/grade6/#oneself-0426">oneself</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#thread-0112">thread</a>, <a href="https://nihongonotes.com/kanji/grade6/#oneself-0426">oneself</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">キ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -590,7 +590,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade6/#oneself-0426">oneself</a>, <a href="/kanji/particles/#chair-shot-p045">chair shot</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade6/#oneself-0426">oneself</a>, <a href="https://nihongonotes.com/kanji/particles/#chair-shot-p045">chair shot</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">カイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あらた.める ・ あらた.まる</span></p>
 </div>
@@ -887,7 +887,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade2/#heart-0056">heart</a>, <a href="/kanji/particles/#slash-p006">slash</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#heart-0056">heart</a>, <a href="https://nihongonotes.com/kanji/particles/#slash-p006">slash</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ヒツ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">かなら.ず</span></p>
 </div>
@@ -975,7 +975,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#road-p040">road</a>, <a href="/kanji/grade1/#car-0125">car</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#road-p040">road</a>, <a href="https://nihongonotes.com/kanji/grade1/#car-0125">car</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">レン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つら.なる ・ つら.ねる ・ つ.れる ・ -ず.れ</span></p>
 </div>
@@ -1140,7 +1140,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> little, <a href="https://nihongonotes.com/kanji/grade1/#eye-0021">eye</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">セイ ・ ショウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">かえり.みる ・ はぶ.く</span></p>
 </div>
@@ -1169,7 +1169,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/告%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=告" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>衣</span></span> <span class="kanji-details">garment ② <br><small>0700 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>衣</span></span> <span class="kanji-details">garment <br><small>0700 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">衤</span></p>
@@ -1195,7 +1195,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#person-0015">person</a>, <a href="/kanji/grade3/#row-0718-unreviewed">row</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#person-0015">person</a>, <a href="https://nihongonotes.com/kanji/grade3/#row-0718-unreviewed">row</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">レイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">たと.える</span></p>
 </div>
@@ -1470,7 +1470,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#car-0125">car</a>, <a href="/kanji/particles/#meet-p086">meet</a>, <a href="/kanji/grade6/#tome-0824-unreviewed">tome</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#car-0125">car</a>, <a href="https://nihongonotes.com/kanji/particles/#meet-p086">meet</a>, <a href="https://nihongonotes.com/kanji/grade6/#tome-0824-unreviewed">tome</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">リン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">は</span></p>
 </div>
@@ -1536,7 +1536,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#flowers-p046">flowers</a>, <a href="/kanji/other/#claw-0201">claw</a>, <a href="/kanji/grade1/#tree-0028">tree</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#flowers-p046">flowers</a>, <a href="https://nihongonotes.com/kanji/other/#claw-0201">claw</a>, <a href="https://nihongonotes.com/kanji/grade1/#tree-0028">tree</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">サイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">な</span></p>
 </div>
@@ -1910,7 +1910,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade73/#spicy-1462-unreviewed">spicy</a>, <a href="/kanji/grade5/#tongue-0052">tongue</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade73/#spicy-1462-unreviewed">spicy</a>, <a href="https://nihongonotes.com/kanji/grade5/#tongue-0052">tongue</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ジ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">や.める</span></p>
 </div>
@@ -1921,7 +1921,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/particles/#road-p040">road</a>, <a href="/kanji/grade1/#soil-0030">soil</a>, <a href="/kanji/grade3/#sheep-0490-unreviewed">sheep</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#road-p040">road</a>, <a href="https://nihongonotes.com/kanji/grade1/#soil-0030">soil</a>, <a href="https://nihongonotes.com/kanji/grade3/#sheep-0490-unreviewed">sheep</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">タツ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">-たち*</span></p>
 </div>
@@ -1954,7 +1954,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="/kanji/grade1/#gold-0029">gold</a>, <a href="/kanji/grade1/#stand-0067">stand</a>, <a href="/kanji/grade1/#see-0083">see</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#gold-0029">gold</a>, <a href="https://nihongonotes.com/kanji/grade1/#stand-0067">stand</a>, <a href="https://nihongonotes.com/kanji/grade1/#see-0083">see</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">キョウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">かがみ</span></p>
 </div>
@@ -2053,7 +2053,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#person-0015">person</a>, <a href="https://nihongonotes.com/kanji/particles/#stick-p019">stick</a>, <a href="https://nihongonotes.com/kanji/particles/#yu-p088">yu</a>, <a href="https://nihongonotes.com/kanji/grade2/#arrow-0559-unreviewed">arrow</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">コウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">そうろう</span></p>
 </div>

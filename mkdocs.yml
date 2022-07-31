@@ -19,7 +19,7 @@ nav:
             - Fortnite: notes/games/fortnite.md
     - Resources: resources.md
     - Kanji:
-        - "<span>1st Grade Kanji&nbsp;<mark class=\"cited\">98%</mark></span>": kanji/grade1.md
+        - "<span>1st Grade Kanji</span>": kanji/grade1.md
         - "<span>2nd Grade Kanji&nbsp;<mark class=\"cited\">69%</mark></span>": kanji/grade2.md
         - "<span>3rd Grade Kanji&nbsp;<mark class=\"cited\">41%</mark></span>": kanji/grade3.md
         - "<span>4th Grade Kanji&nbsp;<mark class=\"cited\">27%</mark></span>": kanji/grade4.md

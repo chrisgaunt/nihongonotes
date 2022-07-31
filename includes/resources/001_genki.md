@@ -175,9 +175,9 @@
 
 ??? textbooks "Genki II (2nd Edition) <i id='genki_2_2nd_edition'></i>"
 
-    - [ ] Roughly 10hr of video
-    - [ ] Review <a href="https://bunpro.jp/paths/genki_2_2nd_edition" target="_blank">Bunpro grammar points</a> and example sentences
-    - [ ] Reference <a href="https://itazuraneko.neocities.org/grammar/dojg/dojgbasic.html" target="_blank">A Dictionary of Basic Japanese Grammar</a>
+    Roughly 10hr of video
+    Review <a href="https://bunpro.jp/paths/genki_2_2nd_edition" target="_blank">Bunpro grammar points</a> and example sentences
+    Reference <a href="https://itazuraneko.neocities.org/grammar/dojg/dojgbasic.html" target="_blank">A Dictionary of Basic Japanese Grammar</a>
 
     ??? textbooks "Chapter 13"
         - [ ] Read book chapter
