@@ -1,6 +1,7 @@
 ???+ youtube "Organic Japanese from scratch <i id='organic_japanese'></i>"
 
-    Run at 1.25x speed = 16 hours 11 minutes
+    Run at 1.25x speed = 16 hours 11 minutes  
+    Those marked :star: I need to return to.
     
     - [x] <a href="https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=1" target="_blank">Lesson 1</a>
     - [x] <a href="https://www.youtube.com/watch?v=P3n8n0u3LHA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=2" target="_blank">Lesson 2</a>
@@ -18,9 +19,9 @@
     - [x] <a href="https://www.youtube.com/watch?v=7dYT6Xf1BkA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=14" target="_blank">Lesson 12</a>
     - [x] <a href="https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=15" target="_blank">Lesson 13</a>
     - [x] <a href="https://www.youtube.com/watch?v=9DR9ifftMvs&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=16" target="_blank">Lesson 14</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=ELk1dqaEmyk&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=17" target="_blank">Lesson 15</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=18" target="_blank">Lesson 16</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=ymJWb31qWI8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=19" target="_blank">Lesson 17</a>
+    - [x] <a href="https://www.youtube.com/watch?v=ELk1dqaEmyk&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=17" target="_blank">Lesson 15</a> :star:
+    - [x] <a href="https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=18" target="_blank">Lesson 16</a> :star:
+    - [x] <a href="https://www.youtube.com/watch?v=ymJWb31qWI8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=19" target="_blank">Lesson 17</a>
     - [ ] <a href="https://www.youtube.com/watch?v=40avkmkQR8M&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=20" target="_blank">Lesson 18</a>
     - [ ] <a href="https://www.youtube.com/watch?v=LCvGHWbhDKw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=21" target="_blank">Lesson 19</a>
     - [ ] <a href="https://www.youtube.com/watch?v=xLkY6whr7T4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=22" target="_blank">Lesson 20</a>

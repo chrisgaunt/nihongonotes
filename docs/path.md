@@ -13,9 +13,9 @@ This page lists out the immersion and study path I'm taking to learn Japanese. I
 
     I only started intensive immersion/study towards the end of July. This month and August will be spent building foundations with Kanji and grammar study. After this I will stop doing dedicated textbook/lesson study, and focus exclusively on immersion with kanji/grammar lookups.
 
-    <strong>10.8 hours</strong> total immersion over 5 days  
-    <strong>354 minutes</strong> total <strong>Kanji</strong> immersion  
-    <strong>252 minutes</strong> total <strong>Grammar</strong> immersion  
+    <strong>14 hours</strong> total immersion over 6 days  
+    <strong>502 minutes</strong> total <strong>Kanji</strong> immersion  
+    <strong>296 minutes</strong> total <strong>Grammar</strong> immersion  
     <strong>32 minutes</strong> total <strong>TV</strong> immersion  
     <strong>10 minutes</strong> total <strong>Satori Reader</strong> immersion  
 
@@ -35,8 +35,11 @@ This page lists out the immersion and study path I'm taking to learn Japanese. I
     | 29/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | Kanji keyword reviews | Kanji | 49 |
     | 29/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Grammar | 36 |
     | 30/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | Kanji keyword reviews | Kanji | 109 |
-    | 30/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=whHaSkKf-jU&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=7) | Grammar | 10 |
+    | 30/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=whHaSkKf-jU&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=6) | Grammar | 10 |
     | 30/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Grammar | 27 |
+    | 31/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | Kanji keyword reviews | Kanji | 148 |
+    | 31/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=l5zV-7bs2Eo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=7) | Grammar | 20 |
+    | 31/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Grammar | 24 |
 
 I've previously fumbled through various grammar resources, but to consider them done I'm powering through them one last time. I'm taking [notes](/notes/grammar) so I can quickly refer to them in future (and ditch the books!).
 

@@ -159,6 +159,13 @@ Comes after a に sentence to say also did something
 
 When conjugating just swap out the る
 
+#### ている
+
+ている = doing
+
+[Tokini Andy Video](https://www.youtube.com/watch?v=l5zV-7bs2Eo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=8)
+
+
 ### う (godan)
 
 [Tokini Andy video](https://www.youtube.com/watch?v=UHo3qUb79No)
@@ -246,3 +253,8 @@ Exceptions:
 ### れる・られる
 
 [Cure dolly video](https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=16)
+
+### Self-move / other-move
+
+[Cure dolly video](https://www.youtube.com/watch?v=ELk1dqaEmyk&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=18)
+

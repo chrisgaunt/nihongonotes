@@ -96,16 +96,16 @@
         - [x] けっこう
         - [x] Verb + て + B
 
-    ???+ textbooks "Chapter 7"
+    ??? success "Chapter 7"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~
         - [ ] ~~Do workbook exercises~~
-        - [ ] <a href="https://www.youtube.com/watch?v=l5zV-7bs2Eo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=7" target="_blank">Tokini Andy Video</a>
-        - [ ] ている
-        - [ ] Verb + にいく
+        - [x] <a href="https://www.youtube.com/watch?v=l5zV-7bs2Eo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=7" target="_blank">Tokini Andy Video</a>
+        - [x] ている
+        - [x] Verb + にいく
 
-    ??? textbooks "Chapter 8"
+    ???+ textbooks "Chapter 8"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~
