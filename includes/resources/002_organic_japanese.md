@@ -22,7 +22,7 @@
     - [x] <a href="https://www.youtube.com/watch?v=ELk1dqaEmyk&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=17" target="_blank">Lesson 15</a> :star:
     - [x] <a href="https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=18" target="_blank">Lesson 16</a> :star:
     - [x] <a href="https://www.youtube.com/watch?v=ymJWb31qWI8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=19" target="_blank">Lesson 17</a>
-    - [ ] <a href="https://www.youtube.com/watch?v=40avkmkQR8M&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=20" target="_blank">Lesson 18</a>
+    - [x] <a href="https://www.youtube.com/watch?v=40avkmkQR8M&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=20" target="_blank">Lesson 18</a>
     - [ ] <a href="https://www.youtube.com/watch?v=LCvGHWbhDKw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=21" target="_blank">Lesson 19</a>
     - [ ] <a href="https://www.youtube.com/watch?v=xLkY6whr7T4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=22" target="_blank">Lesson 20</a>
     - [ ] <a href="https://www.youtube.com/watch?v=cYrqFjPvwSI&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=23" target="_blank">Lesson 21</a>

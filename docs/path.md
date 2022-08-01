@@ -5,13 +5,37 @@ description: This page lists out the immersion and study path I'm taking to lear
 
 This page lists out the immersion and study path I'm taking to learn Japanese. It requires a bit of work initially to plan out, but I'm hoping by breaking it down into smaller steps I can keep the motivation going.
 
-## July 2022 - <small>Rebuilding foundations</small>
+## August 2022 - <small>Building up</small>
+
+???+ success "Study/Immersion"
+
+    This month will be spent building foundations with Kanji and grammar study, whilst gradually increasing immersion.  
+    
+    After this I will stop doing dedicated textbook/lesson study, and focus exclusively on immersion with kanji/grammar lookups.
+
+    <strong>14 hours</strong> total immersion over 6 days  
+    <strong>502 minutes</strong> total <strong>Kanji</strong> immersion  
+    <strong>296 minutes</strong> total <strong>Grammar</strong> immersion  
+    <strong>32 minutes</strong> total <strong>TV</strong> immersion  
+    <strong>10 minutes</strong> total <strong>Satori Reader</strong> immersion  
+
+    | Date      | Rating | Description | Type | Minutes |
+    | ----------- | ------------- | ------------- | ------------- | ------------- |
+    | 26/07/2022 | <abbr title="Relaxed and enjoyed it, no pressure to look up words or phrases"><img src="../images/relaxed.svg" class="twemoji"></abbr> | [ペッパピッグ \| シーズン１エピソード 1 \| 泥の水たまり](https://www.youtube.com/watch?v=pwfLG69L30s) | TV | 5 |
+
+I've previously fumbled through various grammar resources, but to consider them done I'm powering through them one last time. I'm taking [notes](/notes/grammar) so I can quickly refer to them in future (and ditch the books!).
+
+--8<-- "includes/resources/001_genki.md"
+
+--8<-- "includes/resources/002_organic_japanese.md"
+
+## July 2022 - <small>Laying foundations</small>
 
 !!! success "Set up nihongonotes.com"
 
-???+ success "Immersion"
+???+ success "Study/Immersion"
 
-    I only started intensive immersion/study towards the end of July. This month and August will be spent building foundations with Kanji and grammar study. After this I will stop doing dedicated textbook/lesson study, and focus exclusively on immersion with kanji/grammar lookups.
+    I started proper study towards the end of July. This month is mostly focused on study rather than immersion.
 
     <strong>14 hours</strong> total immersion over 6 days  
     <strong>502 minutes</strong> total <strong>Kanji</strong> immersion  
@@ -40,9 +64,3 @@ This page lists out the immersion and study path I'm taking to learn Japanese. I
     | 31/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | Kanji keyword reviews | Kanji | 148 |
     | 31/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=l5zV-7bs2Eo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=7) | Grammar | 20 |
     | 31/07/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Grammar | 24 |
-
-I've previously fumbled through various grammar resources, but to consider them done I'm powering through them one last time. I'm taking [notes](/notes/grammar) so I can quickly refer to them in future (and ditch the books!).
-
---8<-- "includes/resources/001_genki.md"
-
---8<-- "includes/resources/002_organic_japanese.md"

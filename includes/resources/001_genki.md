@@ -105,33 +105,33 @@
         - [x] ている
         - [x] Verb + にいく
 
-    ???+ textbooks "Chapter 8"
+    ??? success "Chapter 8"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~
         - [ ] ~~Do workbook exercises~~
-        - [ ] <a href="https://www.youtube.com/watch?v=c1R--xAXleo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=8" target="_blank">Tokini Andy Video</a>
-        - [ ] と
-        - [ ] とおもう
-        - [ ] のがすき
-        - [ ] ないでください
-        - [ ] が
-        - [ ] なにか
-        - [ ] のがへた
-        - [ ] のがじょうず
+        - [x] <a href="https://www.youtube.com/watch?v=c1R--xAXleo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=8" target="_blank">Tokini Andy Video</a>
+        - [x] と
+        - [x] とおもう
+        - [x] のがすき
+        - [x] ないでください
+        - [x] が
+        - [x] なにか
+        - [x] のがへた
+        - [x] のがじょうず
 
-    ??? textbooks "Chapter 9"
+    ??? success "Chapter 9"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~
         - [ ] ~~Do workbook exercises~~
-        - [ ] <a href="https://www.youtube.com/watch?v=icQv6j3Hz_4&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=9" target="_blank">Tokini Andy Video</a>
-        - [ ] じゃなかった
-        - [ ] Verb［た・ている］+ Noun
-        - [ ] まだ～ていません
-        - [ ] から
+        - [x] <a href="https://www.youtube.com/watch?v=icQv6j3Hz_4&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=9" target="_blank">Tokini Andy Video</a>
+        - [x] じゃなかった
+        - [x] Verb［た・ている］+ Noun
+        - [x] まだ～ていません
+        - [x] から
 
-    ??? textbooks "Chapter 10"
+    ???+ textbooks "Chapter 10"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~

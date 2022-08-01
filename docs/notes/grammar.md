@@ -258,3 +258,37 @@ Exceptions:
 
 [Cure dolly video](https://www.youtube.com/watch?v=ELk1dqaEmyk&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=18)
 
+### のが・事が
+
+[Tokini Andy Video](https://www.youtube.com/watch?v=c1R--xAXleo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=8)
+
+Describes what comes before it.
+
+> 運転するのが上手
+> *You're good at driving*
+
+> 料理を作るのが下手
+> *I'm not good at cooking*
+
+### 何も・何か (any/something)
+
+[Tokini Andy Video](https://www.youtube.com/watch?v=c1R--xAXleo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=8)
+
+何も = any  
+何か = something
+
+### もう・まだ (already/haven't)
+
+I already...
+
+もう食べた  
+もう見ました
+
+I haven't yet...
+
+まだ食べていません  
+まだ見ていない
+
+### から (because)
+
+REASON + から + SITUATION
