@@ -13,15 +13,16 @@ This page lists out the immersion and study path I'm taking to learn Japanese. I
     
     After this I will stop doing dedicated textbook/lesson study, and focus exclusively on immersion with kanji/grammar lookups.
 
-    <strong>14 hours</strong> total immersion over 6 days  
-    <strong>502 minutes</strong> total <strong>Kanji</strong> immersion  
-    <strong>296 minutes</strong> total <strong>Grammar</strong> immersion  
-    <strong>32 minutes</strong> total <strong>TV</strong> immersion  
-    <strong>10 minutes</strong> total <strong>Satori Reader</strong> immersion  
+    <strong>53 minutes</strong> in total over 1 days  
+    <strong>43 minutes</strong> Grammar  
+    <strong>10 minutes</strong> Kanji  
 
     | Date      | Rating | Description | Type | Minutes |
     | ----------- | ------------- | ------------- | ------------- | ------------- |
-    | 26/07/2022 | <abbr title="Relaxed and enjoyed it, no pressure to look up words or phrases"><img src="../images/relaxed.svg" class="twemoji"></abbr> | [ペッパピッグ \| シーズン１エピソード 1 \| 泥の水たまり](https://www.youtube.com/watch?v=pwfLG69L30s) | TV | 5 |
+    | 01/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | Kanji keyword reviews | Kanji | 10 |
+    | 01/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=c1R--xAXleo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=8) | Grammar | 18 |
+    | 01/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=icQv6j3Hz_4&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=9) | Grammar | 15 |
+    | 01/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Grammar | 10 |
 
 I've previously fumbled through various grammar resources, but to consider them done I'm powering through them one last time. I'm taking [notes](/notes/grammar) so I can quickly refer to them in future (and ditch the books!).
 
@@ -37,11 +38,11 @@ I've previously fumbled through various grammar resources, but to consider them 
 
     I started proper study towards the end of July. This month is mostly focused on study rather than immersion.
 
-    <strong>14 hours</strong> total immersion over 6 days  
-    <strong>502 minutes</strong> total <strong>Kanji</strong> immersion  
-    <strong>296 minutes</strong> total <strong>Grammar</strong> immersion  
-    <strong>32 minutes</strong> total <strong>TV</strong> immersion  
-    <strong>10 minutes</strong> total <strong>Satori Reader</strong> immersion  
+    <strong>14 hours</strong> in total over 6 days  
+    <strong>502 minutes</strong> Kanji  
+    <strong>296 minutes</strong> Grammar  
+    <strong>32 minutes</strong> TV  
+    <strong>10 minutes</strong> Satori Reader  
 
     | Date      | Rating | Description | Type | Minutes |
     | ----------- | ------------- | ------------- | ------------- | ------------- |
