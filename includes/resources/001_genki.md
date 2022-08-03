@@ -131,34 +131,34 @@
         - [x] まだ～ていません
         - [x] から
 
-    ???+ textbooks "Chapter 10"
+    ??? success "Chapter 10"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~
         - [ ] ~~Do workbook exercises~~
-        - [ ] <a href="https://www.youtube.com/watch?v=qaFX3x4G6mU&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=10" target="_blank">Tokini Andy Video</a>
-        - [ ] より～のほうが
-        - [ ] のなかで～がいちばん～
-        - [ ] ～になる
-        - [ ] つもりだ
-        - [ ] で
-        - [ ] Adjective + の(は)
-        - [ ] の
-        - [ ] 誰か
+        - [x] <a href="https://www.youtube.com/watch?v=qaFX3x4G6mU&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=10" target="_blank">Tokini Andy Video</a>
+        - [x] より～のほうが
+        - [x] のなかで～がいちばん～
+        - [x] ～になる
+        - [x] つもりだ
+        - [x] で
+        - [x] Adjective + の(は)
+        - [x] の
+        - [x] 誰か
 
-    ??? textbooks "Chapter 11"
+    ??? success "Chapter 11"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~
         - [ ] ~~Do workbook exercises~~
-        - [ ] <a href="https://www.youtube.com/watch?v=1r-SZJ79MZo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=11" target="_blank">Tokini Andy Video</a>
-        - [ ] たい
-        - [ ] たり～たりする
-        - [ ] や
-        - [ ] たことがある
-        - [ ] たがる
+        - [x] <a href="https://www.youtube.com/watch?v=1r-SZJ79MZo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=11" target="_blank">Tokini Andy Video</a>
+        - [x] たい
+        - [x] たり～たりする
+        - [x] や
+        - [x] たことがある
+        - [x] たがる
 
-    ??? textbooks "Chapter 12"
+    ???+ textbooks "Chapter 12"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~
