@@ -264,10 +264,10 @@ Exceptions:
 
 Describes what comes before it.
 
-> 運転するのが上手
+> 運転するのが上手  
 > *You're good at driving*
 
-> 料理を作るのが下手
+> 料理を作るのが下手  
 > *I'm not good at cooking*
 
 ### 何も・何か (any/something)
@@ -289,6 +289,19 @@ I haven't yet...
 まだ食べていません  
 まだ見ていない
 
-### から (because)
+### から・ので (because)
 
-REASON + から + SITUATION
+REASON + から/ので + SITUATION
+
+ので is used when you and the listener both know the first sentence is a fact
+
+> 雨降ている**ので**傘を持っていてね  
+> *It's raining so take an umbrella*
+
+> 後で雨降かもしれない**から**傘を持っていてね  
+> *It might rain later, so take an umbrella*
+
+
+### のだ・んだ
+
+んだ is the conversational version of のだ/のです

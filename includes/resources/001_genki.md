@@ -158,20 +158,20 @@
         - [x] たことがある
         - [x] たがる
 
-    ???+ textbooks "Chapter 12"
+    ??? success "Chapter 12"
 
         - [ ] ~~Read book chapter~~
         - [ ] ~~Do reading exercise~~
         - [ ] ~~Do workbook exercises~~
-        - [ ] <a href="https://www.youtube.com/watch?v=tCua2K28oPE&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=12" target="_blank">Tokini Andy Video</a>
-        - [ ] ～んです
-        - [ ] ないほうがいい
-        - [ ] たほうがいい
-        - [ ] すぎる
-        - [ ] ので
-        - [ ] なければいけない
-        - [ ] なくちゃ
-        - [ ] でしょう
+        - [x] <a href="https://www.youtube.com/watch?v=tCua2K28oPE&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=12" target="_blank">Tokini Andy Video</a>
+        - [x] ～んです
+        - [x] ないほうがいい
+        - [x] たほうがいい
+        - [x] すぎる
+        - [x] ので
+        - [x] なければいけない
+        - [x] なくちゃ・なきゃ・ないと
+        - [x] でしょう
 
 ??? textbooks "Genki II (2nd Edition) <i id='genki_2_2nd_edition'></i>"
 

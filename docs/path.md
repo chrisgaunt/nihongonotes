@@ -13,9 +13,11 @@ This page lists out the immersion and study path I'm taking to learn Japanese. I
     
     After this I will stop doing dedicated textbook/lesson study, and focus exclusively on immersion with kanji/grammar lookups.
 
-    <strong>53 minutes</strong> in total over 1 days  
-    <strong>43 minutes</strong> Grammar  
-    <strong>10 minutes</strong> Kanji  
+    <strong>4.6 hours</strong> in total over 4 days  
+    <strong>160 minutes</strong> Grammar  
+    <strong>48 minutes</strong> Netflix  
+    <strong>35 minutes</strong> YouTube  
+    <strong>30 minutes</strong> Kanji  
 
     | Date      | Rating | Description | Type | Minutes |
     | ----------- | ------------- | ------------- | ------------- | ------------- |
@@ -23,6 +25,18 @@ This page lists out the immersion and study path I'm taking to learn Japanese. I
     | 01/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=c1R--xAXleo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=8) | Grammar | 18 |
     | 01/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=icQv6j3Hz_4&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=9) | Grammar | 15 |
     | 01/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Grammar | 10 |
+    | 01/08/2022 | <abbr title="Relaxed and enjoyed it, no pressure to look up words or phrases"><img src="../images/relaxed.svg" class="twemoji"></abbr> | [もしもしゆうすけ - [File.16] Learn Japanese Language With Subtitles - After Stay Home](https://www.youtube.com/watch?v=6l1GoQb0h6Y) | YouTube | 15 |
+    | 02/08/2022 | <abbr title="Relaxed and enjoyed it, no pressure to look up words or phrases"><img src="../images/relaxed.svg" class="twemoji"></abbr> | [【実況】全力で楽しむ妖怪ウォッチ Part1](https://www.youtube.com/watch?v=M204otUy2wo&list=PLPUGXakMkjREJj60lNUuRlVQkHYKcUdcn&index=1) | YouTube | 6 |
+    | 02/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | Kanji keyword reviews | Kanji | 10 |
+    | 02/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Grammar | 34 |
+    | 03/08/2022 | <abbr title="I get the general idea with little help - Comprehensible input or i+1"><img src="../images/star.svg" class="twemoji"><img src="../images/star.svg" class="twemoji"><img src="../images/star.svg" class="twemoji"></abbr> | [Comprehensible Japanese](https://www.youtube.com/c/ComprehensibleJapanese) | YouTube | 14 |
+    | 03/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | Kanji keyword reviews | Kanji | 10 |
+    | 03/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=icQv6j3Hz_4&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=10) | Grammar | 20 |
+    | 03/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=icQv6j3Hz_4&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=11) | Grammar | 15 |
+    | 03/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Cure Dolly videos](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Grammar | 16 |
+    | 04/08/2022 | <abbr title="Starting to understand but looking up a lot of words and grammar"><img src="../images/star.svg" class="twemoji"><img src="../images/star.svg" class="twemoji"></abbr> | [Terrace House: Boys and Girls in the City: S01E01](https://www.netflix.com/watch/80070051) | Netflix | 20 |
+    | 04/08/2022 | <abbr title="Relaxed and enjoyed it, no pressure to look up words or phrases"><img src="../images/relaxed.svg" class="twemoji"></abbr> | [Terrace House: Boys and Girls in the City: S01E01](https://www.netflix.com/watch/80070051) | Netflix | 28 |
+    | 04/08/2022 | <abbr title="Building foundations with grammar and kanji study"><img src="../images/brick.svg" class="twemoji"></abbr> | [Tokini Andy videos](https://www.youtube.com/watch?v=tCua2K28oPE&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=12) | Grammar | 32 |
 
 I've previously fumbled through various grammar resources, but to consider them done I'm powering through them one last time. I'm taking [notes](/notes/grammar) so I can quickly refer to them in future (and ditch the books!).
 
