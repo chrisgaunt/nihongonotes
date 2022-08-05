@@ -1,13 +1,13 @@
-???+ textbooks "Genki I (2nd Edition) <i id='genki_1_2nd_edition'></i>"
+??? textbooks-done "Genki I (2nd Edition) <i id='genki_1_2nd_edition'></i>"
 
     Roughly 10hr of video.  
     Review <a href="https://bunpro.jp/paths/genki_1_2nd_edition" target="_blank">Bunpro grammar points</a> and example sentences.  
     Reference <a href="https://itazuraneko.neocities.org/grammar/dojg/dojgbasic.html" target="_blank">A Dictionary of Basic Japanese Grammar</a>
 
     ??? success "Chapter 1"
-        - [x] Read book chapter
-        - [x] Do reading exercise
-        - [x] Do workbook exercises
+        - [x] Read chapter
+        - [x] Reading exercise
+        - [x] Workbook exercises
         - [x] XはYです
             - [x] <a href="https://www.youtube.com/watch?v=15ukUhFolU4&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=3" target="_blank">Tokini Andy Video</a>
         - [x] の
@@ -18,9 +18,9 @@
 
     ??? success "Chapter 2"
 
-        - [x] Read book chapter
-        - [x] Do reading exercise
-        - [x] Do workbook exercises
+        - [x] Read chapter
+        - [x] Reading exercise
+        - [x] Workbook exercises
         - [x] これ, それ, あれ, どれ
             - [x] <a href="https://www.youtube.com/watch?v=pv9B20HEjVY&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=5" target="_blank">Tokini Andy Video</a>
         - [x] この, その, あの, どの
@@ -38,9 +38,9 @@
 
     ??? success "Chapter 3"
 
-        - [ ] ~~Read book chapter~~
-        - [ ] ~~Do reading exercise~~
-        - [ ] ~~Do workbook exercises~~
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [x] vます
             - [x] <a href="https://www.youtube.com/watch?v=PhwLu18ssPk&list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty&index=12" target="_blank">Tokini Andy Video</a>
         - [x] を
@@ -56,9 +56,9 @@
 
     ??? success "Chapter 4"
 
-        - [ ] ~~Read book chapter~~
-        - [ ] ~~Do reading exercise~~
-        - [ ] ~~Do workbook exercises~~
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [x] <a href="https://www.youtube.com/watch?v=knbAUQqFR68&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=4" target="_blank">Tokini Andy Video</a>
         - [x] がある
         - [x] がいる
@@ -70,9 +70,9 @@
         
     ??? success "Chapter 5"
 
-        - [ ] ~~Read book chapter~~
-        - [ ] ~~Do reading exercise~~
-        - [ ] ~~Do workbook exercises~~
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [x] <a href="https://www.youtube.com/watch?v=zCzxXKFTYps&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=5" target="_blank">Tokini Andy Video</a>
         - [x] い-Adjectives
         - [x] な-Adjectives
@@ -83,9 +83,9 @@
         
     ??? success "Chapter 6"
 
-        - [ ] ~~Read book chapter~~
-        - [ ] ~~Do reading exercise~~
-        - [ ] ~~Do workbook exercises~~
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [x] <a href="https://www.youtube.com/watch?v=whHaSkKf-jU&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=6" target="_blank">Tokini Andy Video</a>
         - [x] Verb + て
         - [x] てください
@@ -98,18 +98,18 @@
 
     ??? success "Chapter 7"
 
-        - [ ] ~~Read book chapter~~
-        - [ ] ~~Do reading exercise~~
-        - [ ] ~~Do workbook exercises~~
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [x] <a href="https://www.youtube.com/watch?v=l5zV-7bs2Eo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=7" target="_blank">Tokini Andy Video</a>
         - [x] ている
         - [x] Verb + にいく
 
     ??? success "Chapter 8"
 
-        - [ ] ~~Read book chapter~~
-        - [ ] ~~Do reading exercise~~
-        - [ ] ~~Do workbook exercises~~
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [x] <a href="https://www.youtube.com/watch?v=c1R--xAXleo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=8" target="_blank">Tokini Andy Video</a>
         - [x] と
         - [x] とおもう
@@ -122,9 +122,9 @@
 
     ??? success "Chapter 9"
 
-        - [ ] ~~Read book chapter~~
-        - [ ] ~~Do reading exercise~~
-        - [ ] ~~Do workbook exercises~~
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [x] <a href="https://www.youtube.com/watch?v=icQv6j3Hz_4&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=9" target="_blank">Tokini Andy Video</a>
         - [x] じゃなかった
         - [x] Verb［た・ている］+ Noun
@@ -133,9 +133,9 @@
 
     ??? success "Chapter 10"
 
-        - [ ] ~~Read book chapter~~
-        - [ ] ~~Do reading exercise~~
-        - [ ] ~~Do workbook exercises~~
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [x] <a href="https://www.youtube.com/watch?v=qaFX3x4G6mU&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=10" target="_blank">Tokini Andy Video</a>
         - [x] より～のほうが
         - [x] のなかで～がいちばん～
@@ -148,9 +148,9 @@
 
     ??? success "Chapter 11"
 
-        - [ ] ~~Read book chapter~~
-        - [ ] ~~Do reading exercise~~
-        - [ ] ~~Do workbook exercises~~
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [x] <a href="https://www.youtube.com/watch?v=1r-SZJ79MZo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=11" target="_blank">Tokini Andy Video</a>
         - [x] たい
         - [x] たり～たりする
@@ -160,9 +160,9 @@
 
     ??? success "Chapter 12"
 
-        - [ ] ~~Read book chapter~~
-        - [ ] ~~Do reading exercise~~
-        - [ ] ~~Do workbook exercises~~
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [x] <a href="https://www.youtube.com/watch?v=tCua2K28oPE&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=12" target="_blank">Tokini Andy Video</a>
         - [x] ～んです
         - [x] ないほうがいい
@@ -173,16 +173,16 @@
         - [x] なくちゃ・なきゃ・ないと
         - [x] でしょう
 
-??? textbooks "Genki II (2nd Edition) <i id='genki_2_2nd_edition'></i>"
+???+ textbooks "Genki II (2nd Edition) <i id='genki_2_2nd_edition'></i>"
 
     Roughly 10hr of video
     Review <a href="https://bunpro.jp/paths/genki_2_2nd_edition" target="_blank">Bunpro grammar points</a> and example sentences
     Reference <a href="https://itazuraneko.neocities.org/grammar/dojg/dojgbasic.html" target="_blank">A Dictionary of Basic Japanese Grammar</a>
 
-    ??? textbooks "Chapter 13"
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+    ???+ textbooks "Chapter 13"
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=CMs_NXbOwbw&list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk&index=1" target="_blank">Tokini Andy Video</a>
         - [ ] られる Verb[potential]
         - [ ] そう
@@ -192,9 +192,9 @@
         - [ ] に (Frequency)
 
     ??? textbooks "Chapter 14"
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=RjF-k28kMkw&list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk&index=2" target="_blank">Tokini Andy Video</a>
         - [ ] がほしい
         - [ ] かもしれない
@@ -206,9 +206,9 @@
         - [ ] Number + しか〜ない
         
     ??? textbooks "Chapter 15"
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=QFfBRGaHMok&list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk&index=3" target="_blank">Tokini Andy Video</a>
         - [ ] Verb[よう]
         - [ ] 〜ようと思う
@@ -218,9 +218,9 @@
         - [ ] んだけど
 
     ??? textbooks "Chapter 16"
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=YiMChZ5egFc&list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk&index=4" target="_blank">Tokini Andy Video</a>
         - [ ] てもらう
         - [ ] てくれる
@@ -232,9 +232,9 @@
         - [ ] てくれない
 
     ??? textbooks "Chapter 17"
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=CJA9SRsf1w4&list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk&index=5" target="_blank">Tokini Andy Video</a>
         - [ ] そうだ
         - [ ] たら
@@ -245,9 +245,9 @@
         - [ ] てから
 
     ??? textbooks "Chapter 18"
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=qTt39_q4wFE&list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk&index=6" target="_blank">Tokini Andy Video</a>
         - [ ] 他動詞
         - [ ] てしまう
@@ -256,9 +256,9 @@
         - [ ] ばよかった
 
     ??? textbooks "Chapter 19"
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=j-bn8NmqwEE&list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk&index=7" target="_blank">Tokini Andy Video</a>
         - [ ] なさる
         - [ ] いらっしゃる
@@ -270,9 +270,9 @@
         - [ ] はずがない
 
     ??? textbooks "Chapter 20"
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=pYZASUOlcok&list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk&index=8" target="_blank">Tokini Andy Video</a>
         - [ ] ございます
         - [ ] いらっしゃる
@@ -287,9 +287,9 @@
         - [ ] でございます
 
     ??? textbooks "Chapter 21"
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=eh5G78_wFAM&list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk&index=9" target="_blank">Tokini Andy Video</a>
         - [ ] てほしい
         - [ ] Verb［れる・られる］
@@ -299,9 +299,9 @@
         - [ ] ～にする
         
     ??? textbooks "Chapter 22"
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=5Ipp7hXfZDs&list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk&index=10" target="_blank">Tokini Andy Video</a>
         - [ ] Verb［せる・させる］
         - [ ] なさい
@@ -310,9 +310,9 @@
         - [ ] のに
 
     ??? textbooks "Chapter 23"
-        - [ ] Read book chapter
-        - [ ] Do reading exercise
-        - [ ] Do workbook exercises
+        - [ ] ~~Read chapter~~
+        - [ ] ~~Reading exercise~~
+        - [ ] ~~Workbook exercises~~
         - [ ] <a href="https://www.youtube.com/watch?v=U6FSf5_XWdc&list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk&index=11" target="_blank">Tokini Andy Video</a>
         - [ ] Causative-Passive
         - [ ] ても
