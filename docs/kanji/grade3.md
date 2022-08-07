@@ -1866,8 +1866,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>勉</span></span> <span class="kanji-details">exert,exertion <br><small>1274 <mark class="cited">Unreviewed</mark></small></span></div>
 
-<blockquote class="story"><p>excuse me, this power I will exert</p></blockquote>
-
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade72/#excuse-1272-unreviewed">excuse</a>, <a href="https://nihongonotes.com/kanji/grade1/#power-0084">power</a></p>

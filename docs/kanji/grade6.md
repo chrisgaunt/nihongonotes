@@ -8,9 +8,9 @@ description: A list of the 6th grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>30/181 keywords reviewed</div><div>17%</div></div><div class="bar"><div class="percent" style="width:17%"></div></div></div>
+<div class="progress"><div class="headings"><div>31/181 keywords reviewed</div><div>17%</div></div><div class="bar"><div class="percent" style="width:17%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>0/181 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress progress--contexts"><div class="headings"><div>1/181 kanji contexts</div><div>1 total contexts</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>宝</span></span> <span class="kanji-details">treasure ② <br><small>0074</small></span></div>
 
@@ -588,7 +588,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#stone-0403">stone</a>, little</p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#stone-0403">stone</a>, <a href="https://nihongonotes.com/kanji/grade2/#few-0677-unreviewed">few</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">サ ・ シャ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">すな</span></p>
 </div>
@@ -1420,16 +1420,24 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/派%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=派" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>降</span></span> <span class="kanji-details">descend <br><small>1377 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>降</span></span> <span class="kanji-details">descend <br><small>1377</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#wall-p067">wall</a>, <a href="https://nihongonotes.com/kanji/particles/#winter-p062">winter</a>, <a href="https://nihongonotes.com/kanji/grade2/#cow-0116">cow</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">コウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">お.りる ・ お.ろす ・ ふ.る ・ ふ.り</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/降%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=降" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-contexts" markdown>
+<strong>Contexts</strong>
+
+<!-- -->
+<blockquote><p>たくさん雨が降ります<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#0ca4d1092f8ce89550b74b4527017f12">Comprehensible Japanese</a></p></blockquote>
+
+</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>密</span></span> <span class="kanji-details">close ・ secret <br><small>1383 <mark class="cited">Unreviewed</mark></small></span></div>
 

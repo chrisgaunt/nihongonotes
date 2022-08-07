@@ -2016,11 +2016,9 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>免</span></span> <span class="kanji-details">excuse <br><small>1272 <mark class="cited">Unreviewed</mark></small></span></div>
 
-<blockquote class="story"><p>What's your excuse for stealing an elephant head?!</p></blockquote>
-
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> elephant head, <a href="https://nihongonotes.com/kanji/particles/#legs-p001">legs</a></p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">メン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まぬか.れる ・ まぬが.れる</span></p>
 </div>

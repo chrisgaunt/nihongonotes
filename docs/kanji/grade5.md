@@ -8,9 +8,9 @@ description: A list of the 5th grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>33/185 keywords reviewed</div><div>18%</div></div><div class="bar"><div class="percent" style="width:18%"></div></div></div>
+<div class="progress"><div class="headings"><div>34/185 keywords reviewed</div><div>18%</div></div><div class="bar"><div class="percent" style="width:18%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>0/185 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress progress--contexts"><div class="headings"><div>2/185 kanji contexts</div><div>2 total contexts</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>舌</span></span> <span class="kanji-details">tongue <br><small>0052</small></span></div>
 
@@ -711,7 +711,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#person-0015">person</a>, <a href="https://nihongonotes.com/kanji/particles/#flowers-p046">flowers</a>, <a href="https://nihongonotes.com/kanji/particles/#cliff-p027">cliff</a>, use</p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#person-0015">person</a>, <a href="https://nihongonotes.com/kanji/particles/#flowers-p046">flowers</a>, <a href="https://nihongonotes.com/kanji/particles/#cliff-p027">cliff</a>, <a href="https://nihongonotes.com/kanji/grade2/#task-0047">task</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ビ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">そな.える ・ そな.わる</span></p>
 </div>
@@ -872,7 +872,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/仏%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=仏" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>可</span></span> <span class="kanji-details">can <br><small>0814 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>可</span></span> <span class="kanji-details">possible <br><small>0814 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -1587,6 +1587,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/桜%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=桜" target="_blank">wanikani.com</a></small></div>
 
+<div class="kanji-contexts" markdown>
+<strong>Contexts</strong>
+
+<!-- -->
+<blockquote><p>桜です<br>桜は春の花です<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#74f40675e084ff72300962eea2413ace">Comprehensible Japanese</a></p></blockquote>
+
+</div>
+
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>経</span></span> <span class="kanji-details">pass through ・ manage ・ sutra <br><small>1257 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -2005,16 +2013,24 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/災%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=災" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>張</span></span> <span class="kanji-details">spread ・ strain <br><small>2020 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>張</span></span> <span class="kanji-details">stretch <br><small>2020</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#bow-0421">bow</a>, <a href="https://nihongonotes.com/kanji/grade2/#long-0091">long</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">チョウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">は.る ・ -は.り ・ -ば.り</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/張%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=張" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-contexts" markdown>
+<strong>Contexts</strong>
+
+<!-- -->
+<blockquote><p>緊張します<br>&mdash; <a href="/notes/tv/terrace-house/#89489defa249e5f6776603823d2c32a0">Terrace House</a></p></blockquote>
+
+</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>肥</span></span> <span class="kanji-details">fatten <br><small>2023 <mark class="cited">Unreviewed</mark></small></span></div>
 

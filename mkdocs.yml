@@ -6,6 +6,10 @@ nav:
     - Path: path.md
     - Notes:
         - Grammar: notes/grammar.md
+        - TV:
+            - Terrace House: notes/tv/terrace-house.md
+        - YouTube:
+            - Comprehensible Japanese: notes/youtube/comprehensible-japanese.md
         - Kids TV:
             - Peppa Pig: notes/kids-tv/peppa-pig.md
         # - Satori Reader:
@@ -25,11 +29,11 @@ nav:
         - "<span>4th Grade Kanji&nbsp;<mark class=\"cited\">27%</mark></span>": kanji/grade4.md
         - "<span>5th Grade Kanji&nbsp;<mark class=\"cited\">18%</mark></span>": kanji/grade5.md
         - "<span>6th Grade Kanji&nbsp;<mark class=\"cited\">17%</mark></span>": kanji/grade6.md
-        - "<span>High School Kanji (1/5)&nbsp;<mark class=\"cited\">16%</mark></span>": kanji/grade71.md
+        - "<span>High School Kanji (1/5)&nbsp;<mark class=\"cited\">17%</mark></span>": kanji/grade71.md
         - "<span>High School Kanji (2/5)&nbsp;<mark class=\"cited\">0%</mark></span>": kanji/grade72.md
         - "<span>High School Kanji (3/5)&nbsp;<mark class=\"cited\">1%</mark></span>": kanji/grade73.md
         - "<span>High School Kanji (4/5)&nbsp;<mark class=\"cited\">0%</mark></span>": kanji/grade74.md
-        - "<span>High School Kanji (5/5)&nbsp;<mark class=\"cited\">0%</mark></span>": kanji/grade75.md
+        - "<span>High School Kanji (5/5)&nbsp;<mark class=\"cited\">1%</mark></span>": kanji/grade75.md
         - "<span>Other Kanji&nbsp;<mark class=\"cited\">7%</mark></span>": kanji/other.md
         - "<span>Particles</span>": kanji/particles.md
     - About: about.md

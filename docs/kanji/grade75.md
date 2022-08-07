@@ -8,9 +8,9 @@ description: A list of the high school kanji, ordered by the Kodansha Kanji Lear
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>1/287 keywords reviewed</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress"><div class="headings"><div>2/287 keywords reviewed</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>1/287 kanji contexts</div><div>1 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress progress--contexts"><div class="headings"><div>2/287 kanji contexts</div><div>2 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>露</span></span> <span class="kanji-details">dew ・ expose <br><small>1907 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -168,11 +168,9 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>頼</span></span> <span class="kanji-details">trust <br><small>1930 <mark class="cited">Unreviewed</mark></small></span></div>
 
-<blockquote class="story"><p>Bundle of gooey-ducks you can trust</p></blockquote>
-
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade4/#bundle-0307">bundle</a>, gooey-duck</p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade4/#bundle-0307">bundle</a>, <a href="https://nihongonotes.com/kanji/other/#page-0156">page</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ライ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">たの.む ・ たの.もしい ・ たよ.る</span></p>
 </div>
@@ -1070,16 +1068,24 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/堅%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=堅" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>緊</span></span> <span class="kanji-details">tighten ・ exigent <br><small>2035 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>緊</span></span> <span class="kanji-details">tense <br><small>2035</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade4/#servant-0484">servant</a>, <a href="https://nihongonotes.com/kanji/grade71/#grabbing-hand-0058">grabbing hand</a>, <a href="https://nihongonotes.com/kanji/grade1/#thread-0112">thread</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">キン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/緊%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=緊" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-contexts" markdown>
+<strong>Contexts</strong>
+
+<!-- -->
+<blockquote><p>緊張します<br>&mdash; <a href="/notes/tv/terrace-house/#89489defa249e5f6776603823d2c32a0">Terrace House</a></p></blockquote>
+
+</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>勃</span></span> <span class="kanji-details">suddenly rising <br><small>2036 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1775,10 +1781,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/泥%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=泥" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-contexts" markdown>
-??? cite "Context"
+<strong>Contexts</strong>
 
-    <!-- -->
-    > [泥の水たまり](/notes/kids-tv/peppa-pig#episode-1)
+<!-- -->
+> [泥の水たまり](/notes/kids-tv/peppa-pig#episode-1)
 
 </div>
 
