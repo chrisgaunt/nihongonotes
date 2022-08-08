@@ -340,8 +340,14 @@ table.phrases td {
 .md-typeset .grid {
     grid-gap: 0.4rem;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     margin: 1em 0;
+}
+
+@media (min-width: 640px) {
+    .md-typeset .grid {
+        grid-template-columns: 1fr 1fr;
+    }
 }
 
 .md-typeset .grid.grid--kanji {

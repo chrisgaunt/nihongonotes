@@ -19,7 +19,7 @@ After that I might watch the other series again but with the commentary audio, w
 
 #### Sentences
 
-<div class="grid cards grid--kanji">
+<div class="grid cards">
 <div class="card" id="a771f7fea4da4941196fbac0008a9064">
 <img src="/images/sentences/16596333951630.jpg"><br>
 <blockquote><p><abbr title="Are you a working adult? Working adult...">社会人ですか？社会人…</abbr></p></blockquote>

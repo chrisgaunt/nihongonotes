@@ -9,7 +9,7 @@ description: The Comprehensible Japanese YouTube channel is excellent input for 
 
 #### Sentences
 
-<div class="grid cards grid--kanji">
+<div class="grid cards">
 <div class="card" id="0ca4d1092f8ce89550b74b4527017f12">
 <img src="/images/sentences/16596876312380.jpg"><br>
 <blockquote><p><abbr title="It rains a lot">たくさん雨が降ります</abbr></p></blockquote>
