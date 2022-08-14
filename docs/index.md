@@ -9,10 +9,6 @@ description: Nihongo Notes is a collection of my personal notes and resources fr
 
 Nihongo Notes is a collection of my personal notes from learning Japanese.  
 
-### [Path](/path/)
-
-The path I'm taking on my language learning journey and my progress so far.
-
 ### [Notes](/notes/grammar/)
 
 All my notes including summaries of grammar resources and various immersion media.
