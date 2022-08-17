@@ -1080,10 +1080,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/緊%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=緊" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-contexts" markdown>
-<strong>Contexts</strong>
+??? quote "Contexts"
 
-<!-- -->
-<blockquote><p>緊張します<br>&mdash; <a href="/notes/tv/terrace-house/#89489defa249e5f6776603823d2c32a0">Terrace House</a></p></blockquote>
+    <!-- -->
+    <blockquote><p>緊張します<br>&mdash; <a href="/notes/tv/terrace-house/#89489defa249e5f6776603823d2c32a0">Terrace House</a></p></blockquote>
 
 </div>
 
@@ -1781,10 +1781,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/泥%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=泥" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-contexts" markdown>
-<strong>Contexts</strong>
+??? quote "Contexts"
 
-<!-- -->
-> [泥の水たまり](/notes/kids-tv/peppa-pig#episode-1)
+    <!-- -->
+    > [泥の水たまり](/notes/kids-tv/peppa-pig#episode-1)
 
 </div>
 

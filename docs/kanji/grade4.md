@@ -10,7 +10,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>54/200 keywords reviewed</div><div>27%</div></div><div class="bar"><div class="percent" style="width:27%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>0/200 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress progress--contexts"><div class="headings"><div>2/200 kanji contexts</div><div>2 total contexts</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>無</span></span> <span class="kanji-details">without <br><small>0048</small></span></div>
 
@@ -971,6 +971,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/笑%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=笑" target="_blank">wanikani.com</a></small></div>
 
+<div class="kanji-contexts" markdown>
+??? quote "Contexts"
+
+    <!-- -->
+    <blockquote><p>雪だるまは笑っています<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#af29f343c280407e0e6f632fd08afd8f">Comprehensible Japanese</a></p></blockquote>
+
+</div>
+
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>連</span></span> <span class="kanji-details">take along <br><small>0582 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -1014,6 +1022,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/果%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=果" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-contexts" markdown>
+??? quote "Contexts"
+
+    <!-- -->
+    <blockquote><p>果物がたくさんあります<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#76cb553a82b81e7bd86213b55014a5ca">Comprehensible Japanese</a></p></blockquote>
+
+</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>課</span></span> <span class="kanji-details">assignment ・ assign <br><small>0600 <mark class="cited">Unreviewed</mark></small></span></div>
 

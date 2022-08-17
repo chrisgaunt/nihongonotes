@@ -10,7 +10,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>81/200 keywords reviewed</div><div>41%</div></div><div class="bar"><div class="percent" style="width:41%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>0/200 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress progress--contexts"><div class="headings"><div>5/200 kanji contexts</div><div>6 total contexts</div></div><div class="bar"><div class="percent" style="width:3%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>定</span></span> <span class="kanji-details">fix <br><small>0045</small></span></div>
 
@@ -235,6 +235,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/物%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=物" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-contexts" markdown>
+??? quote "Contexts"
+
+    <!-- -->
+    <blockquote><p>果物がたくさんあります<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#76cb553a82b81e7bd86213b55014a5ca">Comprehensible Japanese</a></p></blockquote>
+
+</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>面</span></span> <span class="kanji-details">face <br><small>0175</small></span></div>
 
@@ -719,6 +727,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/寒%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=寒" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-contexts" markdown>
+??? quote "Contexts"
+
+    <!-- -->
+    <blockquote><p>今日はとっても寒いです<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#b0aeb78c9add3d2c404d8ca9c38364d3">Comprehensible Japanese</a></p></blockquote>
+
+</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>主</span></span> <span class="kanji-details">master <br><small>0365</small></span></div>
 
@@ -1303,6 +1319,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/緑%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=緑" target="_blank">wanikani.com</a></small></div>
 
+<div class="kanji-contexts" markdown>
+??? quote "Contexts"
+
+    <!-- -->
+    <blockquote><p>メロンです緑のメロンです<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#8009a3fc399a52b24df2ca5f3d0750e6">Comprehensible Japanese</a></p></blockquote>
+
+</div>
+
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>界</span></span> <span class="kanji-details">world <br><small>0612 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -1555,6 +1579,17 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/具%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=具" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-contexts" markdown>
+??? quote "Contexts"
+
+    <!-- -->
+    <blockquote><p>絵の具があります<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#8b18027618085d4cfc42672737a09cfa">Comprehensible Japanese</a></p></blockquote>
+
+    <!-- -->
+    <blockquote><p>3色の絵の具があります<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#bcb7a96d460db61a3b6ffe3045012c5c">Comprehensible Japanese</a></p></blockquote>
+
+</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>真</span></span> <span class="kanji-details">1 <br><small>0838 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -2017,6 +2052,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/鼻%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=鼻" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-contexts" markdown>
+??? quote "Contexts"
+
+    <!-- -->
+    <blockquote><p>これは雪だるまの鼻です<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#2334db92d21b20c8e9cd6219ea2ea399">Comprehensible Japanese</a></p></blockquote>
+
+</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>橋</span></span> <span class="kanji-details">bridge <br><small>1578 <mark class="cited">Unreviewed</mark></small></span></div>
 

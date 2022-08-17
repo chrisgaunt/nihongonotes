@@ -1432,10 +1432,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/降%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=降" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-contexts" markdown>
-<strong>Contexts</strong>
+??? quote "Contexts"
 
-<!-- -->
-<blockquote><p>たくさん雨が降ります<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#0ca4d1092f8ce89550b74b4527017f12">Comprehensible Japanese</a></p></blockquote>
+    <!-- -->
+    <blockquote><p>雪がたくさん降っています<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#9fd531ca7dfcaf430ca85bbec74a07e0">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 

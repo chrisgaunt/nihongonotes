@@ -159,6 +159,14 @@ description: A list of kanji particles, used to help remember the kanji
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/メ%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=メ" target="_blank">wanikani.com</a></small></div>
 
+<div class="kanji-contexts" markdown>
+??? quote "Contexts"
+
+    <!-- -->
+    <blockquote><p>メロンです緑のメロンです<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#8009a3fc399a52b24df2ca5f3d0750e6">Comprehensible Japanese</a></p></blockquote>
+
+</div>
+
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>彳</span></span> <span class="kanji-details">flash <br><small>p016</small></span></div>
 
 <div class="grid cards grid--kanji">

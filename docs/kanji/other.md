@@ -12,7 +12,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>15/206 keywords reviewed</div><div>7%</div></div><div class="bar"><div class="percent" style="width:7%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>0/206 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress progress--contexts"><div class="headings"><div>1/206 kanji contexts</div><div>1 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>頁</span></span> <span class="kanji-details">page <br><small>0156</small></span></div>
 
@@ -420,6 +420,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/栗%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=栗" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-contexts" markdown>
+??? quote "Contexts"
+
+    <!-- -->
+    <blockquote><p>栗です<br>茶色い栗です<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#afe4c6f3cfa81af8e8d78d44d7ad51fb">Comprehensible Japanese</a></p></blockquote>
+
+</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>酉</span></span> <span class="kanji-details">the bird <br><small>0796 <mark class="cited">Unreviewed</mark></small></span></div>
 

@@ -10,7 +10,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>34/185 keywords reviewed</div><div>18%</div></div><div class="bar"><div class="percent" style="width:18%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>2/185 kanji contexts</div><div>2 total contexts</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
+<div class="progress progress--contexts"><div class="headings"><div>1/185 kanji contexts</div><div>1 total contexts</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>舌</span></span> <span class="kanji-details">tongue <br><small>0052</small></span></div>
 
@@ -1587,14 +1587,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/桜%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=桜" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-contexts" markdown>
-<strong>Contexts</strong>
-
-<!-- -->
-<blockquote><p>桜です<br>桜は春の花です<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#74f40675e084ff72300962eea2413ace">Comprehensible Japanese</a></p></blockquote>
-
-</div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>経</span></span> <span class="kanji-details">pass through ・ manage ・ sutra <br><small>1257 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -2025,10 +2017,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/張%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=張" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-contexts" markdown>
-<strong>Contexts</strong>
+??? quote "Contexts"
 
-<!-- -->
-<blockquote><p>緊張します<br>&mdash; <a href="/notes/tv/terrace-house/#89489defa249e5f6776603823d2c32a0">Terrace House</a></p></blockquote>
+    <!-- -->
+    <blockquote><p>緊張します<br>&mdash; <a href="/notes/tv/terrace-house/#89489defa249e5f6776603823d2c32a0">Terrace House</a></p></blockquote>
 
 </div>
 

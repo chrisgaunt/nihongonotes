@@ -87,5 +87,4 @@ watch:
 plugins:
     - search:
         lang:
-            - en
             - ja
