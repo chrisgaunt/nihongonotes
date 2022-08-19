@@ -472,7 +472,7 @@ Here are all the immersion and study resources I've worked through or plan to wo
 
     - [ ] Learn lyrics
 
-## :material-google-controller: Games
+## :material-controller: Games
 
 ???+ gaming "Alba | アルバの<ruby>冒<rp>(</rp><rt>ぼう</rt><rp>)</rp>険<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>"
 
