@@ -8,7 +8,7 @@ description: A list of the high school kanji, ordered by the Kodansha Kanji Lear
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>0/200 keywords reviewed</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress"><div class="headings"><div>2/200 keywords reviewed</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
 
 <div class="progress progress--contexts"><div class="headings"><div>0/200 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
@@ -265,11 +265,11 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/叙%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=叙" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>斜</span></span> <span class="kanji-details">oblique <br><small>0999 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>斜</span></span> <span class="kanji-details">diagonal <br><small>0999</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade5/#excess-0995">excess</a>, <a href="https://nihongonotes.com/kanji/grade71/#dipper-0757">dipper</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">シャ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">なな.め</span></p>
 </div>
@@ -2014,13 +2014,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/喚%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=喚" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>免</span></span> <span class="kanji-details">excuse <br><small>1272 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>免</span></span> <span class="kanji-details">excuse <br><small>1272</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">メン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まぬか.れる ・ まぬが.れる</span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#exertexertion-1274-unreviewed">勉</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/免%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=免" target="_blank">wanikani.com</a></small></div>

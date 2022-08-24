@@ -8,7 +8,7 @@ description: A list of the high school kanji, ordered by the Kodansha Kanji Lear
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>1/200 keywords reviewed</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
+<div class="progress"><div class="headings"><div>4/200 keywords reviewed</div><div>2%</div></div><div class="bar"><div class="percent" style="width:2%"></div></div></div>
 
 <div class="progress progress--contexts"><div class="headings"><div>0/200 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
@@ -386,11 +386,11 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/倣%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=倣" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>俺</span></span> <span class="kanji-details">myself <br><small>1356 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>俺</span></span> <span class="kanji-details">myself <br><small>1356</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#person-0015">person</a>, <a href="https://nihongonotes.com/kanji/grade1/#big-0033">big</a>, <a href="https://nihongonotes.com/kanji/particles/#eel-p041">eel</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">おれ</span></p>
 </div>
@@ -661,13 +661,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/騒%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=騒" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>旦</span></span> <span class="kanji-details">dawn <br><small>1392 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>旦</span></span> <span class="kanji-details">dawn <br><small>1392</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#sun-0001">sun</a>, <a href="https://nihongonotes.com/kanji/grade1/#one-0002">one</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">タン ・ ダン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#daytime-0466-unreviewed">昼</a> <a href="https://nihongonotes.com/kanji/grade4/#acquire-0387">得</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/旦%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=旦" target="_blank">wanikani.com</a></small></div>
@@ -1068,13 +1069,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/彰%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=彰" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>辛</span></span> <span class="kanji-details">spicy <br><small>1462 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>辛</span></span> <span class="kanji-details">spicy <br><small>1462</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">シン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">から.い ・ つら.い*</span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade4/#quitword-1465-unreviewed">辞</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/辛%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=辛" target="_blank">wanikani.com</a></small></div>

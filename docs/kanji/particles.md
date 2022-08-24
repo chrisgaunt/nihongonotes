@@ -14,7 +14,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#four-0006">四</a> <a href="https://nihongonotes.com/kanji/grade1/#previous-0134">先</a> <a href="https://nihongonotes.com/kanji/grade1/#sky-0398">空</a> <a href="https://nihongonotes.com/kanji/grade2/#origin-0136">元</a> <a href="https://nihongonotes.com/kanji/grade2/#light-0137">光</a> <a href="https://nihongonotes.com/kanji/grade2/#sell-0353">売</a> <a href="https://nihongonotes.com/kanji/grade3/#merchant-0351">商</a> <a href="https://nihongonotes.com/kanji/grade71/#concern-oneself-0611-unreviewed">介</a> <a href="https://nihongonotes.com/kanji/other/#also-0773">亦</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#four-0006">四</a> <a href="https://nihongonotes.com/kanji/grade1/#previous-0134">先</a> <a href="https://nihongonotes.com/kanji/grade1/#sky-0398">空</a> <a href="https://nihongonotes.com/kanji/grade2/#origin-0136">元</a> <a href="https://nihongonotes.com/kanji/grade2/#light-0137">光</a> <a href="https://nihongonotes.com/kanji/grade2/#sell-0353">売</a> <a href="https://nihongonotes.com/kanji/grade3/#merchant-0351">商</a> <a href="https://nihongonotes.com/kanji/grade71/#concern-oneself-0611">介</a> <a href="https://nihongonotes.com/kanji/other/#also-0773">亦</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/儿%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=儿" target="_blank">wanikani.com</a></small></div>
@@ -24,7 +24,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#six-0008">六</a> <a href="https://nihongonotes.com/kanji/grade2/#mingle-0102">交</a> <a href="https://nihongonotes.com/kanji/grade2/#tall-0185">高</a> <a href="https://nihongonotes.com/kanji/grade2/#capital-0245">京</a> <a href="https://nihongonotes.com/kanji/other/#also-0773">亦</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#six-0008">六</a> <a href="https://nihongonotes.com/kanji/grade2/#mingle-0102">交</a> <a href="https://nihongonotes.com/kanji/grade2/#tall-0185">高</a> <a href="https://nihongonotes.com/kanji/grade2/#capital-0245">京</a> <a href="https://nihongonotes.com/kanji/grade6/#backside-0704">裏</a> <a href="https://nihongonotes.com/kanji/other/#also-0773">亦</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/亠%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=亠" target="_blank">wanikani.com</a></small></div>
@@ -34,7 +34,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">⺊</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#below-0040">下</a> <a href="https://nihongonotes.com/kanji/grade2/#outside-0266">外</a> <a href="https://nihongonotes.com/kanji/grade71/#fortune-0348">占</a> <a href="https://nihongonotes.com/kanji/grade72/#suspend-1117-unreviewed">掛</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#below-0040">下</a> <a href="https://nihongonotes.com/kanji/grade2/#outside-0266">外</a> <a href="https://nihongonotes.com/kanji/grade71/#fortune-0348">占</a> <a href="https://nihongonotes.com/kanji/grade72/#suspend-1117-unreviewed">掛</a> <a href="https://nihongonotes.com/kanji/particles/#tiger-p083">虍</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/ト%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=ト" target="_blank">wanikani.com</a></small></div>
@@ -44,7 +44,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#year-0117">年</a> <a href="https://nihongonotes.com/kanji/grade1/#stone-0403">石</a> <a href="https://nihongonotes.com/kanji/grade2/#every-0105">毎</a> <a href="https://nihongonotes.com/kanji/grade2/#noon-0115">午</a> <a href="https://nihongonotes.com/kanji/grade3/#tribe-0568-unreviewed">族</a> <a href="https://nihongonotes.com/kanji/grade3/#trip-0569-unreviewed">旅</a> <a href="https://nihongonotes.com/kanji/grade3/#play-0570-unreviewed">遊</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#year-0117">年</a> <a href="https://nihongonotes.com/kanji/grade1/#stone-0403">石</a> <a href="https://nihongonotes.com/kanji/grade2/#every-0105">毎</a> <a href="https://nihongonotes.com/kanji/grade2/#noon-0115">午</a> <a href="https://nihongonotes.com/kanji/grade3/#tribe-0568-unreviewed">族</a> <a href="https://nihongonotes.com/kanji/grade3/#trip-0569-unreviewed">旅</a> <a href="https://nihongonotes.com/kanji/grade3/#play-0570-unreviewed">遊</a> <a href="https://nihongonotes.com/kanji/particles/#air-p013">气</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>Custom image particle, no dictionary lookup available.</small></div>
@@ -54,7 +54,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">乛𠃌𠃍</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#now-0228">今</a> <a href="https://nihongonotes.com/kanji/grade3/#bureau-0256">局</a> <a href="https://nihongonotes.com/kanji/grade4/#become-0070">成</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#now-0228">今</a> <a href="https://nihongonotes.com/kanji/grade3/#bureau-0256">局</a> <a href="https://nihongonotes.com/kanji/grade4/#become-0070">成</a> <a href="https://nihongonotes.com/kanji/particles/#air-p013">气</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/㇇%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=㇇" target="_blank">wanikani.com</a></small></div>
@@ -64,7 +64,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">乀</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#wind-0425">風</a> <a href="https://nihongonotes.com/kanji/grade3/#someone-0107">者</a> <a href="https://nihongonotes.com/kanji/grade4/#inevitable-0549-unreviewed">必</a> <a href="https://nihongonotes.com/kanji/grade6/#childs-respect-0630-unreviewed">孝</a> <a href="https://nihongonotes.com/kanji/grade71/#chinese-spear-0164">矛</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#wind-0425">風</a> <a href="https://nihongonotes.com/kanji/grade3/#someone-0107">者</a> <a href="https://nihongonotes.com/kanji/grade4/#inevitable-0549-unreviewed">必</a> <a href="https://nihongonotes.com/kanji/grade6/#childs-respect-0630">孝</a> <a href="https://nihongonotes.com/kanji/grade71/#chinese-spear-0164">矛</a> <a href="https://nihongonotes.com/kanji/particles/#by-ones-side-p039"></a> <a href="https://nihongonotes.com/kanji/particles/#spear-p071">戈</a> <a href="https://nihongonotes.com/kanji/particles/#double-edged-spear-p072">戊</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/丿%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=丿" target="_blank">wanikani.com</a></small></div>
@@ -74,7 +74,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#hundred-0016">百</a> <a href="https://nihongonotes.com/kanji/grade1/#ball-0073">玉</a> <a href="https://nihongonotes.com/kanji/grade2/#round-0012">丸</a> <a href="https://nihongonotes.com/kanji/grade2/#self-0081">自</a> <a href="https://nihongonotes.com/kanji/grade3/#facing-yonder-0183">向</a> <a href="https://nihongonotes.com/kanji/grade3/#master-0365">主</a> <a href="https://nihongonotes.com/kanji/grade4/#from-0066">以</a> <a href="https://nihongonotes.com/kanji/grade4/#good-0285">良</a> <a href="https://nihongonotes.com/kanji/grade71/#blade-0087">刃</a> <a href="https://nihongonotes.com/kanji/other/#droplet-0168">勺</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#hundred-0016">百</a> <a href="https://nihongonotes.com/kanji/grade1/#ball-0073">玉</a> <a href="https://nihongonotes.com/kanji/grade2/#round-0012">丸</a> <a href="https://nihongonotes.com/kanji/grade2/#self-0081">自</a> <a href="https://nihongonotes.com/kanji/grade3/#facing-yonder-0183">向</a> <a href="https://nihongonotes.com/kanji/grade3/#master-0365">主</a> <a href="https://nihongonotes.com/kanji/grade4/#from-0066">以</a> <a href="https://nihongonotes.com/kanji/grade4/#good-0285">良</a> <a href="https://nihongonotes.com/kanji/grade71/#blade-0087">刃</a> <a href="https://nihongonotes.com/kanji/grade71/#rice-bowl-0436">丼</a> <a href="https://nihongonotes.com/kanji/other/#droplet-0168">勺</a> <a href="https://nihongonotes.com/kanji/particles/#house-p031">宀</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/丶%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=丶" target="_blank">wanikani.com</a></small></div>
@@ -84,7 +84,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">乙</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#thanks-0313">礼</a> <a href="https://nihongonotes.com/kanji/grade4/#from-0066">以</a> <a href="https://nihongonotes.com/kanji/grade6/#milk-0160">乳</a> <a href="https://nihongonotes.com/kanji/grade6/#riot-0380">乱</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#thanks-0313">礼</a> <a href="https://nihongonotes.com/kanji/grade4/#from-0066">以</a> <a href="https://nihongonotes.com/kanji/grade6/#milk-0160">乳</a> <a href="https://nihongonotes.com/kanji/grade6/#riot-0380">乱</a> <a href="https://nihongonotes.com/kanji/particles/#eel-p041"></a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/乚%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=乚" target="_blank">wanikani.com</a></small></div>
@@ -94,7 +94,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#lively-0054">活</a> <a href="https://nihongonotes.com/kanji/grade2/#sea-0106">海</a> <a href="https://nihongonotes.com/kanji/grade2/#steam-0127">汽</a> <a href="https://nihongonotes.com/kanji/grade2/#pond-0188">池</a> <a href="https://nihongonotes.com/kanji/grade2/#comfort-0302">楽</a> <a href="https://nihongonotes.com/kanji/grade3/#warm-up-0199">温</a> <a href="https://nihongonotes.com/kanji/grade3/#lake-0259">湖</a> <a href="https://nihongonotes.com/kanji/grade3/#next-0278">次</a> <a href="https://nihongonotes.com/kanji/grade3/#decide-0330">決</a> <a href="https://nihongonotes.com/kanji/grade3/#pour-0368">注</a> <a href="https://nihongonotes.com/kanji/grade4/#method-0139">法</a> <a href="https://nihongonotes.com/kanji/grade4/#full-0179">満</a> <a href="https://nihongonotes.com/kanji/grade5/#semi-0714-unreviewed">準</a> <a href="https://nihongonotes.com/kanji/grade6/#wash-0135">洗</a> <a href="https://nihongonotes.com/kanji/grade6/#tide-0146">潮</a> <a href="https://nihongonotes.com/kanji/grade6/#spring-water-0207">泉</a> <a href="https://nihongonotes.com/kanji/grade6/#source-0209">源</a> <a href="https://nihongonotes.com/kanji/grade71/#damp-0200">湿</a> <a href="https://nihongonotes.com/kanji/grade71/#ferry-across-0281">渡</a> <a href="https://nihongonotes.com/kanji/grade71/#flood-0358">洪</a> <a href="https://nihongonotes.com/kanji/grade71/#sweat-0410">汗</a> <a href="https://nihongonotes.com/kanji/grade71/#have-relations-with-0680-unreviewed">渉</a> <a href="https://nihongonotes.com/kanji/grade72/#drop-2-1119-unreviewed">滴</a> <a href="https://nihongonotes.com/kanji/grade72/#overnight-1183-unreviewed">泊</a> <a href="https://nihongonotes.com/kanji/grade75/#mud-2117-unreviewed">泥</a> <a href="https://nihongonotes.com/kanji/grade75/#spread-out-2119">氾</a> <a href="https://nihongonotes.com/kanji/other/#eventide-0268">汐</a> <a href="https://nihongonotes.com/kanji/other/#overflow-0415">溢</a> <a href="https://nihongonotes.com/kanji/other/#wet-2112-unreviewed">濡</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#lively-0054">活</a> <a href="https://nihongonotes.com/kanji/grade2/#sea-0106">海</a> <a href="https://nihongonotes.com/kanji/grade2/#steam-0127">汽</a> <a href="https://nihongonotes.com/kanji/grade2/#pond-0188">池</a> <a href="https://nihongonotes.com/kanji/grade2/#comfort-0302">楽</a> <a href="https://nihongonotes.com/kanji/grade3/#warm-up-0199">温</a> <a href="https://nihongonotes.com/kanji/grade3/#lake-0259">湖</a> <a href="https://nihongonotes.com/kanji/grade3/#next-0278">次</a> <a href="https://nihongonotes.com/kanji/grade3/#decide-0330">決</a> <a href="https://nihongonotes.com/kanji/grade3/#pour-0368">注</a> <a href="https://nihongonotes.com/kanji/grade3/#oil-0433">油</a> <a href="https://nihongonotes.com/kanji/grade3/#green-0607">緑</a> <a href="https://nihongonotes.com/kanji/grade4/#method-0139">法</a> <a href="https://nihongonotes.com/kanji/grade4/#full-0179">満</a> <a href="https://nihongonotes.com/kanji/grade5/#semi-0714-unreviewed">準</a> <a href="https://nihongonotes.com/kanji/grade6/#wash-0135">洗</a> <a href="https://nihongonotes.com/kanji/grade6/#tide-0146">潮</a> <a href="https://nihongonotes.com/kanji/grade6/#spring-water-0207">泉</a> <a href="https://nihongonotes.com/kanji/grade6/#source-0209">源</a> <a href="https://nihongonotes.com/kanji/grade71/#damp-0200">湿</a> <a href="https://nihongonotes.com/kanji/grade71/#ferry-across-0281">渡</a> <a href="https://nihongonotes.com/kanji/grade71/#flood-0358">洪</a> <a href="https://nihongonotes.com/kanji/grade71/#sweat-0410">汗</a> <a href="https://nihongonotes.com/kanji/grade71/#have-relations-with-0680-unreviewed">渉</a> <a href="https://nihongonotes.com/kanji/grade72/#drop-2-1119-unreviewed">滴</a> <a href="https://nihongonotes.com/kanji/grade72/#overnight-1183-unreviewed">泊</a> <a href="https://nihongonotes.com/kanji/grade75/#mud-2117-unreviewed">泥</a> <a href="https://nihongonotes.com/kanji/grade75/#spread-out-2119">氾</a> <a href="https://nihongonotes.com/kanji/other/#eventide-0268">汐</a> <a href="https://nihongonotes.com/kanji/other/#overflow-0415">溢</a> <a href="https://nihongonotes.com/kanji/other/#wet-2112-unreviewed">濡</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/氵%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=氵" target="_blank">wanikani.com</a></small></div>
@@ -144,7 +144,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#country-0075">国</a> <a href="https://nihongonotes.com/kanji/grade2/#diagram-0298">図</a> <a href="https://nihongonotes.com/kanji/grade4/#harden-0260">固</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#country-0075">国</a> <a href="https://nihongonotes.com/kanji/grade2/#diagram-0298">図</a> <a href="https://nihongonotes.com/kanji/grade2/#garden-0856">園</a> <a href="https://nihongonotes.com/kanji/grade4/#harden-0260">固</a> <a href="https://nihongonotes.com/kanji/grade4/#surround-0435">囲</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/囗%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=囗" target="_blank">wanikani.com</a></small></div>
@@ -222,7 +222,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#same-0182">同</a> <a href="https://nihongonotes.com/kanji/grade3/#both-0177">両</a> <a href="https://nihongonotes.com/kanji/grade3/#merchant-0351">商</a> <a href="https://nihongonotes.com/kanji/grade4/#circumference-0304">周</a> <a href="https://nihongonotes.com/kanji/grade71/#towel-0203">巾</a> <a href="https://nihongonotes.com/kanji/other/#hill-2-0178">岡</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#same-0182">同</a> <a href="https://nihongonotes.com/kanji/grade3/#both-0177">両</a> <a href="https://nihongonotes.com/kanji/grade3/#merchant-0351">商</a> <a href="https://nihongonotes.com/kanji/grade4/#circumference-0304">周</a> <a href="https://nihongonotes.com/kanji/grade71/#towel-0203">巾</a> <a href="https://nihongonotes.com/kanji/other/#hill-2-0178">岡</a> <a href="https://nihongonotes.com/kanji/particles/#mustache-p022">冋</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/冂%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=冂" target="_blank">wanikani.com</a></small></div>
@@ -252,7 +252,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#wind-0425">風</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#wind-0425">風</a> <a href="https://nihongonotes.com/kanji/particles/#weapon-p075">殳</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/几%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=几" target="_blank">wanikani.com</a></small></div>
@@ -262,7 +262,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">⺈</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#number-0300">号</a> <a href="https://nihongonotes.com/kanji/grade5/#paragraph-0166">句</a> <a href="https://nihongonotes.com/kanji/grade5/#uniformity-0394">均</a> <a href="https://nihongonotes.com/kanji/grade71/#in-season-0167">旬</a> <a href="https://nihongonotes.com/kanji/other/#droplet-0168">勺</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#color-0528">色</a> <a href="https://nihongonotes.com/kanji/grade3/#number-0300">号</a> <a href="https://nihongonotes.com/kanji/grade5/#paragraph-0166">句</a> <a href="https://nihongonotes.com/kanji/grade5/#uniformity-0394">均</a> <a href="https://nihongonotes.com/kanji/grade71/#in-season-0167">旬</a> <a href="https://nihongonotes.com/kanji/other/#droplet-0168">勺</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/勹%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=勹" target="_blank">wanikani.com</a></small></div>
@@ -282,7 +282,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">广</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#expression-0180">顔</a> <a href="https://nihongonotes.com/kanji/grade2/#original-0208">原</a> <a href="https://nihongonotes.com/kanji/grade2/#wide-0238">広</a> <a href="https://nihongonotes.com/kanji/grade2/#shop-2-0347">店</a> <a href="https://nihongonotes.com/kanji/grade3/#degrees-0280">度</a> <a href="https://nihongonotes.com/kanji/grade3/#anti-0374">反</a> <a href="https://nihongonotes.com/kanji/grade4/#give-birth-0181">産</a> <a href="https://nihongonotes.com/kanji/grade4/#government-office-0247">府</a> <a href="https://nihongonotes.com/kanji/grade4/#seat-0279">席</a> <a href="https://nihongonotes.com/kanji/grade5/#pressure-0186">圧</a> <a href="https://nihongonotes.com/kanji/grade5/#equipprovide-0715-unreviewed">備</a> <a href="https://nihongonotes.com/kanji/grade71/#obsolete-0149">廃</a> <a href="https://nihongonotes.com/kanji/grade71/#corridor-0287">廊</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#expression-0180">顔</a> <a href="https://nihongonotes.com/kanji/grade2/#original-0208">原</a> <a href="https://nihongonotes.com/kanji/grade2/#wide-0238">広</a> <a href="https://nihongonotes.com/kanji/grade2/#shop-2-0347">店</a> <a href="https://nihongonotes.com/kanji/grade3/#degrees-0280">度</a> <a href="https://nihongonotes.com/kanji/grade3/#anti-0374">反</a> <a href="https://nihongonotes.com/kanji/grade4/#give-birth-0181">産</a> <a href="https://nihongonotes.com/kanji/grade4/#government-office-0247">府</a> <a href="https://nihongonotes.com/kanji/grade4/#seat-0279">席</a> <a href="https://nihongonotes.com/kanji/grade5/#pressure-0186">圧</a> <a href="https://nihongonotes.com/kanji/grade5/#equipprovide-0715-unreviewed">備</a> <a href="https://nihongonotes.com/kanji/grade71/#obsolete-0149">廃</a> <a href="https://nihongonotes.com/kanji/grade71/#corridor-0287">廊</a> <a href="https://nihongonotes.com/kanji/particles/#tiger-p083">虍</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/厂%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=厂" target="_blank">wanikani.com</a></small></div>
@@ -292,7 +292,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#sell-0353">売</a> <a href="https://nihongonotes.com/kanji/grade3/#to-receive-0065">受</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#sell-0353">売</a> <a href="https://nihongonotes.com/kanji/grade3/#to-receive-0065">受</a> <a href="https://nihongonotes.com/kanji/grade3/#carry-0584">運</a> <a href="https://nihongonotes.com/kanji/particles/#schoolhouse-p029"></a> <a href="https://nihongonotes.com/kanji/particles/#house-p031">宀</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/冖%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=冖" target="_blank">wanikani.com</a></small></div>
@@ -312,7 +312,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#eat-0288">食</a> <a href="https://nihongonotes.com/kanji/grade3/#all-0078">全</a> <a href="https://nihongonotes.com/kanji/grade71/#concern-oneself-0611-unreviewed">介</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#eat-0288">食</a> <a href="https://nihongonotes.com/kanji/grade2/#tea-0603">茶</a> <a href="https://nihongonotes.com/kanji/grade3/#all-0078">全</a> <a href="https://nihongonotes.com/kanji/grade5/#excess-0995">余</a> <a href="https://nihongonotes.com/kanji/grade71/#concern-oneself-0611">介</a> <a href="https://nihongonotes.com/kanji/particles/#meet-p086">亼</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/𠆢%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=𠆢" target="_blank">wanikani.com</a></small></div>
@@ -352,7 +352,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#public-0089">公</a> <a href="https://nihongonotes.com/kanji/grade2/#wide-0238">広</a> <a href="https://nihongonotes.com/kanji/grade2/#strong-0423">強</a> <a href="https://nihongonotes.com/kanji/grade3/#past-0138">去</a> <a href="https://nihongonotes.com/kanji/grade5/#detain-1170-unreviewed">留</a> <a href="https://nihongonotes.com/kanji/grade6/#watashi-0237">私</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#public-0089">公</a> <a href="https://nihongonotes.com/kanji/grade2/#wide-0238">広</a> <a href="https://nihongonotes.com/kanji/grade2/#strong-0423">強</a> <a href="https://nihongonotes.com/kanji/grade3/#past-0138">去</a> <a href="https://nihongonotes.com/kanji/grade5/#detain-1170-unreviewed">留</a> <a href="https://nihongonotes.com/kanji/grade6/#watashi-0237">私</a> <a href="https://nihongonotes.com/kanji/grade6/#window-0558">窓</a> <a href="https://nihongonotes.com/kanji/particles/#smushed-nose-p035"></a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/厶%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=厶" target="_blank">wanikani.com</a></small></div>
@@ -387,14 +387,15 @@ description: A list of kanji particles, used to help remember the kanji
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/礻%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=礻" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>衤</span></span> <span class="kanji-details">garment <br><small>p038</small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/ape.png"></span> <span class="kanji-details">ape <br><small>p038</small></span></div>
 
 <div class="grid cards grid--kanji">
-<p class="card"><strong>Variant</strong><br> <span class="japanese large">衣</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Variant</strong><br> <span class="japanese large">袁</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#soil-0030">soil</a>, <a href="https://nihongonotes.com/kanji/grade1/#mouth-0019">mouth</a>, <a href="https://nihongonotes.com/kanji/grade4/#garment-0700">garment</a></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#garden-0856">園</a> </span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/衤%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=衤" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>Custom image particle, no dictionary lookup available.</small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/by-ones-side.png"></span> <span class="kanji-details">by one's side <br><small>p039</small></span></div>
 
@@ -411,7 +412,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">⻍</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#pass-through-0159">通</a> <a href="https://nihongonotes.com/kanji/grade2/#near-0194">近</a> <a href="https://nihongonotes.com/kanji/grade2/#week-0305">週</a> <a href="https://nihongonotes.com/kanji/grade3/#advance-0191">進</a> <a href="https://nihongonotes.com/kanji/grade3/#return-0378">返</a> <a href="https://nihongonotes.com/kanji/grade3/#play-0570-unreviewed">遊</a> <a href="https://nihongonotes.com/kanji/grade4/#area-0195">辺</a> <a href="https://nihongonotes.com/kanji/grade4/#take-along-0582-unreviewed">連</a> <a href="https://nihongonotes.com/kanji/grade4/#accomplished-1475-unreviewed">達</a> <a href="https://nihongonotes.com/kanji/grade5/#fit-1121-unreviewed">適</a> <a href="https://nihongonotes.com/kanji/grade71/#crowded-0192">込</a> <a href="https://nihongonotes.com/kanji/grade72/#welcome-1139-unreviewed">迎</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#pass-through-0159">通</a> <a href="https://nihongonotes.com/kanji/grade2/#near-0194">近</a> <a href="https://nihongonotes.com/kanji/grade2/#week-0305">週</a> <a href="https://nihongonotes.com/kanji/grade3/#advance-0191">進</a> <a href="https://nihongonotes.com/kanji/grade3/#return-0378">返</a> <a href="https://nihongonotes.com/kanji/grade3/#play-0570-unreviewed">遊</a> <a href="https://nihongonotes.com/kanji/grade3/#carry-0584">運</a> <a href="https://nihongonotes.com/kanji/grade4/#area-0195">辺</a> <a href="https://nihongonotes.com/kanji/grade4/#take-along-0582-unreviewed">連</a> <a href="https://nihongonotes.com/kanji/grade4/#accomplished-1475-unreviewed">達</a> <a href="https://nihongonotes.com/kanji/grade5/#fit-1121-unreviewed">適</a> <a href="https://nihongonotes.com/kanji/grade71/#crowded-0192">込</a> <a href="https://nihongonotes.com/kanji/grade72/#welcome-1139-unreviewed">迎</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/⻌%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=⻌" target="_blank">wanikani.com</a></small></div>
@@ -421,7 +422,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#sun-0001">sun</a>, <a href="https://nihongonotes.com/kanji/particles/#hook-p008">hook</a></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#electricity-0155">電</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#electricity-0155">電</a> <a href="https://nihongonotes.com/kanji/grade73/#myself-1356">俺</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>Custom image particle, no dictionary lookup available.</small></div>
@@ -451,7 +452,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">彐</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#day-of-the-week-0025">曜</a> <a href="https://nihongonotes.com/kanji/grade2/#hit-0141">当</a> <a href="https://nihongonotes.com/kanji/grade2/#homecoming-1018-unreviewed">帰</a> <a href="https://nihongonotes.com/kanji/grade3/#thing-0080">事</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#day-of-the-week-0025">曜</a> <a href="https://nihongonotes.com/kanji/grade2/#hit-0141">当</a> <a href="https://nihongonotes.com/kanji/grade2/#snow-0899">雪</a> <a href="https://nihongonotes.com/kanji/grade2/#homecoming-1018-unreviewed">帰</a> <a href="https://nihongonotes.com/kanji/grade3/#thing-0080">事</a> <a href="https://nihongonotes.com/kanji/grade3/#green-0607">緑</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/ヨ%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=ヨ" target="_blank">wanikani.com</a></small></div>
@@ -463,7 +464,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">攴</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#count-0309">数</a> <a href="https://nihongonotes.com/kanji/grade2/#teach-0632-unreviewed">教</a> <a href="https://nihongonotes.com/kanji/grade3/#arrange-0308">整</a> <a href="https://nihongonotes.com/kanji/grade4/#renew-0429">改</a> <a href="https://nihongonotes.com/kanji/grade5/#politics-0246">政</a> <a href="https://nihongonotes.com/kanji/grade5/#reason-0257">故</a> <a href="https://nihongonotes.com/kanji/grade5/#enemy-1122-unreviewed">敵</a> <a href="https://nihongonotes.com/kanji/grade71/#do-0251">致</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#count-0309">数</a> <a href="https://nihongonotes.com/kanji/grade2/#teach-0632-unreviewed">教</a> <a href="https://nihongonotes.com/kanji/grade3/#arrange-0308">整</a> <a href="https://nihongonotes.com/kanji/grade4/#renew-0429">改</a> <a href="https://nihongonotes.com/kanji/grade5/#politics-0246">政</a> <a href="https://nihongonotes.com/kanji/grade5/#circumstance-0257">故</a> <a href="https://nihongonotes.com/kanji/grade5/#enemy-1122-unreviewed">敵</a> <a href="https://nihongonotes.com/kanji/grade71/#do-0251">致</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/攵%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=攵" target="_blank">wanikani.com</a></small></div>
@@ -473,7 +474,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#flower-0121">花</a> <a href="https://nihongonotes.com/kanji/grade1/#grass-0144">草</a> <a href="https://nihongonotes.com/kanji/grade3/#medicine-0303">薬</a> <a href="https://nihongonotes.com/kanji/grade3/#suffering-0405">苦</a> <a href="https://nihongonotes.com/kanji/grade3/#leaf-0605-unreviewed">葉</a> <a href="https://nihongonotes.com/kanji/grade4/#full-0179">満</a> <a href="https://nihongonotes.com/kanji/grade4/#art-0225">芸</a> <a href="https://nihongonotes.com/kanji/grade4/#england-0332">英</a> <a href="https://nihongonotes.com/kanji/grade4/#vegetable-0988-unreviewed">菜</a> <a href="https://nihongonotes.com/kanji/grade5/#equipprovide-0715-unreviewed">備</a> <a href="https://nihongonotes.com/kanji/grade6/#young-0404">若</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#flower-0121">花</a> <a href="https://nihongonotes.com/kanji/grade1/#grass-0144">草</a> <a href="https://nihongonotes.com/kanji/grade2/#tea-0603">茶</a> <a href="https://nihongonotes.com/kanji/grade3/#medicine-0303">薬</a> <a href="https://nihongonotes.com/kanji/grade3/#suffering-0405">苦</a> <a href="https://nihongonotes.com/kanji/grade3/#leaf-0605-unreviewed">葉</a> <a href="https://nihongonotes.com/kanji/grade4/#full-0179">満</a> <a href="https://nihongonotes.com/kanji/grade4/#art-0225">芸</a> <a href="https://nihongonotes.com/kanji/grade4/#england-0332">英</a> <a href="https://nihongonotes.com/kanji/grade4/#vegetable-0988-unreviewed">菜</a> <a href="https://nihongonotes.com/kanji/grade5/#equipprovide-0715-unreviewed">備</a> <a href="https://nihongonotes.com/kanji/grade6/#young-0404">若</a> <a href="https://nihongonotes.com/kanji/grade71/#confectionery-0602">菓</a> <a href="https://nihongonotes.com/kanji/grade74/#draw-1824">描</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/艹%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=艹" target="_blank">wanikani.com</a></small></div>
@@ -483,7 +484,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">丷</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#front-0113">前</a> <a href="https://nihongonotes.com/kanji/grade2/#rice-0234">米</a> <a href="https://nihongonotes.com/kanji/grade3/#peace-0334">平</a> <a href="https://nihongonotes.com/kanji/grade5/#benefit-0414">益</a> <a href="https://nihongonotes.com/kanji/grade6/#line-up-0333">並</a> <a href="https://nihongonotes.com/kanji/other/#hill-2-0178">岡</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#front-0113">前</a> <a href="https://nihongonotes.com/kanji/grade2/#rice-0234">米</a> <a href="https://nihongonotes.com/kanji/grade3/#peace-0334">平</a> <a href="https://nihongonotes.com/kanji/grade4/#connect-with-0451">関</a> <a href="https://nihongonotes.com/kanji/grade5/#benefit-0414">益</a> <a href="https://nihongonotes.com/kanji/grade6/#line-up-0333">並</a> <a href="https://nihongonotes.com/kanji/other/#hill-2-0178">岡</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/䒑%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=䒑" target="_blank">wanikani.com</a></small></div>
@@ -493,7 +494,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#change-0120">化</a> <a href="https://nihongonotes.com/kanji/grade3/#finger-0932-unreviewed">指</a> <a href="https://nihongonotes.com/kanji/grade5/#compare-0123">比</a> <a href="https://nihongonotes.com/kanji/grade5/#compare-0123">比</a> <a href="https://nihongonotes.com/kanji/grade75/#mud-2117-unreviewed">泥</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#change-0120">化</a> <a href="https://nihongonotes.com/kanji/grade3/#death-0716">死</a> <a href="https://nihongonotes.com/kanji/grade3/#finger-0932-unreviewed">指</a> <a href="https://nihongonotes.com/kanji/grade5/#compare-0123">比</a> <a href="https://nihongonotes.com/kanji/grade5/#compare-0123">比</a> <a href="https://nihongonotes.com/kanji/grade75/#mud-2117-unreviewed">泥</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/匕%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=匕" target="_blank">wanikani.com</a></small></div>
@@ -503,7 +504,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade5/#alone-0346">独</a> <a href="https://nihongonotes.com/kanji/other/#wild-boar-0217">猪</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade5/#alone-0346">独</a> <a href="https://nihongonotes.com/kanji/grade74/#monkey-1859">猿</a> <a href="https://nihongonotes.com/kanji/other/#wild-boar-0217">猪</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/犭%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=犭" target="_blank">wanikani.com</a></small></div>
@@ -573,7 +574,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#trip-0569-unreviewed">旅</a> <a href="https://nihongonotes.com/kanji/particles/#root-p055">艮</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#trip-0569-unreviewed">旅</a> <a href="https://nihongonotes.com/kanji/grade3/#express-0705">表</a> <a href="https://nihongonotes.com/kanji/grade6/#backside-0704">裏</a> <a href="https://nihongonotes.com/kanji/particles/#root-p055">艮</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/𧘇%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=𧘇" target="_blank">wanikani.com</a></small></div>
@@ -583,7 +584,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#hold-0384">持</a> <a href="https://nihongonotes.com/kanji/grade3/#finger-0932-unreviewed">指</a> <a href="https://nihongonotes.com/kanji/grade6/#ego-0221">我</a> <a href="https://nihongonotes.com/kanji/grade72/#suspend-1117-unreviewed">掛</a> <a href="https://nihongonotes.com/kanji/grade72/#pick-1118-unreviewed">摘</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#hold-0384">持</a> <a href="https://nihongonotes.com/kanji/grade3/#finger-0932-unreviewed">指</a> <a href="https://nihongonotes.com/kanji/grade4/#fold-1698">折</a> <a href="https://nihongonotes.com/kanji/grade6/#ego-0221">我</a> <a href="https://nihongonotes.com/kanji/grade72/#suspend-1117-unreviewed">掛</a> <a href="https://nihongonotes.com/kanji/grade72/#pick-1118-unreviewed">摘</a> <a href="https://nihongonotes.com/kanji/grade74/#draw-1824">描</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/扌%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=扌" target="_blank">wanikani.com</a></small></div>
@@ -603,7 +604,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#day-of-the-week-0025">曜</a> <a href="https://nihongonotes.com/kanji/grade3/#gather-0190">集</a> <a href="https://nihongonotes.com/kanji/grade3/#advance-0191">進</a> <a href="https://nihongonotes.com/kanji/grade5/#miscellaneous-0379">雑</a> <a href="https://nihongonotes.com/kanji/grade5/#semi-0714-unreviewed">準</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#day-of-the-week-0025">曜</a> <a href="https://nihongonotes.com/kanji/grade3/#gather-0190">集</a> <a href="https://nihongonotes.com/kanji/grade3/#advance-0191">進</a> <a href="https://nihongonotes.com/kanji/grade5/#miscellaneous-0379">雑</a> <a href="https://nihongonotes.com/kanji/grade5/#semi-0714-unreviewed">準</a> <a href="https://nihongonotes.com/kanji/grade74/#hold-a-meeting-1653">催</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/隹%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=隹" target="_blank">wanikani.com</a></small></div>
@@ -623,7 +624,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#row-0718-unreviewed">列</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#death-0716">死</a> <a href="https://nihongonotes.com/kanji/grade3/#row-0718">列</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/歹%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=歹" target="_blank">wanikani.com</a></small></div>
@@ -663,7 +664,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">开龷</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#shape-0147">形</a> <a href="https://nihongonotes.com/kanji/grade3/#emit-0148">発</a> <a href="https://nihongonotes.com/kanji/grade3/#once-upon-a-time-0359">昔</a> <a href="https://nihongonotes.com/kanji/grade4/#together-0356">共</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#shape-0147">形</a> <a href="https://nihongonotes.com/kanji/grade2/#yellow-0915">黄</a> <a href="https://nihongonotes.com/kanji/grade3/#emit-0148">発</a> <a href="https://nihongonotes.com/kanji/grade3/#once-upon-a-time-0359">昔</a> <a href="https://nihongonotes.com/kanji/grade3/#open-0450">開</a> <a href="https://nihongonotes.com/kanji/grade3/#nose-2-1558">鼻</a> <a href="https://nihongonotes.com/kanji/grade4/#together-0356">共</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/廾%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=廾" target="_blank">wanikani.com</a></small></div>
@@ -712,7 +713,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#substitute-0071">代</a> <a href="https://nihongonotes.com/kanji/grade3/#ritual-0109">式</a> <a href="https://nihongonotes.com/kanji/grade5/#military-0111">武</a> <a href="https://nihongonotes.com/kanji/grade71/#two-2-0110">弐</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#substitute-0071">代</a> <a href="https://nihongonotes.com/kanji/grade3/#ritual-0109">式</a> <a href="https://nihongonotes.com/kanji/grade5/#military-0111">武</a> <a href="https://nihongonotes.com/kanji/grade71/#two-2-0110">弐</a> <a href="https://nihongonotes.com/kanji/particles/#spear-p071">戈</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/弋%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=弋" target="_blank">wanikani.com</a></small></div>
@@ -722,7 +723,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#ceremony-p070">ceremony</a>, <a href="https://nihongonotes.com/kanji/particles/#slash-p006">slash</a></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade6/#ego-0221">我</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade6/#ego-0221">我</a> <a href="https://nihongonotes.com/kanji/particles/#double-edged-spear-p072">戊</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/戈%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=戈" target="_blank">wanikani.com</a></small></div>
@@ -819,7 +820,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="japanese large">竹</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#bamboo-2-0243">竹</a> <a href="https://nihongonotes.com/kanji/grade2/#answer-0981-unreviewed">答</a> <a href="https://nihongonotes.com/kanji/grade3/#equal-0393">等</a> <a href="https://nihongonotes.com/kanji/grade4/#season-0391">節</a> <a href="https://nihongonotes.com/kanji/grade6/#muscle-0392">筋</a> <a href="https://nihongonotes.com/kanji/grade71/#counter-for-items-0261">箇</a> <a href="https://nihongonotes.com/kanji/other/#pole-0411">竿</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#bamboo-2-0243">竹</a> <a href="https://nihongonotes.com/kanji/grade2/#answer-0981-unreviewed">答</a> <a href="https://nihongonotes.com/kanji/grade3/#equal-0393">等</a> <a href="https://nihongonotes.com/kanji/grade4/#season-0391">節</a> <a href="https://nihongonotes.com/kanji/grade4/#laugh-0579">笑</a> <a href="https://nihongonotes.com/kanji/grade6/#muscle-0392">筋</a> <a href="https://nihongonotes.com/kanji/grade71/#counter-for-items-0261">箇</a> <a href="https://nihongonotes.com/kanji/other/#pole-0411">竿</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/⺮%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=⺮" target="_blank">wanikani.com</a></small></div>
@@ -908,7 +909,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#village-0651">村</a> <a href="https://nihongonotes.com/kanji/grade2/#buddhist-temple-0382">寺</a> <a href="https://nihongonotes.com/kanji/grade4/#attach-0064">付</a> <a href="https://nihongonotes.com/kanji/grade4/#acquire-0387">得</a> <a href="https://nihongonotes.com/kanji/grade6/#measurement-0381">寸</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#village-0651">村</a> <a href="https://nihongonotes.com/kanji/grade2/#buddhist-temple-0382">寺</a> <a href="https://nihongonotes.com/kanji/grade4/#attach-0064">付</a> <a href="https://nihongonotes.com/kanji/grade4/#acquire-0387">得</a> <a href="https://nihongonotes.com/kanji/grade6/#measurement-0381">寸②</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/寸%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=寸" target="_blank">wanikani.com</a></small></div>
@@ -918,7 +919,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#six-0008">六</a> <a href="https://nihongonotes.com/kanji/grade1/#eight-0010">八</a> <a href="https://nihongonotes.com/kanji/grade1/#shellfish-0082">貝</a> <a href="https://nihongonotes.com/kanji/grade2/#part-0088">分</a> <a href="https://nihongonotes.com/kanji/grade2/#public-0089">公</a> <a href="https://nihongonotes.com/kanji/grade3/#work-business-industry-0498-unreviewed">業</a> <a href="https://nihongonotes.com/kanji/grade4/#together-0356">共</a> <a href="https://nihongonotes.com/kanji/grade5/#benefit-0414">益</a> <a href="https://nihongonotes.com/kanji/grade6/#hole-0397">穴</a> <a href="https://nihongonotes.com/kanji/other/#overflow-0415">溢</a> <a href="https://nihongonotes.com/kanji/other/#also-0773">亦</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#six-0008">六</a> <a href="https://nihongonotes.com/kanji/grade1/#eight-0010">八</a> <a href="https://nihongonotes.com/kanji/grade1/#shellfish-0082">貝</a> <a href="https://nihongonotes.com/kanji/grade2/#part-0088">分</a> <a href="https://nihongonotes.com/kanji/grade2/#public-0089">公</a> <a href="https://nihongonotes.com/kanji/grade2/#yellow-0915">黄</a> <a href="https://nihongonotes.com/kanji/grade3/#work-business-industry-0498-unreviewed">業</a> <a href="https://nihongonotes.com/kanji/grade3/#tool-0837">具</a> <a href="https://nihongonotes.com/kanji/grade4/#together-0356">共</a> <a href="https://nihongonotes.com/kanji/grade5/#benefit-0414">益</a> <a href="https://nihongonotes.com/kanji/grade6/#hole-0397">穴</a> <a href="https://nihongonotes.com/kanji/other/#overflow-0415">溢</a> <a href="https://nihongonotes.com/kanji/other/#also-0773">亦</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/ハ%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=ハ" target="_blank">wanikani.com</a></small></div>
