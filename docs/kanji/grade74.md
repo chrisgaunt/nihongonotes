@@ -10,7 +10,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>5/200 keywords reviewed</div><div>3%</div></div><div class="bar"><div class="percent" style="width:3%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>1/200 kanji contexts</div><div>2 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress progress--contexts"><div class="headings"><div>2/200 kanji contexts</div><div>3 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>糾</span></span> <span class="kanji-details">inquire into <br><small>1621 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -534,10 +534,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>雪だるまは帽子をかぶります<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#2b485a9da37a73ede9086945b4f4b459">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>雪だるまは帽子をかぶります<br><a href="/notes/youtube/comprehensible-japanese/#2b485a9da37a73ede9086945b4f4b459">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>赤い帽子をかぶります<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#4867ef0642a63248ff8dec059b38eba3">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>赤い帽子をかぶります<br><a href="/notes/youtube/comprehensible-japanese/#4867ef0642a63248ff8dec059b38eba3">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1508,6 +1508,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/描%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=描" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-contexts" markdown>
+??? quote "Contexts"
+
+    <!-- -->
+    <blockquote><p>真ん中にドアを描きます<br><a href="/notes/youtube/comprehensible-japanese/#bdcdd5ef9f623be5e649a1297aab63c2">Comprehensible Japanese</a></p></blockquote>
+
+</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>猫</span></span> <span class="kanji-details">cat <br><small>1825 <mark class="cited">Unreviewed</mark></small></span></div>
 

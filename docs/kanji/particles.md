@@ -163,7 +163,7 @@ description: A list of kanji particles, used to help remember the kanji
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>メロンです緑のメロンです<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#8009a3fc399a52b24df2ca5f3d0750e6">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>メロンです緑のメロンです<br><a href="/notes/youtube/comprehensible-japanese/#8009a3fc399a52b24df2ca5f3d0750e6">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 

@@ -434,7 +434,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>栗です<br>茶色い栗です<br>&mdash; <a href="/notes/youtube/comprehensible-japanese/#afe4c6f3cfa81af8e8d78d44d7ad51fb">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>栗です<br>茶色い栗です<br><a href="/notes/youtube/comprehensible-japanese/#afe4c6f3cfa81af8e8d78d44d7ad51fb">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 

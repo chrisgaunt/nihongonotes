@@ -10,7 +10,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>2/200 keywords reviewed</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>0/200 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress progress--contexts"><div class="headings"><div>1/200 kanji contexts</div><div>1 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>癒</span></span> <span class="kanji-details">heal <br><small>0948 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -275,6 +275,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/斜%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=斜" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-contexts" markdown>
+??? quote "Contexts"
+
+    <!-- -->
+    <blockquote><p>斜めに折ります<br><a href="/notes/youtube/comprehensible-japanese/#a6837db6760d6a0d7f4db763deaf3335">Comprehensible Japanese</a></p></blockquote>
+
+</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>途</span></span> <span class="kanji-details">way <br><small>1000 <mark class="cited">Unreviewed</mark></small></span></div>
 
