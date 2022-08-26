@@ -678,7 +678,7 @@ description: A list of kanji particles, used to help remember the kanji
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/廴%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=廴" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>⻖←</span></span> <span class="kanji-details">wall <br><small>p067</small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/wall.png"></span> <span class="kanji-details">wall <br><small>p067</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -686,9 +686,9 @@ description: A list of kanji particles, used to help remember the kanji
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade5/#defend-against-0174">防</a> <a href="https://nihongonotes.com/kanji/grade5/#limit-0282">限</a> <a href="https://nihongonotes.com/kanji/grade6/#descend-1377">降</a> <a href="https://nihongonotes.com/kanji/other/#osaka-0376">阪</a> </span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/⻖←%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=⻖←" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>Custom image particle, no dictionary lookup available.</small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>→⻏</span></span> <span class="kanji-details">hometown <br><small>p068</small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><img src="../../images/kanji/hometown.png"></span> <span class="kanji-details">hometown <br><small>p068</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -696,7 +696,7 @@ description: A list of kanji particles, used to help remember the kanji
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#section-0068">部</a> <a href="https://nihongonotes.com/kanji/grade3/#metropolis-0244">都</a> <a href="https://nihongonotes.com/kanji/grade71/#guy-0286">郎</a> </span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/→⻏%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=→⻏" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>Custom image particle, no dictionary lookup available.</small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>咅</span></span> <span class="kanji-details">hellmouth <br><small>p069</small></span></div>
 
