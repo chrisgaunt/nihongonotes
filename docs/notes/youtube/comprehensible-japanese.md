@@ -5,7 +5,7 @@ description: The Comprehensible Japanese YouTube channel is excellent input for 
 
 # Comprehensible Japanese
 
-<small>Source: [Comprehensible Japanese YouTube channel](https://www.youtube.com/c/ComprehensibleJapanese)</small>
+<small>Source: <a href="https://www.youtube.com/c/ComprehensibleJapanese" target="_blank">Comprehensible Japanese YouTube channel</a>
 
 ### Absolute Beginner
 

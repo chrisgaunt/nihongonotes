@@ -280,7 +280,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>斜めに折ります<br><a href="/notes/youtube/comprehensible-japanese/#a6837db6760d6a0d7f4db763deaf3335">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>斜めに折ります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#a6837db6760d6a0d7f4db763deaf3335">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 

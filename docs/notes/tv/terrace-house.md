@@ -5,7 +5,7 @@ description: Terrace House is great conversational input for immersion learning
 
 # Terrace House<br><small>テラスハウス</small>
 
-<small>Source: [Netflix](https://www.netflix.com)</small>
+<small>Source: <a href="https://www.netflix.com" target="_blank">Netflix</a>
 
 ### Boys x Girls Next Door (2012-2014)
 

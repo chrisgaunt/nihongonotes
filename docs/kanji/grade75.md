@@ -1083,7 +1083,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>緊張します<br><a href="/notes/tv/terrace-house/#89489defa249e5f6776603823d2c32a0">Terrace House</a></p></blockquote>
+    <blockquote><p>緊張します<br><a href="https://nihongonotes.com/notes/tv/terrace-house/#89489defa249e5f6776603823d2c32a0">Terrace House</a></p></blockquote>
 
 </div>
 

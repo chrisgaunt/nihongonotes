@@ -27,7 +27,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>丸があります　丸<br><a href="/notes/youtube/comprehensible-japanese/#b50a80bce936fb89c4a6e3473d11342f">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>丸があります　丸<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#b50a80bce936fb89c4a6e3473d11342f">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -126,7 +126,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>「さむ～い」と言っています<br><a href="/notes/youtube/comprehensible-japanese/#ef0c59d86957764ed8d5817edb8a4c59">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>「さむ～い」と言っています<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#ef0c59d86957764ed8d5817edb8a4c59">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -190,7 +190,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>これは雪だるまの体です<br><a href="/notes/youtube/comprehensible-japanese/#cf5b0a346d549f84e7cf37d31c394a15">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>これは雪だるまの体です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#cf5b0a346d549f84e7cf37d31c394a15">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -266,7 +266,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>半分に折ります<br><a href="/notes/youtube/comprehensible-japanese/#0f5f6adf962b979ec5493285be638fb3">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>半分に折ります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#0f5f6adf962b979ec5493285be638fb3">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -592,7 +592,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>これは雪だるまの頭です<br><a href="/notes/youtube/comprehensible-japanese/#f82a899c1e93d39a3346c90b93ba95e5">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>これは雪だるまの頭です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#f82a899c1e93d39a3346c90b93ba95e5">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -767,7 +767,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>英語が好きです<br><a href="/notes/youtube/comprehensible-japanese/#72ba2b6d14be231569ced78b2f7ae41d">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>英語が好きです<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#72ba2b6d14be231569ced78b2f7ae41d">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -787,7 +787,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>社会人ですか？社会人…<br><a href="/notes/tv/terrace-house/#a771f7fea4da4941196fbac0008a9064">Terrace House</a></p></blockquote>
+    <blockquote><p>社会人ですか？社会人…<br><a href="https://nihongonotes.com/notes/tv/terrace-house/#a771f7fea4da4941196fbac0008a9064">Terrace House</a></p></blockquote>
 
 </div>
 
@@ -819,7 +819,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>今日はとっても寒いです<br><a href="/notes/youtube/comprehensible-japanese/#b0aeb78c9add3d2c404d8ca9c38364d3">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>今日はとっても寒いです<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#b0aeb78c9add3d2c404d8ca9c38364d3">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1053,7 +1053,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>数学は難しいです<br><a href="/notes/youtube/comprehensible-japanese/#b6c23b653a0d3506308d52214d94148d">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>数学は難しいです<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#b6c23b653a0d3506308d52214d94148d">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1072,7 +1072,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>社会人ですか？社会人…<br><a href="/notes/tv/terrace-house/#a771f7fea4da4941196fbac0008a9064">Terrace House</a></p></blockquote>
+    <blockquote><p>社会人ですか？社会人…<br><a href="https://nihongonotes.com/notes/tv/terrace-house/#a771f7fea4da4941196fbac0008a9064">Terrace House</a></p></blockquote>
 
 </div>
 
@@ -1091,7 +1091,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>半分に折ります<br><a href="/notes/youtube/comprehensible-japanese/#0f5f6adf962b979ec5493285be638fb3">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>半分に折ります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#0f5f6adf962b979ec5493285be638fb3">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1135,13 +1135,13 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>四角い紙です<br><a href="/notes/youtube/comprehensible-japanese/#e25a71659f1fd2010f8dc467fc46f85a">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>四角い紙です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#e25a71659f1fd2010f8dc467fc46f85a">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>四角い紙です<br><a href="/notes/youtube/comprehensible-japanese/#fd0ffd1241b3224025dd2039a356c854">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>四角い紙です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#fd0ffd1241b3224025dd2039a356c854">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>角を中に入れます<br><a href="/notes/youtube/comprehensible-japanese/#24f0274a9e18bc6a9910ac770481386f">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>角を中に入れます<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#24f0274a9e18bc6a9910ac770481386f">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1216,7 +1216,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>冬です<br><a href="/notes/youtube/comprehensible-japanese/#d219a0bd1a5cf72e35bb0b941945bf91">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>冬です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#d219a0bd1a5cf72e35bb0b941945bf91">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1235,7 +1235,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>私は春が好きです<br><a href="/notes/youtube/comprehensible-japanese/#260b7ea630fa4af7e2edf8ee6b87f94d">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>私は春が好きです<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#260b7ea630fa4af7e2edf8ee6b87f94d">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1456,16 +1456,16 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>折り紙をします<br><a href="/notes/youtube/comprehensible-japanese/#58a45407d418c420eb27ea933bf80a7c">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>折り紙をします<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#58a45407d418c420eb27ea933bf80a7c">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>黄緑の折り紙です<br><a href="/notes/youtube/comprehensible-japanese/#343cc9e4dcbde5497c421be8c8dc8722">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>黄緑の折り紙です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#343cc9e4dcbde5497c421be8c8dc8722">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>四角い紙です<br><a href="/notes/youtube/comprehensible-japanese/#e25a71659f1fd2010f8dc467fc46f85a">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>四角い紙です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#e25a71659f1fd2010f8dc467fc46f85a">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>四角い紙です<br><a href="/notes/youtube/comprehensible-japanese/#fd0ffd1241b3224025dd2039a356c854">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>四角い紙です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#fd0ffd1241b3224025dd2039a356c854">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1506,10 +1506,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>絵の具があります<br><a href="/notes/youtube/comprehensible-japanese/#8b18027618085d4cfc42672737a09cfa">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>絵の具があります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#8b18027618085d4cfc42672737a09cfa">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>3色の絵の具があります<br><a href="/notes/youtube/comprehensible-japanese/#bcb7a96d460db61a3b6ffe3045012c5c">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>3色の絵の具があります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#bcb7a96d460db61a3b6ffe3045012c5c">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1528,13 +1528,13 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>黄色<br><a href="/notes/youtube/comprehensible-japanese/#7232a906b46292f6759ef9e69bd66cf2">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>黄色<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#7232a906b46292f6759ef9e69bd66cf2">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>3色の絵の具があります<br><a href="/notes/youtube/comprehensible-japanese/#bcb7a96d460db61a3b6ffe3045012c5c">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>3色の絵の具があります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#bcb7a96d460db61a3b6ffe3045012c5c">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>栗です<br>茶色い栗です<br><a href="/notes/youtube/comprehensible-japanese/#afe4c6f3cfa81af8e8d78d44d7ad51fb">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>栗です<br>茶色い栗です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#afe4c6f3cfa81af8e8d78d44d7ad51fb">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1643,7 +1643,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>栗です<br>茶色い栗です<br><a href="/notes/youtube/comprehensible-japanese/#afe4c6f3cfa81af8e8d78d44d7ad51fb">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>栗です<br>茶色い栗です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#afe4c6f3cfa81af8e8d78d44d7ad51fb">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1842,25 +1842,25 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>雪がたくさん降っています<br><a href="/notes/youtube/comprehensible-japanese/#9fd531ca7dfcaf430ca85bbec74a07e0">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>雪がたくさん降っています<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#9fd531ca7dfcaf430ca85bbec74a07e0">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>これは雪だるまの鼻です<br><a href="/notes/youtube/comprehensible-japanese/#2334db92d21b20c8e9cd6219ea2ea399">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>これは雪だるまの鼻です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#2334db92d21b20c8e9cd6219ea2ea399">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>これは雪だるまの頭です<br><a href="/notes/youtube/comprehensible-japanese/#f82a899c1e93d39a3346c90b93ba95e5">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>これは雪だるまの頭です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#f82a899c1e93d39a3346c90b93ba95e5">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>これは雪だるまの体です<br><a href="/notes/youtube/comprehensible-japanese/#cf5b0a346d549f84e7cf37d31c394a15">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>これは雪だるまの体です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#cf5b0a346d549f84e7cf37d31c394a15">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>これは雪だるまの口です<br><a href="/notes/youtube/comprehensible-japanese/#901c4b9aac85fb0817e0e945f12f47fc">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>これは雪だるまの口です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#901c4b9aac85fb0817e0e945f12f47fc">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>雪だるまは帽子をかぶります<br><a href="/notes/youtube/comprehensible-japanese/#2b485a9da37a73ede9086945b4f4b459">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>雪だるまは帽子をかぶります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#2b485a9da37a73ede9086945b4f4b459">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>雪だるまは笑っています<br><a href="/notes/youtube/comprehensible-japanese/#af29f343c280407e0e6f632fd08afd8f">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>雪だるまは笑っています<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#af29f343c280407e0e6f632fd08afd8f">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1879,13 +1879,13 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>黄色<br><a href="/notes/youtube/comprehensible-japanese/#7232a906b46292f6759ef9e69bd66cf2">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>黄色<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#7232a906b46292f6759ef9e69bd66cf2">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>黄緑の折り紙です<br><a href="/notes/youtube/comprehensible-japanese/#343cc9e4dcbde5497c421be8c8dc8722">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>黄緑の折り紙です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#343cc9e4dcbde5497c421be8c8dc8722">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>表は黄緑<br><a href="/notes/youtube/comprehensible-japanese/#ba85a6a2bdf2264329be94e2d4e6a378">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>表は黄緑<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#ba85a6a2bdf2264329be94e2d4e6a378">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1924,7 +1924,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>答</span></span> <span class="kanji-details">answer <br><small>0981 <mark class="cited">Unreviewed</mark></small></span></div>
 
-<blockquote class="story"><p>"Does the bamboo suit me?" you ask... but nobody will answer</p></blockquote>
+<blockquote class="story"><p>Does the bamboo suit me? you ask... but nobody will answer</p></blockquote>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>

@@ -534,10 +534,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>雪だるまは帽子をかぶります<br><a href="/notes/youtube/comprehensible-japanese/#2b485a9da37a73ede9086945b4f4b459">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>雪だるまは帽子をかぶります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#2b485a9da37a73ede9086945b4f4b459">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>赤い帽子をかぶります<br><a href="/notes/youtube/comprehensible-japanese/#4867ef0642a63248ff8dec059b38eba3">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>赤い帽子をかぶります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#4867ef0642a63248ff8dec059b38eba3">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1513,7 +1513,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>真ん中にドアを描きます<br><a href="/notes/youtube/comprehensible-japanese/#bdcdd5ef9f623be5e649a1297aab63c2">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>真ん中にドアを描きます<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#bdcdd5ef9f623be5e649a1297aab63c2">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 

@@ -248,7 +248,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>果物がたくさんあります<br><a href="/notes/youtube/comprehensible-japanese/#76cb553a82b81e7bd86213b55014a5ca">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>果物がたくさんあります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#76cb553a82b81e7bd86213b55014a5ca">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -368,7 +368,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>バスを運転しています<br><a href="/notes/youtube/comprehensible-japanese/#633585f83f62c58d53db544adc59b1cb">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>バスを運転しています<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#633585f83f62c58d53db544adc59b1cb">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -754,7 +754,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>今日はとっても寒いです<br><a href="/notes/youtube/comprehensible-japanese/#b0aeb78c9add3d2c404d8ca9c38364d3">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>今日はとっても寒いです<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#b0aeb78c9add3d2c404d8ca9c38364d3">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -841,7 +841,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>裏返します<br><a href="/notes/youtube/comprehensible-japanese/#66c62fdd0636b44f847c5fa0fb2914e8">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>裏返します<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#66c62fdd0636b44f847c5fa0fb2914e8">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1005,7 +1005,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>開きます<br><a href="/notes/youtube/comprehensible-japanese/#087493087f881917b2bdddd751780629">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>開きます<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#087493087f881917b2bdddd751780629">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1311,7 +1311,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>バスを運転しています<br><a href="/notes/youtube/comprehensible-japanese/#633585f83f62c58d53db544adc59b1cb">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>バスを運転しています<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#633585f83f62c58d53db544adc59b1cb">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1375,13 +1375,13 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>メロンです緑のメロンです<br><a href="/notes/youtube/comprehensible-japanese/#8009a3fc399a52b24df2ca5f3d0750e6">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>メロンです緑のメロンです<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#8009a3fc399a52b24df2ca5f3d0750e6">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>黄緑の折り紙です<br><a href="/notes/youtube/comprehensible-japanese/#343cc9e4dcbde5497c421be8c8dc8722">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>黄緑の折り紙です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#343cc9e4dcbde5497c421be8c8dc8722">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>表は黄緑<br><a href="/notes/youtube/comprehensible-japanese/#ba85a6a2bdf2264329be94e2d4e6a378">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>表は黄緑<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#ba85a6a2bdf2264329be94e2d4e6a378">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1521,7 +1521,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>表は黄緑<br><a href="/notes/youtube/comprehensible-japanese/#ba85a6a2bdf2264329be94e2d4e6a378">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>表は黄緑<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#ba85a6a2bdf2264329be94e2d4e6a378">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1652,10 +1652,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>絵の具があります<br><a href="/notes/youtube/comprehensible-japanese/#8b18027618085d4cfc42672737a09cfa">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>絵の具があります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#8b18027618085d4cfc42672737a09cfa">Comprehensible Japanese</a></p></blockquote>
 
     <!-- -->
-    <blockquote><p>3色の絵の具があります<br><a href="/notes/youtube/comprehensible-japanese/#bcb7a96d460db61a3b6ffe3045012c5c">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>3色の絵の具があります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#bcb7a96d460db61a3b6ffe3045012c5c">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -1674,7 +1674,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>真ん中にドアを描きます<br><a href="/notes/youtube/comprehensible-japanese/#bdcdd5ef9f623be5e649a1297aab63c2">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>真ん中にドアを描きます<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#bdcdd5ef9f623be5e649a1297aab63c2">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
@@ -2133,7 +2133,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p>これは雪だるまの鼻です<br><a href="/notes/youtube/comprehensible-japanese/#2334db92d21b20c8e9cd6219ea2ea399">Comprehensible Japanese</a></p></blockquote>
+    <blockquote><p>これは雪だるまの鼻です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#2334db92d21b20c8e9cd6219ea2ea399">Comprehensible Japanese</a></p></blockquote>
 
 </div>
 
