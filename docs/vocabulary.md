@@ -22,7 +22,7 @@ A list of all the words collected during my immersion in no particular order.
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese</a></p></blockquote>    <!-- -->
+    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese - 雪だるま Snowman</a></p></blockquote>    <!-- -->
 </div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">ボタン</span><span class="interpunct">・</span><span class="vocab-details">ぼたん<br><span class="interpunct">・</span><small>000002</small></span></div>
@@ -37,7 +37,7 @@ A list of all the words collected during my immersion in no particular order.
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese</a></p></blockquote>    <!-- -->
+    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese - 雪だるま Snowman</a></p></blockquote>    <!-- -->
 </div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">雪だるま</span><span class="interpunct">・</span><span class="vocab-details">ゆきだるま<br><span class="interpunct">・</span><small>000003</small></span></div>
@@ -53,7 +53,7 @@ A list of all the words collected during my immersion in no particular order.
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese</a></p></blockquote>    <!-- -->
+    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese - 雪だるま Snowman</a></p></blockquote>    <!-- -->
 </div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">降る</span><span class="interpunct">・</span><span class="vocab-details">ふる<br><span class="interpunct">・</span><small>000004</small></span></div>
@@ -69,7 +69,7 @@ A list of all the words collected during my immersion in no particular order.
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese</a></p></blockquote>    <!-- -->
+    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese - 雪だるま Snowman</a></p></blockquote>    <!-- -->
 </div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">鼻</span><span class="interpunct">・</span><span class="vocab-details">はな<br><span class="interpunct">・</span><small>000005</small></span></div>
@@ -85,7 +85,7 @@ A list of all the words collected during my immersion in no particular order.
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese</a></p></blockquote>    <!-- -->
+    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese - 雪だるま Snowman</a></p></blockquote>    <!-- -->
 </div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">口</span><span class="interpunct">・</span><span class="vocab-details">くち<br><span class="interpunct">・</span><small>000006</small></span></div>
@@ -101,7 +101,7 @@ A list of all the words collected during my immersion in no particular order.
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese</a></p></blockquote>    <!-- -->
+    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese - 雪だるま Snowman</a></p></blockquote>    <!-- -->
 </div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">帽子</span><span class="interpunct">・</span><span class="vocab-details">ぼうし<br><span class="interpunct">・</span><small>000007</small></span></div>
@@ -117,7 +117,7 @@ A list of all the words collected during my immersion in no particular order.
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese</a></p></blockquote>    <!-- -->
+    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese - 雪だるま Snowman</a></p></blockquote>    <!-- -->
 </div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">寒い</span><span class="interpunct">・</span><span class="vocab-details">さむい<br><span class="interpunct">・</span><small>000008</small></span></div>
@@ -133,7 +133,7 @@ A list of all the words collected during my immersion in no particular order.
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese</a></p></blockquote>    <!-- -->
+    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese - 雪だるま Snowman</a></p></blockquote>    <!-- -->
 </div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">緑</span><span class="interpunct">・</span><span class="vocab-details">みどり<br><span class="interpunct">・</span><small>000009</small></span></div>
@@ -149,7 +149,7 @@ A list of all the words collected during my immersion in no particular order.
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese</a></p></blockquote>    <!-- -->
+    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese - 雪だるま Snowman</a></p></blockquote>    <!-- -->
 </div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">丸</span><span class="interpunct">・</span><span class="vocab-details">まる<br><span class="interpunct">・</span><small>000010</small></span></div>
@@ -165,6 +165,6 @@ A list of all the words collected during my immersion in no particular order.
 ??? quote "Contexts"
 
     <!-- -->
-    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese</a></p></blockquote>    <!-- -->
+    <blockquote><p><a href="https://www.youtube.com/watch?v=NUTWwLvqOdA" target="_blank">Comprehensible Japanese - 雪だるま Snowman</a></p></blockquote>    <!-- -->
 </div>
 

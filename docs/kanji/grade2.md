@@ -369,11 +369,11 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>牛</span></span> <span class="kanji-details">cow <br><small>0116</small></span></div>
 
 <div class="grid cards grid--kanji">
-<p class="card"><strong>Variant</strong><br> <span class="japanese large">𠂒㐄</span></p>
+<p class="card"><strong>Variant</strong><br> <span class="japanese large">𠂒</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ギュウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">うし</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#year-0117">年</a> <a href="https://nihongonotes.com/kanji/grade1/#previous-0134">先</a> <a href="https://nihongonotes.com/kanji/grade3/#thing-tangible-0172">物</a> <a href="https://nihongonotes.com/kanji/grade4/#special-0385">特</a> <a href="https://nihongonotes.com/kanji/grade5/#matter-0118">件</a> <a href="https://nihongonotes.com/kanji/grade5/#solve-0345">解</a> <a href="https://nihongonotes.com/kanji/grade6/#descend-1377">降</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#previous-0134">先</a> <a href="https://nihongonotes.com/kanji/grade3/#thing-tangible-0172">物</a> <a href="https://nihongonotes.com/kanji/grade4/#special-0385">特</a> <a href="https://nihongonotes.com/kanji/grade5/#matter-0118">件</a> <a href="https://nihongonotes.com/kanji/grade5/#solve-0345">解</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/牛%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=牛" target="_blank">wanikani.com</a></small></div>

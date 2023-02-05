@@ -7,7 +7,7 @@ description: A list of kanji particles, used to help remember the kanji
 
 
 
-<div class="progress"><div class="headings"><div>94/94 keywords reviewed</div><div>100%</div></div><div class="bar"><div class="percent" style="width:100%"></div></div></div>
+<div class="progress"><div class="headings"><div>95/95 keywords reviewed</div><div>100%</div></div><div class="bar"><div class="percent" style="width:100%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>儿</span></span> <span class="kanji-details">legs <br><small>p001</small></span></div>
 
@@ -945,4 +945,14 @@ description: A list of kanji particles, used to help remember the kanji
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/氺%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=氺" target="_blank">wanikani.com</a></small></div>
+
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>㐄</span></span> <span class="kanji-details">almost a year <br><small>p095</small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#year-0117">年</a> <a href="https://nihongonotes.com/kanji/grade6/#descend-1377">降</a> </span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/㐄%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=㐄" target="_blank">wanikani.com</a></small></div>
 
