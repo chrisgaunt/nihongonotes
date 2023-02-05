@@ -10,7 +10,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>96/200 keywords reviewed</div><div>48%</div></div><div class="bar"><div class="percent" style="width:48%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>11/200 kanji contexts</div><div>14 total contexts</div></div><div class="bar"><div class="percent" style="width:6%"></div></div></div>
+<div class="progress progress--vocab"><div class="headings"><div>3/200 vocabulary</div><div>2%</div></div><div class="bar"><div class="percent" style="width:2%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>定</span></span> <span class="kanji-details">fix <br><small>0045</small></span></div>
 
@@ -93,8 +93,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/代%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=代" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>全</span></span> <span class="kanji-details">all <br><small>0078</small></span></div>
-
-<blockquote class="story"><p>all kings wear hats</p></blockquote>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -244,14 +242,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/物%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=物" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>果物がたくさんあります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#76cb553a82b81e7bd86213b55014a5ca">Comprehensible Japanese</a></p></blockquote>
-
-</div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>面</span></span> <span class="kanji-details">face <br><small>0175</small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -363,14 +353,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/転%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=転" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>バスを運転しています<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#633585f83f62c58d53db544adc59b1cb">Comprehensible Japanese</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>命</span></span> <span class="kanji-details">fate <br><small>0232</small></span></div>
 
@@ -743,20 +725,13 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#house-p031">house</a>, <a href="https://nihongonotes.com/kanji/particles/#spring-p089">spring</a>, <a href="https://nihongonotes.com/kanji/particles/#ice-p010">ice</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#house-p031">house</a>, <a href="https://nihongonotes.com/kanji/particles/#tall-fence-p092">tall fence</a>, <a href="https://nihongonotes.com/kanji/particles/#little-feet-p091">little feet</a>, <a href="https://nihongonotes.com/kanji/particles/#ice-p010">ice</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">カン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">さむ.い</span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000008">寒い</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/寒%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=寒" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>今日はとっても寒いです<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#b0aeb78c9add3d2c404d8ca9c38364d3">Comprehensible Japanese</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>主</span></span> <span class="kanji-details">master <br><small>0365</small></span></div>
 
@@ -836,14 +811,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/返%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=返" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>裏返します<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#66c62fdd0636b44f847c5fa0fb2914e8">Comprehensible Japanese</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>持</span></span> <span class="kanji-details">hold <br><small>0384</small></span></div>
 
@@ -951,7 +918,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ユ ・ ユウ ・ ユイ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">よし</span></p>
-<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#oil-0433">油</a> </span></p>
+<p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#yellow-0915">黄</a> <a href="https://nihongonotes.com/kanji/grade3/#oil-0433">油</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/由%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=由" target="_blank">wanikani.com</a></small></div>
@@ -1000,14 +967,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/開%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=開" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>開きます<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#087493087f881917b2bdddd751780629">Comprehensible Japanese</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>問</span></span> <span class="kanji-details">problem <br><small>0452</small></span></div>
 
@@ -1307,14 +1266,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/運%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=運" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>バスを運転しています<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#633585f83f62c58d53db544adc59b1cb">Comprehensible Japanese</a></p></blockquote>
-
-</div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>皮</span></span> <span class="kanji-details">skin <br><small>0595 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -1364,26 +1315,13 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#thread-0112">thread</a>, <a href="https://nihongonotes.com/kanji/particles/#broom-p044">broom</a>, <a href="https://nihongonotes.com/kanji/particles/#water-p009">water</a></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#thread-0112">thread</a>, <a href="https://nihongonotes.com/kanji/particles/#broom-p044">broom</a>, <a href="https://nihongonotes.com/kanji/particles/#splash-p094">splash</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">リョク ・ ロク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">みどり</span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000009">緑</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/緑%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=緑" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>メロンです緑のメロンです<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#8009a3fc399a52b24df2ca5f3d0750e6">Comprehensible Japanese</a></p></blockquote>
-
-    <!-- -->
-    <blockquote><p>黄緑の折り紙です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#343cc9e4dcbde5497c421be8c8dc8722">Comprehensible Japanese</a></p></blockquote>
-
-    <!-- -->
-    <blockquote><p>表は黄緑<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#ba85a6a2bdf2264329be94e2d4e6a378">Comprehensible Japanese</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>界</span></span> <span class="kanji-details">world <br><small>0612 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1517,14 +1455,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/表%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=表" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>表は黄緑<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#ba85a6a2bdf2264329be94e2d4e6a378">Comprehensible Japanese</a></p></blockquote>
-
-</div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>死</span></span> <span class="kanji-details">death <br><small>0716</small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -1648,17 +1578,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/具%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=具" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>絵の具があります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#8b18027618085d4cfc42672737a09cfa">Comprehensible Japanese</a></p></blockquote>
-
-    <!-- -->
-    <blockquote><p>3色の絵の具があります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#bcb7a96d460db61a3b6ffe3045012c5c">Comprehensible Japanese</a></p></blockquote>
-
-</div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>真</span></span> <span class="kanji-details">reality <br><small>0838</small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -1669,14 +1588,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/真%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=真" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>真ん中にドアを描きます<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#bdcdd5ef9f623be5e649a1297aab63c2">Comprehensible Japanese</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>植</span></span> <span class="kanji-details">plant <br><small>0840 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -2125,17 +2036,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#self-0081">self</a>, <a href="https://nihongonotes.com/kanji/grade1/#rice-field-0020">rice field</a>, <a href="https://nihongonotes.com/kanji/particles/#two-hands-p065">two hands</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ビ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">はな</span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000005">鼻</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/鼻%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=鼻" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>これは雪だるまの鼻です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#2334db92d21b20c8e9cd6219ea2ea399">Comprehensible Japanese</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>橋</span></span> <span class="kanji-details">bridge <br><small>1578 <mark class="cited">Unreviewed</mark></small></span></div>
 

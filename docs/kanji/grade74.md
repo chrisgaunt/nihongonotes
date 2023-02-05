@@ -10,7 +10,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>5/200 keywords reviewed</div><div>3%</div></div><div class="bar"><div class="percent" style="width:3%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>2/200 kanji contexts</div><div>3 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress progress--vocab"><div class="headings"><div>0/200 vocabulary</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>糾</span></span> <span class="kanji-details">inquire into <br><small>1621 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -526,20 +526,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade71/#towel-0203">towel</a>, <a href="https://nihongonotes.com/kanji/grade74/#dare-1683">dare</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ボウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000007">帽子</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/帽%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=帽" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>雪だるまは帽子をかぶります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#2b485a9da37a73ede9086945b4f4b459">Comprehensible Japanese</a></p></blockquote>
-
-    <!-- -->
-    <blockquote><p>赤い帽子をかぶります<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#4867ef0642a63248ff8dec059b38eba3">Comprehensible Japanese</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>棟</span></span> <span class="kanji-details">building <br><small>1688 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1508,14 +1498,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/描%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=描" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>真ん中にドアを描きます<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#bdcdd5ef9f623be5e649a1297aab63c2">Comprehensible Japanese</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>猫</span></span> <span class="kanji-details">cat <br><small>1825 <mark class="cited">Unreviewed</mark></small></span></div>
 

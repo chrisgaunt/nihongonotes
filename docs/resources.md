@@ -119,7 +119,7 @@ Here are all the immersion and study resources I've worked through or plan to wo
 
 ## :material-television: Kids TV Series
 
---8<-- "includes/resources/002_peppa_pig.md"
+??? tv "Peppa Pig"
 
 ??? tv "Rilakkuma and Kaoru"
 

@@ -7,6 +7,10 @@
     font-size: 2em;
 }
 
+.medium {
+    font-size: 1.5em;
+}
+
 .right {
     float: right;
 }
@@ -40,6 +44,13 @@
     border-radius: 9999px;
 }
 
+.progress--vocab .headings {
+    color: #68bb6c;
+}
+.progress--vocab .percent {
+    background-color: #68bb6c;
+}
+
 .progress--contexts .headings {
     color: #ab47bd;
 }
@@ -49,6 +60,10 @@
 
 .japanese {
     font-family: 'Sawarabi Gothic', sans-serif;
+}
+
+.interpunct {
+    display: none;
 }
 
 .kanji-wrapper h3 {
@@ -101,6 +116,55 @@ blockquote.story {
 
 .kanji-contexts {
     margin-left: 1.4rem;
+}
+
+.vocab-wrapper h3 {
+    display: flex;
+    font-size: 22px;
+}
+
+@media (max-width: 768px) {
+    .vocab-wrapper h3 {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .vocab-wrapper h3 .headerlink {
+        height: 1px !important;
+        opacity: 0 !important;
+    }
+}
+
+mark.cited-vocab {
+    background-color: var(--md-typeset-ins-color);
+}
+
+.vocab {
+    position: relative;
+    padding: 0.8rem 1rem;
+    border: 0.05rem solid var(--md-default-fg-color--lightest);
+    border-radius: 0.1rem;
+    margin-right: 1rem;
+    display: inline-block;
+    box-shadow: var(--md-shadow-z1);
+    background-color: var(--md-primary-fg-color);
+    color: white;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    font-size: 44px;
+    line-height: 1.2;
+}
+
+.vocab span {
+    
+}
+
+.vocab:hover {
+    font-family: 'Sawarabi Mincho', serif;
+}
+
+.vocab-details {
+    display: inline-block;
+    padding-top: 0.4rem;
 }
 
 table.phrases {

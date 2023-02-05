@@ -8,9 +8,9 @@ description: A list of the high school kanji, ordered by the Kodansha Kanji Lear
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>2/287 keywords reviewed</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
+<div class="progress"><div class="headings"><div>3/287 keywords reviewed</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>2/287 kanji contexts</div><div>2 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress progress--vocab"><div class="headings"><div>0/287 vocabulary</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>露</span></span> <span class="kanji-details">dew ・ expose <br><small>1907 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -199,11 +199,11 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/峡%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=峡" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>狭</span></span> <span class="kanji-details">narrow <br><small>1933 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>狭</span></span> <span class="kanji-details">narrow <br><small>1933</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#animal-p049">animal</a>, husband, <a href="https://nihongonotes.com/kanji/particles/#horns-p047">horns</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">キョウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">せま.い ・ せば.める ・ せば.まる</span></p>
 </div>
@@ -1079,14 +1079,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/緊%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=緊" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>緊張します<br><a href="https://nihongonotes.com/notes/tv/terrace-house/#89489defa249e5f6776603823d2c32a0">Terrace House</a></p></blockquote>
-
-</div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>勃</span></span> <span class="kanji-details">suddenly rising <br><small>2036 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -1779,14 +1771,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/泥%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=泥" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    > [泥の水たまり](/notes/kids-tv/peppa-pig#episode-1)
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>漏</span></span> <span class="kanji-details">leak <br><small>2118 <mark class="cited">Unreviewed</mark></small></span></div>
 

@@ -10,7 +10,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>36/181 keywords reviewed</div><div>20%</div></div><div class="bar"><div class="percent" style="width:20%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>6/181 kanji contexts</div><div>8 total contexts</div></div><div class="bar"><div class="percent" style="width:3%"></div></div></div>
+<div class="progress progress--vocab"><div class="headings"><div>1/181 vocabulary</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>宝</span></span> <span class="kanji-details">treasure ② <br><small>0074</small></span></div>
 
@@ -145,14 +145,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/私%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=私" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>私は春が好きです<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#260b7ea630fa4af7e2edf8ee6b87f94d">Comprehensible Japanese</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>至</span></span> <span class="kanji-details">attain <br><small>0250</small></span></div>
 
@@ -478,14 +470,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/窓%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=窓" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>大きい窓です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#3551b0212de753f6194c3169aa5c4c63">Comprehensible Japanese</a></p></blockquote>
-
-</div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>株</span></span> <span class="kanji-details">stock <br><small>0567 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -652,20 +636,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/裏%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=裏" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>裏は白です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#2add67b8a9d6c31d781e01e7b363f86a">Comprehensible Japanese</a></p></blockquote>
-
-    <!-- -->
-    <blockquote><p>裏は白です<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#c6bf7c5c773855c26a94d2c2d6e865d6">Comprehensible Japanese</a></p></blockquote>
-
-    <!-- -->
-    <blockquote><p>裏返します<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#66c62fdd0636b44f847c5fa0fb2914e8">Comprehensible Japanese</a></p></blockquote>
-
-</div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>著</span></span> <span class="kanji-details">author ・ conspicuous <br><small>0707 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -687,14 +657,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/難%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=難" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>数学は難しいです<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#b6c23b653a0d3506308d52214d94148d">Comprehensible Japanese</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>危</span></span> <span class="kanji-details">dangerous <br><small>0726 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1474,17 +1436,10 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#wall-p067">wall</a>, <a href="https://nihongonotes.com/kanji/particles/#winter-p062">winter</a>, <a href="https://nihongonotes.com/kanji/grade2/#cow-0116">cow</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">コウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">お.りる ・ お.ろす ・ ふ.る ・ ふ.り</span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000004">降る</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/降%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=降" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>雪がたくさん降っています<br><a href="https://nihongonotes.com/notes/youtube/comprehensible-japanese/#9fd531ca7dfcaf430ca85bbec74a07e0">Comprehensible Japanese</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>密</span></span> <span class="kanji-details">close ・ secret <br><small>1383 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -2002,14 +1957,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/幼%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=幼" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>幼なじみになってください！<br><a href="https://nihongonotes.com/notes/manga/osananajimi/#159c76589244da2015e236d36cdbc259">今日から始める幼なじみ</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>推</span></span> <span class="kanji-details">infer ・ push forward <br><small>2150 <mark class="cited">Unreviewed</mark></small></span></div>
 

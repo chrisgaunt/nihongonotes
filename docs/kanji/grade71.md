@@ -10,11 +10,9 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>38/200 keywords reviewed</div><div>19%</div></div><div class="bar"><div class="percent" style="width:19%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>0/200 kanji contexts</div><div>0 total contexts</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress progress--vocab"><div class="headings"><div>0/200 vocabulary</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>又</span></span> <span class="kanji-details">grabbing hand <br><small>0058</small></span></div>
-
-<blockquote class="story"><p>またね (see you later)</p></blockquote>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>

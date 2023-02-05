@@ -8,9 +8,9 @@ description: A list of the 5th grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>37/185 keywords reviewed</div><div>20%</div></div><div class="bar"><div class="percent" style="width:20%"></div></div></div>
+<div class="progress"><div class="headings"><div>38/185 keywords reviewed</div><div>21%</div></div><div class="bar"><div class="percent" style="width:21%"></div></div></div>
 
-<div class="progress progress--contexts"><div class="headings"><div>1/185 kanji contexts</div><div>1 total contexts</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
+<div class="progress progress--vocab"><div class="headings"><div>0/185 vocabulary</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>舌</span></span> <span class="kanji-details">tongue <br><small>0052</small></span></div>
 
@@ -611,11 +611,11 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/保%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=保" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>団</span></span> <span class="kanji-details">collective <br><small>0649 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>団</span></span> <span class="kanji-details">group <br><small>0649</small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#enclosure-p014">enclosure</a>, <a href="https://nihongonotes.com/kanji/particles/#glue-p090">glue</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ダン ・ トン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
@@ -1693,7 +1693,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/俵%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=俵" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>群</span></span> <span class="kanji-details">group <br><small>1408 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>群</span></span> <span class="kanji-details">group ② <br><small>1408 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid cards grid--kanji">
 <p class="card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -2022,14 +2022,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/張%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=張" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-contexts" markdown>
-??? quote "Contexts"
-
-    <!-- -->
-    <blockquote><p>緊張します<br><a href="https://nihongonotes.com/notes/tv/terrace-house/#89489defa249e5f6776603823d2c32a0">Terrace House</a></p></blockquote>
-
-</div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>肥</span></span> <span class="kanji-details">fatten <br><small>2023 <mark class="cited">Unreviewed</mark></small></span></div>
 
