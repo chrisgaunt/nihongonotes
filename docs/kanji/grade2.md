@@ -10,7 +10,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>131/160 keywords reviewed</div><div>82%</div></div><div class="bar"><div class="percent" style="width:82%"></div></div></div>
 
-<div class="progress progress--vocab"><div class="headings"><div>2/160 vocabulary</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
+<div class="progress progress--vocab"><div class="headings"><div>6/160 vocabulary</div><div>4%</div></div><div class="bar"><div class="percent" style="width:4%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>丸</span></span> <span class="kanji-details">round <br><small>0012</small></span></div>
 
@@ -201,6 +201,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ジ ・ シ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">みずか.ら ・ おの.ずから*</span></p>
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade3/#nose-2-1558">鼻</a> </span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000013">自分</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/自%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=自" target="_blank">wanikani.com</a></small></div>
@@ -235,6 +236,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#little-feet-p091">little feet</a>, <a href="https://nihongonotes.com/kanji/grade2/#sword-0085">sword</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ブン ・ フン ・ ブ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">わ.ける ・ わ.け ・ わ.かれる ・ わ.かる ・ わ.かつ</span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000013">自分</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/分%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=分" target="_blank">wanikani.com</a></small></div>
@@ -294,6 +296,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ボ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">はは</span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000016">母の日</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/母%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=母" target="_blank">wanikani.com</a></small></div>
@@ -1107,6 +1110,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#winter-p062">winter</a>, <a href="https://nihongonotes.com/kanji/particles/#ice-p010">ice</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">トウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ふゆ</span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000015">冬</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/冬%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=冬" target="_blank">wanikani.com</a></small></div>

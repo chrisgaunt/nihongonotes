@@ -25,8 +25,8 @@ nav:
     - Resources: resources.md
     - Vocabulary: vocabulary.md
     - Kanji:
-        - "<span>1st Grade&nbsp;<mark class=\"cited-vocab\">2%</mark></span>": kanji/grade1.md
-        - "<span>2nd Grade&nbsp;<mark class=\"cited\">82%</mark>&nbsp;<mark class=\"cited-vocab\">1%</mark></span>": kanji/grade2.md
+        - "<span>1st Grade&nbsp;<mark class=\"cited-vocab\">12%</mark></span>": kanji/grade1.md
+        - "<span>2nd Grade&nbsp;<mark class=\"cited\">82%</mark>&nbsp;<mark class=\"cited-vocab\">4%</mark></span>": kanji/grade2.md
         - "<span>3rd Grade&nbsp;<mark class=\"cited\">48%</mark>&nbsp;<mark class=\"cited-vocab\">2%</mark></span>": kanji/grade3.md
         - "<span>4th Grade&nbsp;<mark class=\"cited\">31%</mark>&nbsp;<mark class=\"cited-vocab\">0%</mark></span>": kanji/grade4.md
         - "<span>5th Grade&nbsp;<mark class=\"cited\">21%</mark>&nbsp;<mark class=\"cited-vocab\">0%</mark></span>": kanji/grade5.md

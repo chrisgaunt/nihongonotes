@@ -442,7 +442,7 @@ description: A list of kanji particles, used to help remember the kanji
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>ヨ</span></span> <span class="kanji-details">broom <br><small>p044</small></span></div>
 
 <div class="grid cards grid--kanji">
-<p class="card"><strong>Variant</strong><br> <span class="japanese large">彐</span></p>
+<p class="card"><strong>Variant</strong><br> <span class="japanese large">彐⺕</span></p>
 <p class="card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#day-of-the-week-0025">曜</a> <a href="https://nihongonotes.com/kanji/grade2/#hit-0141">当</a> <a href="https://nihongonotes.com/kanji/grade2/#snow-0899">雪</a> <a href="https://nihongonotes.com/kanji/grade2/#homecoming-1018-unreviewed">帰</a> <a href="https://nihongonotes.com/kanji/grade3/#thing-0080">事</a> <a href="https://nihongonotes.com/kanji/grade3/#green-0607">緑</a> </span></p>
 </div>
