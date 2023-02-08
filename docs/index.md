@@ -7,4 +7,4 @@ description: Nihongo Notes is a collection of my personal notes and resources fr
 
 ## 日本語ノートへようこそ
 
-Nihongo Notes is a collection of my personal notes from learning Japanese.  
+Nihongo Notes is a collection of my personal notes from learning Japanese.

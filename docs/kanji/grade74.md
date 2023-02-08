@@ -526,7 +526,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade71/#towel-0203">towel</a>, <a href="https://nihongonotes.com/kanji/grade74/#dare-1683">dare</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ボウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
-<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000007">帽子</a> </span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000016">帽子</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/帽%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=帽" target="_blank">wanikani.com</a></small></div>

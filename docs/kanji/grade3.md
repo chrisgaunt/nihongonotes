@@ -728,7 +728,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#house-p031">house</a>, <a href="https://nihongonotes.com/kanji/particles/#tall-fence-p092">tall fence</a>, <a href="https://nihongonotes.com/kanji/particles/#little-feet-p091">little feet</a>, <a href="https://nihongonotes.com/kanji/particles/#ice-p010">ice</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">カン</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">さむ.い</span></p>
-<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000008">寒い</a> </span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000017">寒い</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/寒%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=寒" target="_blank">wanikani.com</a></small></div>
@@ -1318,7 +1318,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#thread-0112">thread</a>, <a href="https://nihongonotes.com/kanji/particles/#broom-p044">broom</a>, <a href="https://nihongonotes.com/kanji/particles/#splash-p094">splash</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">リョク ・ ロク</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">みどり</span></p>
-<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000009">緑</a> </span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000018">緑</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/緑%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=緑" target="_blank">wanikani.com</a></small></div>
@@ -2036,7 +2036,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#self-0081">self</a>, <a href="https://nihongonotes.com/kanji/grade1/#rice-field-0020">rice field</a>, <a href="https://nihongonotes.com/kanji/particles/#two-hands-p065">two hands</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">ビ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">はな</span></p>
-<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000005">鼻</a> </span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000014">鼻</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/鼻%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=鼻" target="_blank">wanikani.com</a></small></div>
