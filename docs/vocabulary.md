@@ -18,8 +18,6 @@ A list of all the words collected during my immersion in no particular order.
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/九%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=九" target="_blank">wanikani.com</a></small></div>
 
-</div>
-
 <div class="vocab-wrapper" markdown>### <span class="vocab">雨</span><span class="interpunct">・</span><span class="vocab-details">あめ<br><span class="interpunct">・</span><small>000002</small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -28,8 +26,6 @@ A list of all the words collected during my immersion in no particular order.
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/雨%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=雨" target="_blank">wanikani.com</a></small></div>
-
-</div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">自分</span><span class="interpunct">・</span><span class="vocab-details">じぶん<br><span class="interpunct">・</span><small>000003</small></span></div>
 
@@ -40,8 +36,6 @@ A list of all the words collected during my immersion in no particular order.
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/自分%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=自分" target="_blank">wanikani.com</a></small></div>
 
-</div>
-
 <div class="vocab-wrapper" markdown>### <span class="vocab">田んぼ</span><span class="interpunct">・</span><span class="vocab-details">たんぼ<br><span class="interpunct">・</span><small>000004</small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -50,8 +44,6 @@ A list of all the words collected during my immersion in no particular order.
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/田んぼ%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=田んぼ" target="_blank">wanikani.com</a></small></div>
-
-</div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">冬</span><span class="interpunct">・</span><span class="vocab-details">ふゆ<br><span class="interpunct">・</span><small>000005</small></span></div>
 
@@ -77,8 +69,6 @@ A list of all the words collected during my immersion in no particular order.
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/母の日%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=母の日" target="_blank">wanikani.com</a></small></div>
 
-</div>
-
 <div class="vocab-wrapper" markdown>### <span class="vocab">十年</span><span class="interpunct">・</span><span class="vocab-details">じゅうねん<br><span class="interpunct">・</span><small>000007</small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -87,8 +77,6 @@ A list of all the words collected during my immersion in no particular order.
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/十年%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=十年" target="_blank">wanikani.com</a></small></div>
-
-</div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">木</span><span class="interpunct">・</span><span class="vocab-details">きゅう<br><span class="interpunct">・</span><small>000026</small></span></div>
 
@@ -99,8 +87,6 @@ A list of all the words collected during my immersion in no particular order.
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/木%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=木" target="_blank">wanikani.com</a></small></div>
 
-</div>
-
 <div class="vocab-wrapper" markdown>### <span class="vocab">クモの糸</span><span class="interpunct">・</span><span class="vocab-details">クモのいと<br><span class="interpunct">・</span><small>000009</small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -109,8 +95,6 @@ A list of all the words collected during my immersion in no particular order.
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/クモの糸%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=クモの糸" target="_blank">wanikani.com</a></small></div>
-
-</div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">雪</span><span class="interpunct">・</span><span class="vocab-details">ゆき<br><span class="interpunct">・</span><small>000010</small></span></div>
 
@@ -270,8 +254,6 @@ A list of all the words collected during my immersion in no particular order.
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/小刀%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=小刀" target="_blank">wanikani.com</a></small></div>
 
-</div>
-
 <div class="vocab-wrapper" markdown>### <span class="vocab">当てる</span><span class="interpunct">・</span><span class="vocab-details">あてる<br><span class="interpunct">・</span><small>000021</small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -296,8 +278,6 @@ A list of all the words collected during my immersion in no particular order.
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/舌を出す%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=舌を出す" target="_blank">wanikani.com</a></small></div>
 
-</div>
-
 <div class="vocab-wrapper" markdown>### <span class="vocab">言う</span><span class="interpunct">・</span><span class="vocab-details">いう<br><span class="interpunct">・</span><small>000023</small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -306,8 +286,6 @@ A list of all the words collected during my immersion in no particular order.
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/言う%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=言う" target="_blank">wanikani.com</a></small></div>
-
-</div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">話す</span><span class="interpunct">・</span><span class="vocab-details">はなす<br><span class="interpunct">・</span><small>000024</small></span></div>
 
@@ -318,8 +296,6 @@ A list of all the words collected during my immersion in no particular order.
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/話す%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=話す" target="_blank">wanikani.com</a></small></div>
 
-</div>
-
 <div class="vocab-wrapper" markdown>### <span class="vocab">父</span><span class="interpunct">・</span><span class="vocab-details">ちち<br><span class="interpunct">・</span><small>000025</small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -328,8 +304,6 @@ A list of all the words collected during my immersion in no particular order.
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/父%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=父" target="_blank">wanikani.com</a></small></div>
-
-</div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">学ぶ</span><span class="interpunct">・</span><span class="vocab-details">まなぶ<br><span class="interpunct">・</span><small>000027</small></span></div>
 
@@ -340,8 +314,6 @@ A list of all the words collected during my immersion in no particular order.
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/学ぶ%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=学ぶ" target="_blank">wanikani.com</a></small></div>
 
-</div>
-
 <div class="vocab-wrapper" markdown>### <span class="vocab">学校</span><span class="interpunct">・</span><span class="vocab-details">がっこう<br><span class="interpunct">・</span><small>000028</small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -350,8 +322,6 @@ A list of all the words collected during my immersion in no particular order.
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/学校%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=学校" target="_blank">wanikani.com</a></small></div>
-
-</div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">校門</span><span class="interpunct">・</span><span class="vocab-details">こうもん<br><span class="interpunct">・</span><small>000029</small></span></div>
 
@@ -362,8 +332,6 @@ A list of all the words collected during my immersion in no particular order.
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/校門%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=校門" target="_blank">wanikani.com</a></small></div>
 
-</div>
-
 <div class="vocab-wrapper" markdown>### <span class="vocab">耳</span><span class="interpunct">・</span><span class="vocab-details">みみ<br><span class="interpunct">・</span><small>000030</small></span></div>
 
 <div class="grid cards grid--kanji">
@@ -372,8 +340,6 @@ A list of all the words collected during my immersion in no particular order.
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/耳%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=耳" target="_blank">wanikani.com</a></small></div>
-
-</div>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">聞く</span><span class="interpunct">・</span><span class="vocab-details">きく<br><span class="interpunct">・</span><small>000031</small></span></div>
 
