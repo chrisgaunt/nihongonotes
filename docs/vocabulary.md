@@ -7,7 +7,7 @@ description: A list of japanese vocabulary
 
 A list of all the words collected during my immersion in no particular order.
 
-<span class="medium">Total words: **30**</span>
+<span class="medium">Total words: **36**</span>
 
 <div class="vocab-wrapper" markdown>### <span class="vocab">九</span><span class="interpunct">・</span><span class="vocab-details">きゅう<br><span class="interpunct">・</span><small>000001</small></span></div>
 
@@ -355,4 +355,58 @@ A list of all the words collected during my immersion in no particular order.
 
     <!-- -->
     <blockquote><p><a href="https://cijapanese.com/guess-the-anime-character-members-only/" target="_blank">Comprehensible Japanese - アニメキャラ当てクイズ Guess the anime character</a></p></blockquote></div>
+
+<div class="vocab-wrapper" markdown>### <span class="vocab">中</span><span class="interpunct">・</span><span class="vocab-details">なか<br><span class="interpunct">・</span><small>000032</small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Meaning</strong><br> inside; interior; within; middle; center</p>
+<p class="card"><strong>Kanji</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#middle-0035">中</a> </span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/中%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=中" target="_blank">wanikani.com</a></small></div>
+
+<div class="vocab-wrapper" markdown>### <span class="vocab">虫</span><span class="interpunct">・</span><span class="vocab-details">むし<br><span class="interpunct">・</span><small>000033</small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Meaning</strong><br> insect</p>
+<p class="card"><strong>Kanji</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#insect-0343">虫</a> </span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/虫%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=虫" target="_blank">wanikani.com</a></small></div>
+
+<div class="vocab-wrapper" markdown>### <span class="vocab">弓</span><span class="interpunct">・</span><span class="vocab-details">ゆみ<br><span class="interpunct">・</span><small>000034</small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Meaning</strong><br> bow (weapon)</p>
+<p class="card"><strong>Kanji</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#bow-0421">弓</a> </span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/弓%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=弓" target="_blank">wanikani.com</a></small></div>
+
+<div class="vocab-wrapper" markdown>### <span class="vocab">矢</span><span class="interpunct">・</span><span class="vocab-details">や<br><span class="interpunct">・</span><small>000035</small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Meaning</strong><br> arrow</p>
+<p class="card"><strong>Kanji</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#arrow-0559">矢</a> </span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/矢%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=矢" target="_blank">wanikani.com</a></small></div>
+
+<div class="vocab-wrapper" markdown>### <span class="vocab">弓矢</span><span class="interpunct">・</span><span class="vocab-details">ゆみや<br><span class="interpunct">・</span><small>000036</small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Meaning</strong><br> bow and arrow; weapons; arms</p>
+<p class="card"><strong>Kanji</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#bow-0421">弓</a> <a href="https://nihongonotes.com/kanji/grade2/#arrow-0559">矢</a> </span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/弓矢%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=弓矢" target="_blank">wanikani.com</a></small></div>
+
+<div class="vocab-wrapper" markdown>### <span class="vocab">強い</span><span class="interpunct">・</span><span class="vocab-details">つよい<br><span class="interpunct">・</span><small></small></span></div>
+
+<div class="grid cards grid--kanji">
+<p class="card"><strong>Meaning</strong><br> strong; potent; competent; domineering; tough</p>
+<p class="card"><strong>Kanji</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#strong-0423">強</a> </span></p>
+</div>
+
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/強い%20%23words" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=強い" target="_blank">wanikani.com</a></small></div>
 

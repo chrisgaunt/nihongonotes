@@ -10,7 +10,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>81/81 keywords reviewed</div><div>100%</div></div><div class="bar"><div class="percent" style="width:100%"></div></div></div>
 
-<div class="progress progress--vocab"><div class="headings"><div>15/81 vocabulary</div><div>19%</div></div><div class="bar"><div class="percent" style="width:19%"></div></div></div>
+<div class="progress progress--vocab"><div class="headings"><div>17/81 vocabulary</div><div>21%</div></div><div class="bar"><div class="percent" style="width:21%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>日</span></span> <span class="kanji-details">sun <br><small>0001</small></span></div>
 
@@ -365,6 +365,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#stick-p019">stick</a>, <a href="https://nihongonotes.com/kanji/grade1/#mouth-0019">mouth</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">チュウ ・ ジュウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">なか</span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000032">中</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/中%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=中" target="_blank">wanikani.com</a></small></div>
@@ -882,6 +883,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">チュウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">むし</span></p>
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#strong-0423">強</a> <a href="https://nihongonotes.com/kanji/grade2/#wind-0425">風</a> <a href="https://nihongonotes.com/kanji/grade5/#alone-0346">独</a> <a href="https://nihongonotes.com/kanji/grade71/#touch-0344">触</a> </span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000033">虫</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/虫%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=虫" target="_blank">wanikani.com</a></small></div>

@@ -10,7 +10,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>131/160 keywords reviewed</div><div>82%</div></div><div class="bar"><div class="percent" style="width:82%"></div></div></div>
 
-<div class="progress progress--vocab"><div class="headings"><div>13/160 vocabulary</div><div>8%</div></div><div class="bar"><div class="percent" style="width:8%"></div></div></div>
+<div class="progress progress--vocab"><div class="headings"><div>16/160 vocabulary</div><div>10%</div></div><div class="bar"><div class="percent" style="width:10%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>丸</span></span> <span class="kanji-details">round <br><small>0012</small></span></div>
 
@@ -1207,6 +1207,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">キュウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ゆみ</span></p>
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#pull-0422">引</a> <a href="https://nihongonotes.com/kanji/grade2/#strong-0423">強</a> <a href="https://nihongonotes.com/kanji/grade2/#weak-0424">弱</a> <a href="https://nihongonotes.com/kanji/grade5/#stretch-2020">張</a> </span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000034">弓</a> <a href="https://nihongonotes.com/vocabulary/#000036">弓矢</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/弓%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=弓" target="_blank">wanikani.com</a></small></div>
@@ -1229,6 +1230,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#bow-0421">bow</a>, <a href="https://nihongonotes.com/kanji/particles/#nose-p034">nose</a>, <a href="https://nihongonotes.com/kanji/grade1/#insect-0343">insect</a></p>
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">キョウ ・ ゴウ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つよ.い ・ つよ.まる ・ つよ.める ・ し.いる</span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#">強い</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/強%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=強" target="_blank">wanikani.com</a></small></div>
@@ -1465,6 +1467,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="card"><strong class="japanese">音読み</strong><br> <span class="japanese">シ</span></p>
 <p class="card"><strong class="japanese">訓読み</strong><br> <span class="japanese">や</span></p>
 <p class="card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#know-0560">知</a> <a href="https://nihongonotes.com/kanji/grade3/#tribe-0568-unreviewed">族</a> <a href="https://nihongonotes.com/kanji/grade4/#season-seasonal-weather-1675-unreviewed">候</a> </span></p>
+<p class="card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000035">矢</a> <a href="https://nihongonotes.com/vocabulary/#000036">弓矢</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/矢%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=矢" target="_blank">wanikani.com</a></small></div>
