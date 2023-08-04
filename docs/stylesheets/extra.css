@@ -10,6 +10,11 @@
     position: relative;
 }
 
+#glightbox-body {
+    transform-style: preserve-3d;
+    transform: translateZ(0px) rotate(0deg);
+}
+
 .card-grid>.card:nth-child(1n) {
     position: relative;
     z-index: 3;
