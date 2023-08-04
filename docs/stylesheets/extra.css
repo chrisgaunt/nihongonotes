@@ -10,27 +10,22 @@
     position: relative;
 }
 
-#glightbox-body {
-    transform-style: preserve-3d;
-    transform: translateZ(0px) rotate(0deg);
-}
-
 .card-grid>.card:nth-child(1n) {
     position: relative;
     z-index: 3;
-    transform: translateZ(0.1px) rotate(-5deg);
+    transform: rotate(-5deg);
 }
 
 .card-grid>.card:nth-child(2n) {
     position: relative;
     z-index: 2;
-    transform: translateZ(0.1px) rotate(0);
+    transform: rotate(0);
 }
 
 .card-grid>.card:nth-child(3n) {
     position: relative;
     z-index: 1;
-    transform: translateZ(0.1px) rotate(5deg);
+    transform: rotate(5deg);
 }
 
 .card-grid--fan >.card:nth-child(1n) {
