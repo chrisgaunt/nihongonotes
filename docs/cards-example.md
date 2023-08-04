@@ -14,7 +14,7 @@ hide: toc navigation
 </div>
 
 <div class="card" markdown>
-## 生
+## 生 せんせい sensei
 <img src="images/card-test.png" alt="生" loading="lazy">
 </div>
 

@@ -7,7 +7,7 @@ hide: toc navigation
 <h1 style="display:none;margin:0;">Nihongo Notes</h1>
 
 <div style="text-align:center;">
-<p>Welcome! </p>
+<p>Welcome! 1</p>
 <p>Nihongo Notes is a collection of cards and notes related to the Japanese Language Proficiency Test (JLPT) and Japanese language immersion.</p>
 </div>
 
