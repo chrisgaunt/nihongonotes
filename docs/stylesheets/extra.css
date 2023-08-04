@@ -10,28 +10,37 @@
     position: relative;
 }
 
+.card-grid>.card:nth-child(1n) {
+    position: relative;
+    z-index: 3;
+    transform: translateZ(0.1px) rotate(-5deg);
+}
+
+.card-grid>.card:nth-child(2n) {
+    position: relative;
+    z-index: 2;
+    transform: translateZ(0.1px) rotate(0);
+}
+
+.card-grid>.card:nth-child(3n) {
+    position: relative;
+    z-index: 1;
+    transform: translateZ(0.1px) rotate(5deg);
+}
+
 .card-grid--fan >.card:nth-child(1n) {
     left: 200px;
     top: 10px;
-    z-index: 60;
-    transform: translateZ(0.1px) rotate(-5deg);
-    position: relative;
 }
     
 .card-grid--fan >.card:nth-child(2n) {
     left: 0px;
     top: -10px;
-    z-index: 59;
-    transform: translateZ(0.1px) rotate(0);
-    position: relative;
 }
 
 .card-grid--fan >.card:nth-child(3n) {
     left: -200px;
     top: 0px;
-    z-index: 58;
-    transform: translateZ(0.1px) rotate(5deg);
-    position: relative;
 }
 
 .card img {
@@ -54,19 +63,16 @@
     .card-grid>.card:nth-child(1n) {
         left: -100px;
         top: 10px;
-        transform: translateZ(0.1px) rotate(-5deg);
     }
 
     .card-grid>.card:nth-child(2n) {
         left: 0px;
         top: -10px;
-        transform: translateZ(0.1px) rotate(0);
     }
 
     .card-grid>.card:nth-child(3n) {
         left: 100px;
         top: 0px;
-        transform: translateZ(0.1px) rotate(5deg);
     }
 }
 
@@ -78,28 +84,18 @@
     }
 
     .card-grid>.card:nth-child(1n) {
-        position: relative;
         left: -50px;
         top: 10px;
-        z-index: 60;
-        transform: translateZ(0.1px) rotate(-5deg);
-        opacity: 1;
     }
 
     .card-grid>.card:nth-child(2n) {
         left: 0px;
         top: -10px;
-        z-index: 59;
-        transform: translateZ(0.1px) rotate(0);
-        opacity: .99;
     }
 
     .card-grid>.card:nth-child(3n) {
         left: 50px;
         top: 0px;
-        z-index: 58;
-        transform: translateZ(0.1px) rotate(5deg);
-        opacity: .99;
     }
 }
 
