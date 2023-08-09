@@ -3,7 +3,7 @@ site_name: Nihongo Notes
 dev_addr: '127.0.0.1:9000'
 nav:
     - Home: index.md
-    - JLPT: 
+    - JLPT:
         - Overview: jlpt.md
         - N5:
             - N5 Grammar: jlpt/n5/grammar.md
