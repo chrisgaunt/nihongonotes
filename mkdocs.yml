@@ -3,7 +3,6 @@ site_name: Nihongo Notes
 dev_addr: '127.0.0.1:9000'
 nav:
     - Home: index.md
-    - About: about.md
 theme:
     name: material
     custom_dir: overrides
