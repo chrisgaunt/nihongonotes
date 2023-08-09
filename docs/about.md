@@ -1,15 +1,59 @@
-# About Nihongo Notes
+---
+title: About
+description: Nihongo Notes is a collection of custom study cards and notes related to the Japanese Language Proficiency Test (JLPT) and Japanese language immersion.
+hide: navigation
+search:
+  exclude: true
+---
 
-My kids and I found the flashcards we remember the best are physical cards with pictures on.
+# About
 
-They are both huge Pokémon fans and, in an effort to make learning Japanese more fun for them, I came up with the idea of creating a sort of flashcard similar to Pokémon cards.
+## What is Nihongo Notes?
 
-These aren't traditional flashcards with a front and a back, there is only a front, but we hide the bottom half of the card when testing each other.
+Nihongo Notes is a collection of custom study cards and notes related to the Japanese Language Proficiency Test (JLPT) and Japanese language immersion.
 
-After using rough versions for fun, I've found the act of creating the cards and researching the contents to be a big help in my own studies of Japanese.
+## Are these Pokémon cards?
 
-So I decided to make newer versions and collect them on this site whilst I refresh on the basics and continue my study for the JLPT.
+No, these are Japanese study cards inspired by Pokémon cards.
 
-Some of these cards are personal, using particular games, shows and anime characters we like. However, if you wish to use them in your own study please feel free!
+## Why?
 
-Any suggestions or corrections are welcomed, you can find me on <a href="https://discord.gg/tmw" target="_blank">TheMoeWay Discord</a>, my username is genkimon.
+The very first version of these were vocabulary cards made for my kids. They are massive Pokémon fans and I was looking for a way to make learning Japanese vocabulary more fun for all of us.
+
+I decided to also make a few grammar and kanji cards for myself and found the process of researching the card contents to be more fun and engaging than textbooks and standard flashcards.
+
+As I made more cards I felt a sense of progress I'd always been missing, and so I decided to keep making them.
+
+## Can I use these cards for my own study?
+
+Feel free! I've put them online so I can keep track of my own progress. If someone else finds these useful or gets inspired to also make something fun, then that's a bonus!
+
+The content is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike license</a>
+
+## Can I make a suggestion/correction?
+
+Any suggestions or corrections are welcomed, you can email me at <a href="mailto:hello@nihongonotes.com">hello@nihongonotes.com</a> or find me on <a href="https://discord.gg/tmw" target="_blank">TheMoeWay Discord</a>, my username is Genkimon.
+
+But please remember these are made for my own personal use, so particle names and kanji keywords will be personal to me.
+
+## What do the icons on the cards mean?
+
+| Icon                    | Description                          |
+| :---------------------- | :----------------------------------- |
+| :fontawesome-solid-eye: |  A list of kanji the particle is seen in  |
+| :fontawesome-solid-circle-nodes: | Variations of the same kanji/particle |
+| :fontawesome-solid-puzzle-piece: | Particle or particle name(s) |
+| :fontawesome-solid-circle-question: | Keyword or reading |
+| :fontawesome-solid-hashtag: | <a href="https://keystojapanese.com/klc/" target="_blank">KKLC</a> number |
+| :fontawesome-solid-graduation-cap: | Japanese school grade |
+
+
+## How are the cards made?
+
+I made the cards myself from scratch using <a href="https://www.photopea.com/" target="_blank">Photopea</a>.
+
+The design is inspired by Pokémon cards but none of the artwork is taken directly from them.
+
+## How are the JLPT/expansion titles made?
+
+They are text effects by <a href="https://www.textstudio.com/" target="_blank">textstudio.com</a> and tweaked in <a href="https://www.photopea.com/" target="_blank">Photopea</a>.

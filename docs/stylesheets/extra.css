@@ -1,106 +1,166 @@
+.md-typeset h1 {
+    font-weight: bold;
+    color: var(--md-primary-fg-color);
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 1rem;
+}
+
+.md-main__inner {
+    margin-top: 0.5rem;
+}
+
+.md-button[disabled], .md-button:disabled {
+    background-color: #ccc;
+    border: #ccc;
+    cursor: default;
+}
+
+.md-button[disabled]:hover, .md-button:disabled:hover,
+.md-button[disabled]:active, .md-button:disabled:active,
+.md-button[disabled]:focus, .md-button:disabled:focus {
+    background-color: #ccc;
+    border: #ccc;
+    cursor: default;
+}
+
 .card-grid {
     display: grid;
     grid-template-columns: 1fr;
-    grid-gap: 50px 2vw;
+    grid-gap: 30px;
     height: 100%;
     max-width: 1200px;
     margin: auto;
-    padding: 0 50px;
+    padding: 1rem;
     position: relative;
 }
 
 .card-grid>.card:nth-child(1n) {
     position: relative;
-    z-index: 3;
-    transform: rotate(-5deg);
+    z-index: 4;
 }
 
 .card-grid>.card:nth-child(2n) {
     position: relative;
-    z-index: 2;
-    transform: rotate(0);
+    z-index: 3;
 }
 
 .card-grid>.card:nth-child(3n) {
     position: relative;
+    z-index: 2;
+}
+
+.card-grid>.card:nth-child(4n) {
+    position: relative;
     z-index: 1;
-    transform: rotate(5deg);
 }
 
 .card-grid--fan >.card:nth-child(1n) {
-    left: 200px;
+    left: 300px;
     top: 10px;
+    transform: rotate(-5deg);
 }
     
 .card-grid--fan >.card:nth-child(2n) {
-    left: 0px;
+    left: 100px;
     top: -10px;
+    transform: rotate(-1deg);
 }
 
 .card-grid--fan >.card:nth-child(3n) {
-    left: -200px;
-    top: 0px;
+    left: -100px;
+    top: -10px;
+    transform: rotate(4deg);
 }
 
-.card img {
-    border-radius: 17px;
+.card-grid--fan >.card:nth-child(4n) {
+    left: -300px;
+    top: 0px;
+    transform: rotate(7deg);
+}
+
+.card-grid .card {
+    max-width: 365.56px;
+    margin: 0 auto;
+}
+
+.card-grid p {
+   margin: 0;
+}
+
+.card img, img.card {
+    border-radius: 4.1%;
     box-shadow: 0 0 3px -1px transparent, 0 0 2px 1px transparent, 0 0 5px 0px transparent, 0px 4px 20px -5px rgba(0,0,0,0.3), 0 2px 10px -5px rgba(0,0,0,0.3), 0 0 20px 0px transparent
 }
 
-.card h2 {
+.card-grid .card h2 {
     visibility: hidden;
     height: 0px;
     margin: 0;
 }
 
 @media screen and (min-width: 600px) and (max-width: 900px) {
-    .card-grid {
+    .card-grid--fan {
         max-width: 420px;
         margin: auto;
     }
 
-    .card-grid>.card:nth-child(1n) {
-        left: -100px;
+    .card-grid--fan>.card:nth-child(1n) {
+        left: -50px;
         top: 10px;
     }
 
-    .card-grid>.card:nth-child(2n) {
+    .card-grid--fan>.card:nth-child(2n) {
         left: 0px;
         top: -10px;
     }
 
-    .card-grid>.card:nth-child(3n) {
+    .card-grid--fan>.card:nth-child(3n) {
+        left: 50px;
+        top: 0px;
+    }
+
+    .card-grid--fan>.card:nth-child(4n) {
         left: 100px;
         top: 0px;
     }
 }
 
 @media screen and (max-width: 900px) {
-    .card-grid>.card {
+    .card-grid--fan>.card {
         grid-column: 1;
         grid-row: 1;
-        transition: opacity .2s ease,transform .2s ease;
     }
 
-    .card-grid>.card:nth-child(1n) {
+    .card-grid--fan>.card:nth-child(1n) {
         left: -50px;
         top: 10px;
+        transform: rotate(-5deg);
     }
 
-    .card-grid>.card:nth-child(2n) {
+    .card-grid--fan>.card:nth-child(2n) {
         left: 0px;
         top: -10px;
+        transform: rotate(-1deg);
     }
 
-    .card-grid>.card:nth-child(3n) {
+    .card-grid--fan>.card:nth-child(3n) {
         left: 50px;
-        top: 0px;
+        top: -10px;
+        transform: rotate(3deg);
+    }
+
+    .card-grid--fan>.card:nth-child(4n) {
+        left: 100px;
+        top: -20px;
+        transform: rotate(7deg);
     }
 }
 
 @media screen and (min-width: 900px) {
     .card-grid {
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 20px;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
 
@@ -114,15 +174,20 @@
 }
 
 .jlpt-listing h2 {
-    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+    color: var(--md-primary-fg-color);
 }
 
-.jlpt-listing a {
-    display: inline-block;
-    padding: 0 1rem 1rem 1rem;
+.jlpt-listing .buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 50px 2vw;
 }
 
 .md-footer {
+    font-size: 0.64rem;
+    padding: 0 1.5rem 1.5rem 1.5rem;
     background-color: white;
     color: #aaaaaa;
     text-align: center;
