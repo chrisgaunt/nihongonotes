@@ -1,16 +1,14 @@
 ---
-title: Japanese Language Cards
-description: Nihongo Notes is a collection of custom study cards and notes related to the Japanese Language Proficiency Test (JLPT) and Japanese language immersion.
+title: Home
+description: Nihongo Notes is a personal collection of notes and progress logs from learning Japanese.
 hide: toc navigation
 search:
   exclude: true
 ---
-
-<h1 style="display:none;margin:0;">Nihongo Notes</h1>
-
 <div style="text-align:center;">
-<p>Welcome! ようこそ！</p>
-<p>Nihongo Notes is a collection of custom study cards and notes related to the Japanese Language Proficiency Test (JLPT) and Japanese language immersion.</p>
+<h1>日本語ノートへようこそ!</h1>
+<p>Welcome to Nihongo Notes!</p>
+<p>This site is a collection of my personal notes and progress logs from learning Japanese.</p>
 </div>
 
 <hr>

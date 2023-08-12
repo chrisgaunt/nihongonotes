@@ -3,14 +3,36 @@ site_name: Nihongo Notes
 dev_addr: '127.0.0.1:9000'
 nav:
     - Home: index.md
-    - Games: games.md
-    - Visual Novels: vn.md
-    - Drama: drama.md
-    - Anime: anime.md
+    - Games:
+        - Games: games.md
+        - Visual Novels: visual-novels.md
+    - TV:
+        - Drama: drama.md
+        - Anime: anime.md
     - YouTube: youtube.md
-    - Manga: manga.md
-    - Novels: novels.md
-    - About: about.md
+    - Books:
+        - Manga: manga.md
+        - Novels: novels.md
+        - Textbooks: textbooks.md
+    - Kanji:
+        - Particles: kanji-particles.md
+        - Phonetics: kanji-phonetics.md
+    - 辞書:
+        - Vocabulary: vocabulary.md
+        - Kanji:
+            - "<span>1st Grade&nbsp;<mark class=\"cited-vocab\">21%</mark></span>": kanji/grade1.md
+            - "<span>2nd Grade&nbsp;<mark class=\"cited\">82%</mark>&nbsp;<mark class=\"cited-vocab\">10%</mark></span>": kanji/grade2.md
+            - "<span>3rd Grade&nbsp;<mark class=\"cited\">48%</mark>&nbsp;<mark class=\"cited-vocab\">2%</mark></span>": kanji/grade3.md
+            - "<span>4th Grade&nbsp;<mark class=\"cited\">31%</mark>&nbsp;<mark class=\"cited-vocab\">0%</mark></span>": kanji/grade4.md
+            - "<span>5th Grade&nbsp;<mark class=\"cited\">21%</mark>&nbsp;<mark class=\"cited-vocab\">1%</mark></span>": kanji/grade5.md
+            - "<span>6th Grade&nbsp;<mark class=\"cited\">20%</mark>&nbsp;<mark class=\"cited-vocab\">1%</mark></span>": kanji/grade6.md
+            - "<span>High School (1/5)&nbsp;<mark class=\"cited\">19%</mark>&nbsp;<mark class=\"cited-vocab\">0%</mark></span>": kanji/grade71.md
+            - "<span>High School (2/5)&nbsp;<mark class=\"cited\">1%</mark>&nbsp;<mark class=\"cited-vocab\">0%</mark></span>": kanji/grade72.md
+            - "<span>High School (3/5)&nbsp;<mark class=\"cited\">3%</mark>&nbsp;<mark class=\"cited-vocab\">0%</mark></span>": kanji/grade73.md
+            - "<span>High School (4/5)&nbsp;<mark class=\"cited\">3%</mark>&nbsp;<mark class=\"cited-vocab\">0%</mark></span>": kanji/grade74.md
+            - "<span>High School (5/5)&nbsp;<mark class=\"cited\">1%</mark>&nbsp;<mark class=\"cited-vocab\">0%</mark></span>": kanji/grade75.md
+            - "<span>Other&nbsp;<mark class=\"cited\">8%</mark>&nbsp;<mark class=\"cited-vocab\">0%</mark></span>": kanji/other.md
+            - "<span>Particles</span>": kanji/particles.md
 theme:
     name: material
     custom_dir: overrides
