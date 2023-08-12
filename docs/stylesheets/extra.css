@@ -90,7 +90,7 @@
 
 .card img, img.card {
     border-radius: 4.1%;
-    box-shadow: 0 0 3px -1px transparent, 0 0 2px 1px transparent, 0 0 5px 0px transparent, 0px 4px 20px -5px rgba(0,0,0,0.3), 0 2px 10px -5px rgba(0,0,0,0.3), 0 0 20px 0px transparent
+    box-shadow: 0 0 3px -1px transparent, 0 0 2px 1px transparent, 0 0 5px 0px transparent, 0px 4px 10px -5px rgba(0,0,0,0.3), 0 2px 10px -5px rgba(0,0,0,0.3), 0 0 20px 0px transparent
 }
 
 .card-grid .card h2 {

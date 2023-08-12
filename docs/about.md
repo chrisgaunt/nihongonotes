@@ -18,11 +18,11 @@ No, these are Japanese study cards inspired by Pokémon cards.
 
 ## Why?
 
-The very first version of these were vocabulary cards made for my kids. They are massive Pokémon fans and I was looking for a way to make learning Japanese vocabulary more fun for all of us.
+The very first version of these were vocabulary cards made for my kids. They are massive Pokémon fans and I was looking for a way to make learning Japanese vocabulary more fun for them.
 
-I decided to also make a few grammar and kanji cards for myself and found the process of researching the card contents to be more fun and engaging than textbooks and standard flashcards.
+I then made a few grammar and kanji cards for myself and found it to be a fun and rewarding way of tracking my progress through the language.
 
-As I made more cards I felt a sense of progress I'd always been missing, and so I decided to keep making them.
+And so I put together this site as a collection of cards showing my progress and immersion in the Japanese language.
 
 ## Can I use these cards for my own study?
 
@@ -50,7 +50,7 @@ But please remember these are made for my own personal use, so particle names an
 
 ## How are the cards made?
 
-I made the cards myself from scratch using <a href="https://www.photopea.com/" target="_blank">Photopea</a>.
+The cards are custom made using <a href="https://www.photopea.com/" target="_blank">Photopea</a>.
 
 The design is inspired by Pokémon cards but none of the artwork is taken directly from them.
 

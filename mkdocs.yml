@@ -3,20 +3,13 @@ site_name: Nihongo Notes
 dev_addr: '127.0.0.1:9000'
 nav:
     - Home: index.md
-    - JLPT:
-        - Overview: jlpt.md
-        - N5:
-            - N5 Grammar: jlpt/n5/grammar.md
-            - N5 Vocabulary: jlpt/n5/vocabulary.md
-            - N5 Kanji: jlpt/n5/kanji.md
     - Games: games.md
-    # - Drama: drama.md
-    # - Anime: anime.md
+    - Visual Novels: vn.md
+    - Drama: drama.md
+    - Anime: anime.md
     - YouTube: youtube.md
-    # - Manga: manga.md
-    # - Novels: novels.md
-    - Blog:
-        - blog/index.md
+    - Manga: manga.md
+    - Novels: novels.md
     - About: about.md
 theme:
     name: material
@@ -67,7 +60,6 @@ markdown_extensions:
 watch:
     - includes
 plugins:
-    - blog
     - glightbox:
         skip_classes:
             - nopop
