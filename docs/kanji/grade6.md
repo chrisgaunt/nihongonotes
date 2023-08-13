@@ -10,8 +10,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>37/181 keywords reviewed</div><div>20%</div></div><div class="bar"><div class="percent" style="width:20%"></div></div></div>
 
-<div class="progress progress--vocab"><div class="headings"><div>1/181 vocabulary</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>宝</span></span><span class="interpunct">・</span><span class="kanji-details">treasure ② <br><span class="interpunct">・</span><small>0074</small></span></div>
 
 <div class="grid grid--kanji">
@@ -1433,10 +1431,9 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#wall-p067">wall</a>, <a href="https://nihongonotes.com/kanji/particles/#winter-p062">winter</a>, <a href="https://nihongonotes.com/kanji/particles/#almost-a-year-p095">almost a year</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#wall-p067">wall</a>, <a href="https://nihongonotes.com/kanji/particles/#winter-p062">winter</a>, <a href="https://nihongonotes.com/kanji/particles/#almost-a-year-p094">almost a year</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">コウ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">お.りる ・ お.ろす ・ ふ.る ・ ふ.り</span></p>
-<p class="grid__card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000013">降る</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/降%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=降" target="_blank">wanikani.com</a></small></div>

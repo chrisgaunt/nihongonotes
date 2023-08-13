@@ -10,8 +10,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>5/200 keywords reviewed</div><div>3%</div></div><div class="bar"><div class="percent" style="width:3%"></div></div></div>
 
-<div class="progress progress--vocab"><div class="headings"><div>0/200 vocabulary</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>糾</span></span><span class="interpunct">・</span><span class="kanji-details">inquire into <br><span class="interpunct">・</span><small>1621 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid grid--kanji">
@@ -526,7 +524,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade71/#towel-0203">towel</a>, <a href="https://nihongonotes.com/kanji/grade74/#dare-1683">dare</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ボウ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000016">帽子</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/帽%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=帽" target="_blank">wanikani.com</a></small></div>

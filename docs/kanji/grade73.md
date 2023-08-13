@@ -10,8 +10,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>5/200 keywords reviewed</div><div>3%</div></div><div class="bar"><div class="percent" style="width:3%"></div></div></div>
 
-<div class="progress progress--vocab"><div class="headings"><div>0/200 vocabulary</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>盗</span></span><span class="interpunct">・</span><span class="kanji-details">steal <br><span class="interpunct">・</span><small>1304 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid grid--kanji">

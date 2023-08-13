@@ -10,8 +10,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>2/200 keywords reviewed</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
 
-<div class="progress progress--vocab"><div class="headings"><div>0/200 vocabulary</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>癒</span></span><span class="interpunct">・</span><span class="kanji-details">heal <br><span class="interpunct">・</span><small>0948 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid grid--kanji">

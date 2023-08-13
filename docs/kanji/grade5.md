@@ -10,8 +10,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>38/185 keywords reviewed</div><div>21%</div></div><div class="bar"><div class="percent" style="width:21%"></div></div></div>
 
-<div class="progress progress--vocab"><div class="headings"><div>1/185 vocabulary</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>舌</span></span><span class="interpunct">・</span><span class="kanji-details">tongue <br><span class="interpunct">・</span><small>0052</small></span></div>
 
 <div class="grid grid--kanji">
@@ -20,7 +18,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ゼツ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">した</span></p>
 <p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#talk-0053">話</a> <a href="https://nihongonotes.com/kanji/grade4/#quitword-1465-unreviewed">辞</a> <a href="https://nihongonotes.com/kanji/grade6/#riot-0380">乱</a> </span></p>
-<p class="grid__card"><strong>Vocabulary</strong><br><span class="japanese"><a href="https://nihongonotes.com/vocabulary/#000022">舌を出す</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/舌%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=舌" target="_blank">wanikani.com</a></small></div>

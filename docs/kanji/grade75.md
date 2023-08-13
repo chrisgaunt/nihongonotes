@@ -10,8 +10,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>3/287 keywords reviewed</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
 
-<div class="progress progress--vocab"><div class="headings"><div>0/287 vocabulary</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>露</span></span><span class="interpunct">・</span><span class="kanji-details">dew ・ expose <br><span class="interpunct">・</span><small>1907 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid grid--kanji">
@@ -203,7 +201,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#animal-p049">animal</a>, husband, <a href="https://nihongonotes.com/kanji/particles/#horns-p047">horns</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#animal-p049">animal</a>, <a href="https://nihongonotes.com/kanji/grade4/#husband-0565">husband</a>, <a href="https://nihongonotes.com/kanji/particles/#horns-p047">horns</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">キョウ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">せま.い ・ せば.める ・ せば.まる</span></p>
 </div>

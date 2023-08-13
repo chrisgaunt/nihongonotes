@@ -7,8 +7,6 @@ description: A list of kanji particles, used to help remember the kanji
 
 
 
-<div class="progress"><div class="headings"><div>95/95 keywords reviewed</div><div>100%</div></div><div class="bar"><div class="percent" style="width:100%"></div></div></div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>儿</span></span><span class="interpunct">・</span><span class="kanji-details">legs <br><span class="interpunct">・</span><small>p001</small></span></div>
 
 <div class="grid grid--kanji">
@@ -926,17 +924,7 @@ description: A list of kanji particles, used to help remember the kanji
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/𠀎%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=𠀎" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>夭</span></span><span class="interpunct">・</span><span class="kanji-details">early death <br><span class="interpunct">・</span><small>p093</small></span></div>
-
-<div class="grid grid--kanji">
-<p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade4/#laugh-0579">笑</a> </span></p>
-</div>
-
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/夭%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=夭" target="_blank">wanikani.com</a></small></div>
-
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>氺</span></span><span class="interpunct">・</span><span class="kanji-details">splash <br><span class="interpunct">・</span><small>p094</small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>氺</span></span><span class="interpunct">・</span><span class="kanji-details">splash <br><span class="interpunct">・</span><small>p093</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -946,7 +934,7 @@ description: A list of kanji particles, used to help remember the kanji
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/氺%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=氺" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>㐄</span></span><span class="interpunct">・</span><span class="kanji-details">almost a year <br><span class="interpunct">・</span><small>p095</small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>㐄</span></span><span class="interpunct">・</span><span class="kanji-details">almost a year <br><span class="interpunct">・</span><small>p094</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>

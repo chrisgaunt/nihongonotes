@@ -8,9 +8,7 @@ description: A list of the 4th grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>61/200 keywords reviewed</div><div>31%</div></div><div class="bar"><div class="percent" style="width:31%"></div></div></div>
-
-<div class="progress progress--vocab"><div class="headings"><div>0/200 vocabulary</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
+<div class="progress"><div class="headings"><div>62/200 keywords reviewed</div><div>31%</div></div><div class="bar"><div class="percent" style="width:31%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>無</span></span><span class="interpunct">・</span><span class="kanji-details">without <br><span class="interpunct">・</span><small>0048</small></span></div>
 
@@ -918,13 +916,14 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/失%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=失" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>夫</span></span><span class="interpunct">・</span><span class="kanji-details">husband ・ man laborer <br><span class="interpunct">・</span><small>0565 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>夫</span></span><span class="interpunct">・</span><span class="kanji-details">husband <br><span class="interpunct">・</span><small>0565</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#two-0003">two</a>, <a href="https://nihongonotes.com/kanji/grade1/#person-0015">person</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">フ ・ フウ ・ ブ*</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">おっと</span></p>
+<p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade75/#narrow-1933">狭</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/夫%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=夫" target="_blank">wanikani.com</a></small></div>
@@ -977,7 +976,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#bamboo-p081">bamboo</a>, <a href="https://nihongonotes.com/kanji/particles/#early-death-p093">early death</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#bamboo-p081">bamboo</a>, <a href="https://nihongonotes.com/kanji/grade1/#heaven-0270">heaven</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ショウ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">わら.う ・ え.む</span></p>
 </div>

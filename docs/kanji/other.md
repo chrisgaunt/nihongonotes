@@ -12,8 +12,6 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="progress"><div class="headings"><div>17/206 keywords reviewed</div><div>8%</div></div><div class="bar"><div class="percent" style="width:8%"></div></div></div>
 
-<div class="progress progress--vocab"><div class="headings"><div>0/206 vocabulary</div><div>0%</div></div><div class="bar"><div class="percent" style="width:0%"></div></div></div>
-
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>頁</span></span><span class="interpunct">・</span><span class="kanji-details">page <br><span class="interpunct">・</span><small>0156</small></span></div>
 
 <div class="grid grid--kanji">
