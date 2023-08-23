@@ -171,7 +171,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade6/#attain-0250">attain</a>, <a href="https://nihongonotes.com/kanji/particles/#chair-shot-p045">chair shot</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade6/#attain-0250">attain</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p045">folding chair</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">チ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">いた.す</span></p>
 </div>

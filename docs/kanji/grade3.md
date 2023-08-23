@@ -577,7 +577,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade4/#bundle-0307">bundle</a>, <a href="https://nihongonotes.com/kanji/particles/#chair-shot-p045">chair shot</a>, <a href="https://nihongonotes.com/kanji/grade1/#correct-0043">correct</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade4/#bundle-0307">bundle</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p045">folding chair</a>, <a href="https://nihongonotes.com/kanji/grade1/#correct-0043">correct</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">セイ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ととの.える ・ ととの.う</span></p>
 </div>

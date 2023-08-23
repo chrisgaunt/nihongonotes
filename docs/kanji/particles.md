@@ -447,14 +447,12 @@ description: A list of kanji particles, used to help remember the kanji
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/ヨ%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=ヨ" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>攵</span></span><span class="interpunct">・</span><span class="kanji-details">chair shot <br><span class="interpunct">・</span><small>p045</small></span></div>
-
-<blockquote class="story"><p>Think WWE folding chair shot</p></blockquote>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>攵</span></span><span class="interpunct">・</span><span class="kanji-details">folding chair <br><span class="interpunct">・</span><small>p045</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="japanese large">攴</span></p>
 <p class="grid__card"><strong>Particles</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#count-0309">数</a> <a href="https://nihongonotes.com/kanji/grade2/#teach-0632-unreviewed">教</a> <a href="https://nihongonotes.com/kanji/grade3/#arrange-0308">整</a> <a href="https://nihongonotes.com/kanji/grade4/#renew-0429">改</a> <a href="https://nihongonotes.com/kanji/grade5/#politics-0246">政</a> <a href="https://nihongonotes.com/kanji/grade5/#circumstance-0257">故</a> <a href="https://nihongonotes.com/kanji/grade5/#enemy-1122-unreviewed">敵</a> <a href="https://nihongonotes.com/kanji/grade71/#do-0251">致</a> </span></p>
+<p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#count-0309">数</a> <a href="https://nihongonotes.com/kanji/grade2/#teach-0632-unreviewed">教</a> <a href="https://nihongonotes.com/kanji/grade3/#arrange-0308">整</a> <a href="https://nihongonotes.com/kanji/grade4/#renew-0429">改</a> <a href="https://nihongonotes.com/kanji/grade4/#pasture-0576">牧</a> <a href="https://nihongonotes.com/kanji/grade5/#politics-0246">政</a> <a href="https://nihongonotes.com/kanji/grade5/#circumstance-0257">故</a> <a href="https://nihongonotes.com/kanji/grade5/#enemy-1122-unreviewed">敵</a> <a href="https://nihongonotes.com/kanji/grade71/#do-0251">致</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/攵%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=攵" target="_blank">wanikani.com</a></small></div>

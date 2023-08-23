@@ -8,7 +8,7 @@ description: A list of the 4th grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>62/200 keywords reviewed</div><div>31%</div></div><div class="bar"><div class="percent" style="width:31%"></div></div></div>
+<div class="progress"><div class="headings"><div>63/200 keywords reviewed</div><div>32%</div></div><div class="bar"><div class="percent" style="width:32%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>無</span></span><span class="interpunct">・</span><span class="kanji-details">without <br><span class="interpunct">・</span><small>0048</small></span></div>
 
@@ -599,7 +599,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade6/#oneself-0426">oneself</a>, <a href="https://nihongonotes.com/kanji/particles/#chair-shot-p045">chair shot</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade6/#oneself-0426">oneself</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p045">folding chair</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">カイ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あらた.める ・ あらた.まる</span></p>
 </div>
@@ -939,11 +939,11 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/旗%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=旗" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>牧</span></span><span class="interpunct">・</span><span class="kanji-details">pasture <br><span class="interpunct">・</span><small>0576 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>牧</span></span><span class="interpunct">・</span><span class="kanji-details">pasture <br><span class="interpunct">・</span><small>0576</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#cow-0116">cow</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p045">folding chair</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ボク</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まき</span></p>
 </div>
@@ -1392,7 +1392,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/積%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=積" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>置</span></span><span class="interpunct">・</span><span class="kanji-details">place <br><span class="interpunct">・</span><small>0843 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>置</span></span><span class="interpunct">・</span><span class="kanji-details">placement <br><span class="interpunct">・</span><small>0843 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>

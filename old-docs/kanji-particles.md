@@ -1,6 +1,6 @@
 ---
 title: Kanji Particles
-description: Cards for learning Japanese kanji aprticles.
+description: Cards for learning Japanese kanji particles.
 ---
 
 <h1>Kanji Particles</h1>

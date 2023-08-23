@@ -159,7 +159,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#correct-0043">correct</a>, <a href="https://nihongonotes.com/kanji/particles/#chair-shot-p045">chair shot</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#correct-0043">correct</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p045">folding chair</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">セイ ・ ショウ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まつりごと</span></p>
 </div>
@@ -181,7 +181,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#old-0254">old</a>, <a href="https://nihongonotes.com/kanji/particles/#chair-shot-p045">chair shot</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#old-0254">old</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p045">folding chair</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">コ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ゆえ</span></p>
 </div>
@@ -384,7 +384,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#sun-0001">sun</a>, <a href="https://nihongonotes.com/kanji/other/#must-not-0171">must not</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">エキ ・ イ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">やさ.しい ・ やす.い*</span></p>
-<p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#location-0445">場</a> </span></p>
+<p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#place-0445">場</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/易%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=易" target="_blank">wanikani.com</a></small></div>
@@ -1420,7 +1420,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="japanese large">啇</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#old-wizard-p085">old wizard</a>, <a href="https://nihongonotes.com/kanji/particles/#chair-shot-p045">chair shot</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#old-wizard-p085">old wizard</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p045">folding chair</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">テキ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">かたき</span></p>
 </div>

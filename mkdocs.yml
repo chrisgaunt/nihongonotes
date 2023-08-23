@@ -14,11 +14,11 @@ nav:
     #     - Textbooks: textbooks.md
     # - Kanji Particles: kanji-particles.md
     # - Kanji Phonetics: kanji-phonetics.md
-    - Kanji List:
+    - Kanji:
         - "<span>1st Grade</span>": kanji/grade1.md
         - "<span>2nd Grade&nbsp;<mark class=\"cited\">82%</mark></span>": kanji/grade2.md
         - "<span>3rd Grade&nbsp;<mark class=\"cited\">48%</mark></span>": kanji/grade3.md
-        - "<span>4th Grade&nbsp;<mark class=\"cited\">31%</mark></span>": kanji/grade4.md
+        - "<span>4th Grade&nbsp;<mark class=\"cited\">32%</mark></span>": kanji/grade4.md
         - "<span>5th Grade&nbsp;<mark class=\"cited\">21%</mark></span>": kanji/grade5.md
         - "<span>6th Grade&nbsp;<mark class=\"cited\">20%</mark></span>": kanji/grade6.md
         - "<span>High School (1/5)&nbsp;<mark class=\"cited\">19%</mark></span>": kanji/grade71.md

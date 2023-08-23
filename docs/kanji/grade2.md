@@ -370,7 +370,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 <p class="grid__card"><strong>Particles</strong><br> <span class="faded">None</span></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ギュウ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">うし</span></p>
-<p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#previous-0134">先</a> <a href="https://nihongonotes.com/kanji/grade3/#thing-tangible-0172">物</a> <a href="https://nihongonotes.com/kanji/grade4/#special-0385">特</a> <a href="https://nihongonotes.com/kanji/grade5/#matter-0118">件</a> <a href="https://nihongonotes.com/kanji/grade5/#solve-0345">解</a> </span></p>
+<p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade1/#previous-0134">先</a> <a href="https://nihongonotes.com/kanji/grade3/#thing-tangible-0172">物</a> <a href="https://nihongonotes.com/kanji/grade4/#special-0385">特</a> <a href="https://nihongonotes.com/kanji/grade4/#pasture-0576">牧</a> <a href="https://nihongonotes.com/kanji/grade5/#matter-0118">件</a> <a href="https://nihongonotes.com/kanji/grade5/#solve-0345">解</a> </span></p>
 </div>
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/牛%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=牛" target="_blank">wanikani.com</a></small></div>
@@ -976,7 +976,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#rice-0234">rice</a>, <a href="https://nihongonotes.com/kanji/grade1/#woman-0093">woman</a>, <a href="https://nihongonotes.com/kanji/particles/#chair-shot-p045">chair shot</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#rice-0234">rice</a>, <a href="https://nihongonotes.com/kanji/grade1/#woman-0093">woman</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p045">folding chair</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">スウ ・ ス</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">かず ・ かぞ.える</span></p>
 </div>
@@ -1254,7 +1254,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/記%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=記" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>場</span></span><span class="interpunct">・</span><span class="kanji-details">location <br><span class="interpunct">・</span><small>0445</small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>場</span></span><span class="interpunct">・</span><span class="kanji-details">place <br><span class="interpunct">・</span><small>0445</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
@@ -1492,7 +1492,7 @@ I'm gradually updating the kanji keywords and contexts as I see them in my immer
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade6/#childs-respect-0630">child's respect</a>, <a href="https://nihongonotes.com/kanji/particles/#chair-shot-p045">chair shot</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade6/#childs-respect-0630">child's respect</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p045">folding chair</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">キョウ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">おし.える ・ おそ.わる</span></p>
 </div>
