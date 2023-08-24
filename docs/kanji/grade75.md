@@ -6,7 +6,7 @@ description: A list of the high school kanji, ordered by the Kodansha Kanji Lear
 # High School Kanji (5/5)
 
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
-I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
+I'm gradually updating the kanji keywords as I see them in my immersion.
 
 <div class="progress"><div class="headings"><div>3/287 keywords reviewed</div><div>1%</div></div><div class="bar"><div class="percent" style="width:1%"></div></div></div>
 

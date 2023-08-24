@@ -6,7 +6,7 @@ description: A list of the 3rd grade kanji, ordered by the Kodansha Kanji Learne
 # 3rd Grade Kanji
 
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
-I'm gradually updating the kanji keywords and contexts as I see them in my immersion.
+I'm gradually updating the kanji keywords as I see them in my immersion.
 
 <div class="progress"><div class="headings"><div>96/200 keywords reviewed</div><div>48%</div></div><div class="bar"><div class="percent" style="width:48%"></div></div></div>
 
