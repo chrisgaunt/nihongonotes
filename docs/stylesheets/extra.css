@@ -132,29 +132,30 @@
     .card-grid--fan>.card {
         grid-column: 1;
         grid-row: 1;
+        max-width: 165.56px;
     }
 
     .card-grid--fan>.card:nth-child(1n) {
-        left: -50px;
-        top: 10px;
+        left: -90px;
+        top: 5px;
         transform: rotate(-5deg);
     }
 
     .card-grid--fan>.card:nth-child(2n) {
-        left: 0px;
+        left: -30px;
         top: -10px;
         transform: rotate(-1deg);
     }
 
     .card-grid--fan>.card:nth-child(3n) {
-        left: 50px;
-        top: -10px;
+        left: 30px;
+        top: -5px;
         transform: rotate(3deg);
     }
 
     .card-grid--fan>.card:nth-child(4n) {
-        left: 100px;
-        top: -20px;
+        left: 90px;
+        top: 0px;
         transform: rotate(7deg);
     }
 }
