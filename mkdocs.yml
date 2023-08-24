@@ -4,6 +4,7 @@ dev_addr: '127.0.0.1:9000'
 nav:
     - Home: index.md
     - Path: path.md
+    - Cards: cards/index.md
     # - Games: games.md
     # - TV:
     #     - Drama: drama.md

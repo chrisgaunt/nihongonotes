@@ -33,7 +33,7 @@
     height: 100%;
     max-width: 1200px;
     margin: auto;
-    padding: 1rem;
+    padding: 1rem 0;
     position: relative;
 }
 
@@ -95,7 +95,7 @@
     box-shadow: 0 0 3px -1px transparent, 0 0 2px 1px transparent, 0 0 5px 0px transparent, 0px 4px 10px -5px rgba(0,0,0,0.3), 0 2px 10px -5px rgba(0,0,0,0.3), 0 0 20px 0px transparent
 }
 
-.card-grid .card h2 {
+.card-grid .card h4 {
     visibility: hidden;
     height: 0px;
     margin: 0;
