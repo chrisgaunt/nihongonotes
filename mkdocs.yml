@@ -38,6 +38,7 @@ theme:
     logo: images/logo.svg
     font: false
     features:
+        - search.share
         - navigation.tabs
         - navigation.tabs.sticky
         - navigation.sections

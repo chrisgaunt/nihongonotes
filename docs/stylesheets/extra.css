@@ -39,22 +39,22 @@
 
 .card-grid>.card:nth-child(1n) {
     position: relative;
-    z-index: 4;
+    z-index: 3;
 }
 
 .card-grid>.card:nth-child(2n) {
     position: relative;
-    z-index: 3;
+    z-index: 2;
 }
 
 .card-grid>.card:nth-child(3n) {
     position: relative;
-    z-index: 2;
+    z-index: 1;
 }
 
 .card-grid>.card:nth-child(4n) {
     position: relative;
-    z-index: 1;
+    z-index: 0;
 }
 
 .card-grid--fan >.card:nth-child(1n) {
