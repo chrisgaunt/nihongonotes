@@ -5,7 +5,9 @@ description: Cards for learning Japanese.
 
 # Japanese Cards
 
-As a way to help myself remember sets of words I'm creating these 'collectable' cards. It adds a bit of extra fun and triggers that dopamine effect when putting them in a binder to flick through later!
+These 'collectable' cards were originally made in a much simpler hiragana version for my kids, but I found the process of making the cards to be a great way of cementing the words and phrases in my mind, so I updated them to kanji and kept making more!
+
+It also adds a bit of extra fun and triggers that collector dopamine effect when putting them in a binder or sticking them on the wall!
 
 I'll trade you two 冬 for a 春 :wink:
 
