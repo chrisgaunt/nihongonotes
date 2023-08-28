@@ -16,19 +16,19 @@ search:
 <div class="card-grid card-grid--fan" markdown>
 
 <div class="card" markdown>
-<img src="images/cards/film/ghibli/card-totoro.png" alt="となりのトトロ" loading="lazy">
+<img src="images/cards/vocab/seasons/haru-spring.png" alt="春" loading="lazy">
 </div>
 
 <div class="card" markdown>
-<img src="images/cards/card-p001-legs.png" alt="Legs" loading="lazy">
+<img src="images/cards/vocab/seasons/natsu-summer.png" alt="夏" loading="lazy">
 </div>
 
 <div class="card" markdown>
-<img src="images/cards/card-0036-life.png" alt="生" loading="lazy">
+<img src="images/cards/vocab/seasons/aki-autumn.png" alt="秋" loading="lazy">
 </div>
 
 <div class="card" markdown>
-<img src="images/cards/card-n5-vocab-sensei.png" alt="先生" loading="lazy">
+<img src="images/cards/vocab/seasons/fuyu-winter.png" alt="冬" loading="lazy">
 </div>
 
 </div>
