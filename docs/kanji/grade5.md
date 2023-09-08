@@ -8,7 +8,7 @@ description: A list of the 5th grade kanji, ordered by the Kodansha Kanji Learne
 All <mark class="cited">Unreviewed</mark> kanji are those taken from an existing list, so the keywords are not my own.  
 I'm gradually updating the kanji keywords as I see them in my immersion.
 
-<div class="progress"><div class="headings"><div>38/185 keywords reviewed</div><div>21%</div></div><div class="bar"><div class="percent" style="width:21%"></div></div></div>
+<div class="progress"><div class="headings"><div>39/185 keywords reviewed</div><div>21%</div></div><div class="bar"><div class="percent" style="width:21%"></div></div></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>舌</span></span><span class="interpunct">・</span><span class="kanji-details">tongue <br><span class="interpunct">・</span><small>0052</small></span></div>
 
@@ -20,18 +20,18 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#talk-0053">話</a> <a href="https://nihongonotes.com/kanji/grade4/#quitword-1465-unreviewed">辞</a> <a href="https://nihongonotes.com/kanji/grade6/#riot-0380">乱</a> </span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/舌%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=舌" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/舌%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/舌%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=舌" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>武</span></span><span class="interpunct">・</span><span class="kanji-details">military <br><span class="interpunct">・</span><small>0111</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#one-0002">one</a>, <a href="https://nihongonotes.com/kanji/particles/#ceremony-p070">ceremony</a>, <a href="https://nihongonotes.com/kanji/grade2/#stop-0042">stop</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#one-0002">one</a>, <a href="https://nihongonotes.com/kanji/particles/#ceremony-p065">ceremony</a>, <a href="https://nihongonotes.com/kanji/grade2/#stop-0042">stop</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ブ ・ ム</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/武%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=武" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/武%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/武%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=武" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>件</span></span><span class="interpunct">・</span><span class="kanji-details">matter <br><span class="interpunct">・</span><small>0118</small></span></div>
 
@@ -42,30 +42,30 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/件%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=件" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/件%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/件%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=件" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>条</span></span><span class="interpunct">・</span><span class="kanji-details">article (in document) <br><span class="interpunct">・</span><small>0119</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#winter-p062">winter</a>, <a href="https://nihongonotes.com/kanji/grade1/#tree-0028">tree</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#winter-p058">winter</a>, <a href="https://nihongonotes.com/kanji/grade1/#tree-0028">tree</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ジョウ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/条%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=条" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/条%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/条%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=条" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>比</span></span><span class="interpunct">・</span><span class="kanji-details">compare <br><span class="interpunct">・</span><small>0123</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#spoon-p048">spoon</a>, <a href="https://nihongonotes.com/kanji/particles/#spoon-p048">spoon</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#spoon-p045">spoon</a>, <a href="https://nihongonotes.com/kanji/particles/#spoon-p045">spoon</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ヒ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">くら.べる</span></p>
-<p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade73/#harmony-2-1429">諧</a> </span></p>
+<p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade5/#mix-1426">混</a> <a href="https://nihongonotes.com/kanji/grade73/#harmony-2-1429">諧</a> </span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/比%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=比" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/比%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/比%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=比" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>性</span></span><span class="interpunct">・</span><span class="kanji-details">nature (of a person) <br><span class="interpunct">・</span><small>0128</small></span></div>
 
@@ -76,7 +76,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/性%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=性" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/性%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/性%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=性" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>素</span></span><span class="interpunct">・</span><span class="kanji-details">element <br><span class="interpunct">・</span><small>0132</small></span></div>
 
@@ -87,7 +87,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/素%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=素" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/素%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/素%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=素" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>預</span></span><span class="interpunct">・</span><span class="kanji-details">deposit <br><span class="interpunct">・</span><small>0165</small></span></div>
 
@@ -98,7 +98,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/預%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=預" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/預%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/預%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=預" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>句</span></span><span class="interpunct">・</span><span class="kanji-details">paragraph <br><span class="interpunct">・</span><small>0166</small></span></div>
 
@@ -109,18 +109,18 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/句%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=句" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/句%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/句%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=句" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>防</span></span><span class="interpunct">・</span><span class="kanji-details">defend against <br><span class="interpunct">・</span><small>0174</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#wall-p067">wall</a>, <a href="https://nihongonotes.com/kanji/grade2/#direction-0173">direction</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#building-p063">building</a>, <a href="https://nihongonotes.com/kanji/grade2/#direction-0173">direction</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ボウ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ふせ.ぐ</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/防%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=防" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/防%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/防%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=防" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>圧</span></span><span class="interpunct">・</span><span class="kanji-details">pressure <br><span class="interpunct">・</span><small>0186</small></span></div>
 
@@ -131,18 +131,18 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/圧%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=圧" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/圧%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/圧%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=圧" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>布</span></span><span class="interpunct">・</span><span class="kanji-details">cloth <br><span class="interpunct">・</span><small>0204</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#by-ones-side-p039">by one's side</a>, <a href="https://nihongonotes.com/kanji/grade71/#towel-0203">towel</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#by-ones-side-p037">by one's side</a>, <a href="https://nihongonotes.com/kanji/grade71/#towel-0203">towel</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">フ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ぬの</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/布%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=布" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/布%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/布%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=布" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>綿</span></span><span class="interpunct">・</span><span class="kanji-details">cotton <br><span class="interpunct">・</span><small>0211</small></span></div>
 
@@ -153,40 +153,40 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">わた</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/綿%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=綿" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/綿%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/綿%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=綿" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>政</span></span><span class="interpunct">・</span><span class="kanji-details">politics <br><span class="interpunct">・</span><small>0246</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#correct-0043">correct</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p045">folding chair</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#correct-0043">correct</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p042">folding chair</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">セイ ・ ショウ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まつりごと</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/政%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=政" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/政%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/政%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=政" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>居</span></span><span class="interpunct">・</span><span class="kanji-details">reside <br><span class="interpunct">・</span><small>0255</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#butt-p064">butt</a>, <a href="https://nihongonotes.com/kanji/grade2/#old-0254">old</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#butt-p060">butt</a>, <a href="https://nihongonotes.com/kanji/grade2/#old-0254">old</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">キョ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">い.る ・ -い ・ お.る*</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/居%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=居" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/居%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/居%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=居" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>故</span></span><span class="interpunct">・</span><span class="kanji-details">circumstance <br><span class="interpunct">・</span><small>0257</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#old-0254">old</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p045">folding chair</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade2/#old-0254">old</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p042">folding chair</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">コ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ゆえ</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/故%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=故" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/故%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/故%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=故" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>個</span></span><span class="interpunct">・</span><span class="kanji-details">individual counter <br><span class="interpunct">・</span><small>0262</small></span></div>
 
@@ -197,18 +197,18 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/個%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=個" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/個%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/個%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=個" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>限</span></span><span class="interpunct">・</span><span class="kanji-details">limit <br><span class="interpunct">・</span><small>0282</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#wall-p067">wall</a>, <a href="https://nihongonotes.com/kanji/particles/#root-p055">root</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade73/#wall-1466-unreviewed">wall</a>, <a href="https://nihongonotes.com/kanji/particles/#root-p051">root</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ゲン</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">かぎ.る ・ かぎ.り ・ -かぎ.り</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/限%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=限" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/限%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/限%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=限" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>示</span></span><span class="interpunct">・</span><span class="kanji-details">indicate <br><span class="interpunct">・</span><small>0311</small></span></div>
 
@@ -220,7 +220,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade5/#prohibit-0312">禁</a> </span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/示%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=示" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/示%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/示%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=示" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>禁</span></span><span class="interpunct">・</span><span class="kanji-details">prohibit <br><span class="interpunct">・</span><small>0312</small></span></div>
 
@@ -231,7 +231,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/禁%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=禁" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/禁%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/禁%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=禁" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>質</span></span><span class="interpunct">・</span><span class="kanji-details">quality <br><span class="interpunct">・</span><small>0318</small></span></div>
 
@@ -242,7 +242,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/質%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=質" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/質%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/質%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=質" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>常</span></span><span class="interpunct">・</span><span class="kanji-details">normal <br><span class="interpunct">・</span><small>0321</small></span></div>
 
@@ -253,7 +253,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つね ・ とこ-</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/常%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=常" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/常%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/常%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=常" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>快</span></span><span class="interpunct">・</span><span class="kanji-details">pleasant <br><span class="interpunct">・</span><small>0331</small></span></div>
 
@@ -264,7 +264,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">こころよ.い</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/快%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=快" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/快%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/快%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=快" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>解</span></span><span class="interpunct">・</span><span class="kanji-details">solve <br><span class="interpunct">・</span><small>0345</small></span></div>
 
@@ -275,18 +275,18 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">と.く ・ と.かす ・ と.ける</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/解%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=解" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/解%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/解%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=解" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>独</span></span><span class="interpunct">・</span><span class="kanji-details">alone <br><span class="interpunct">・</span><small>0346</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#animal-p049">animal</a>, <a href="https://nihongonotes.com/kanji/grade1/#insect-0343">insect</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#animal-p046">animal</a>, <a href="https://nihongonotes.com/kanji/grade1/#insect-0343">insect</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ドク</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ひと.り</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/独%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=独" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/独%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/独%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=独" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>志</span></span><span class="interpunct">・</span><span class="kanji-details">intention <br><span class="interpunct">・</span><small>0369</small></span></div>
 
@@ -298,7 +298,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade6/#magazine-0370">誌</a> </span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/志%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=志" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/志%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/志%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=志" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>任</span></span><span class="interpunct">・</span><span class="kanji-details">responsibility <br><span class="interpunct">・</span><small>0372</small></span></div>
 
@@ -309,7 +309,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まか.せる ・ まか.す</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/任%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=任" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/任%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/任%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=任" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>支</span></span><span class="interpunct">・</span><span class="kanji-details">support <br><span class="interpunct">・</span><small>0373</small></span></div>
 
@@ -320,18 +320,18 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ささ.える ・ つか.える ・ か.う</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/支%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=支" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/支%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/支%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=支" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>雑</span></span><span class="interpunct">・</span><span class="kanji-details">miscellaneous <br><span class="interpunct">・</span><small>0379</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#nine-0011">nine</a>, <a href="https://nihongonotes.com/kanji/grade1/#tree-0028">tree</a>, <a href="https://nihongonotes.com/kanji/particles/#turkey-p059">turkey</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#nine-0011">nine</a>, <a href="https://nihongonotes.com/kanji/grade1/#tree-0028">tree</a>, <a href="https://nihongonotes.com/kanji/particles/#turkey-p055">turkey</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ザツ ・ ゾウ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/雑%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=雑" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/雑%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/雑%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=雑" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>均</span></span><span class="interpunct">・</span><span class="kanji-details">uniformity <br><span class="interpunct">・</span><small>0394</small></span></div>
 
@@ -342,18 +342,18 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/均%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=均" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/均%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/均%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=均" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>在</span></span><span class="interpunct">・</span><span class="kanji-details">exist <br><span class="interpunct">・</span><small>0406</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#by-ones-side-p039">by one's side</a>, <a href="https://nihongonotes.com/kanji/particles/#stick-p019">stick</a>, <a href="https://nihongonotes.com/kanji/grade1/#soil-0030">soil</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#by-ones-side-p037">by one's side</a>, <a href="https://nihongonotes.com/kanji/particles/#stick-p019">stick</a>, <a href="https://nihongonotes.com/kanji/grade1/#soil-0030">soil</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ザイ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あ.る</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/在%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=在" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/在%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/在%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=在" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>刊</span></span><span class="interpunct">・</span><span class="kanji-details">edition <br><span class="interpunct">・</span><small>0409</small></span></div>
 
@@ -364,30 +364,30 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/刊%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=刊" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/刊%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/刊%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=刊" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>益</span></span><span class="interpunct">・</span><span class="kanji-details">benefit <br><span class="interpunct">・</span><small>0414</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#horns-p047">horns</a>, <a href="https://nihongonotes.com/kanji/particles/#little-feet-p091">little feet</a>, <a href="https://nihongonotes.com/kanji/grade3/#plate-0197">plate</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#horns-p044">horns</a>, <a href="https://nihongonotes.com/kanji/particles/#little-feet-p086">little feet</a>, <a href="https://nihongonotes.com/kanji/grade3/#plate-0197">plate</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">エキ ・ ヤク</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ま.す*</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/益%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=益" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/益%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/益%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=益" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>易</span></span><span class="interpunct">・</span><span class="kanji-details">easy <br><span class="interpunct">・</span><small>0443</small></span></div>
 
 <div class="grid grid--kanji">
-<p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
+<p class="grid__card"><strong>Variant</strong><br> <span class="japanese large">昜</span></p>
 <p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#sun-0001">sun</a>, <a href="https://nihongonotes.com/kanji/other/#must-not-0171">must not</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">エキ ・ イ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">やさ.しい ・ やす.い*</span></p>
 <p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#place-0445">場</a> </span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/易%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=易" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/易%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/易%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=易" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>券</span></span><span class="interpunct">・</span><span class="kanji-details">ticket ・ certificate <br><span class="interpunct">・</span><small>0456 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -398,7 +398,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/券%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=券" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/券%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/券%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=券" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>過</span></span><span class="interpunct">・</span><span class="kanji-details">pass by ・ exceed <br><span class="interpunct">・</span><small>0464 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -409,7 +409,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">す.ぎる ・ -す.ぎる ・ -す.ぎ ・ す.ごす ・ あやま.つ ・ あやま.ち</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/過%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=過" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/過%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/過%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=過" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>液</span></span><span class="interpunct">・</span><span class="kanji-details">liquid <br><span class="interpunct">・</span><small>0468 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -420,7 +420,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/液%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=液" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/液%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/液%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=液" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>基</span></span><span class="interpunct">・</span><span class="kanji-details">base <br><span class="interpunct">・</span><small>0485 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -431,7 +431,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">もと ・ もとい</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/基%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=基" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/基%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/基%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=基" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>興</span></span><span class="interpunct">・</span><span class="kanji-details">rise to prosperity ・ amusement <br><span class="interpunct">・</span><small>0505 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -442,7 +442,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">おこ.る ・ おこ.す</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/興%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=興" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/興%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/興%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=興" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>豊</span></span><span class="interpunct">・</span><span class="kanji-details">abundant <br><span class="interpunct">・</span><small>0513 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -453,7 +453,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ゆたか</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/豊%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=豊" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/豊%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/豊%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=豊" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>設</span></span><span class="interpunct">・</span><span class="kanji-details">set up <br><span class="interpunct">・</span><small>0520 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -464,7 +464,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">もう.ける</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/設%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=設" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/設%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/設%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=設" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>価</span></span><span class="interpunct">・</span><span class="kanji-details">price ・ value <br><span class="interpunct">・</span><small>0548 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -475,7 +475,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あたい</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/価%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=価" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/価%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/価%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=価" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>証</span></span><span class="interpunct">・</span><span class="kanji-details">prove ・ certificate <br><span class="interpunct">・</span><small>0550 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -486,7 +486,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あか.し*</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/証%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=証" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/証%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/証%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=証" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>総</span></span><span class="interpunct">・</span><span class="kanji-details">whole ・ general <br><span class="interpunct">・</span><small>0557 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -497,7 +497,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/総%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=総" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/総%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/総%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=総" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>程</span></span><span class="interpunct">・</span><span class="kanji-details">extent ・ established form <br><span class="interpunct">・</span><small>0588 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -508,7 +508,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ほど ・ -ほど</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/程%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=程" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/程%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/程%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=程" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>破</span></span><span class="interpunct">・</span><span class="kanji-details">break <br><span class="interpunct">・</span><small>0596 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -519,7 +519,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">やぶ.る ・ やぶ.れる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/破%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=破" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/破%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/破%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=破" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>状</span></span><span class="interpunct">・</span><span class="kanji-details">form ・ condition ・ letter <br><span class="interpunct">・</span><small>0616 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -530,7 +530,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/状%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=状" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/状%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/状%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=状" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>規</span></span><span class="interpunct">・</span><span class="kanji-details">regulation <br><span class="interpunct">・</span><small>0624 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -541,7 +541,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/規%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=規" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/規%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/規%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=規" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>則</span></span><span class="interpunct">・</span><span class="kanji-details">rule <br><span class="interpunct">・</span><small>0625 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -552,7 +552,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/則%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=則" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/則%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/則%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=則" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>測</span></span><span class="interpunct">・</span><span class="kanji-details">measure ・ conjecture <br><span class="interpunct">・</span><small>0627 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -563,7 +563,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">はか.る</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/測%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=測" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/測%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/測%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=測" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>厚</span></span><span class="interpunct">・</span><span class="kanji-details">thick ・ kind <br><span class="interpunct">・</span><small>0631 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -574,7 +574,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あつ.い</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/厚%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=厚" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/厚%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/厚%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=厚" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>際</span></span><span class="interpunct">・</span><span class="kanji-details">verge ・ occasion <br><span class="interpunct">・</span><small>0638 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -585,7 +585,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">きわ ・ -ぎわ</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/際%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=際" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/際%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/際%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=際" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>祖</span></span><span class="interpunct">・</span><span class="kanji-details">ancestor <br><span class="interpunct">・</span><small>0641 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -596,7 +596,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/祖%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=祖" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/祖%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/祖%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=祖" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>保</span></span><span class="interpunct">・</span><span class="kanji-details">preserve <br><span class="interpunct">・</span><small>0646 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -607,18 +607,18 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">たも.つ</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/保%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=保" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/保%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/保%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=保" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>団</span></span><span class="interpunct">・</span><span class="kanji-details">group <br><span class="interpunct">・</span><small>0649</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#enclosure-p014">enclosure</a>, <a href="https://nihongonotes.com/kanji/particles/#glue-p090">glue</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#enclosure-p014">enclosure</a>, <a href="https://nihongonotes.com/kanji/particles/#glue-p085">glue</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ダン ・ トン</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/団%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=団" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/団%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/団%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=団" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>財</span></span><span class="interpunct">・</span><span class="kanji-details">valuable assets <br><span class="interpunct">・</span><small>0653 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -629,7 +629,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/財%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=財" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/財%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/財%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=財" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>衛</span></span><span class="interpunct">・</span><span class="kanji-details">guard <br><span class="interpunct">・</span><small>0661 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -640,7 +640,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/衛%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=衛" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/衛%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/衛%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=衛" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>務</span></span><span class="interpunct">・</span><span class="kanji-details">duty <br><span class="interpunct">・</span><small>0687 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -651,7 +651,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つと.める ・ つと.まる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/務%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=務" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/務%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/務%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=務" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>造</span></span><span class="interpunct">・</span><span class="kanji-details">make ② <br><span class="interpunct">・</span><small>0699 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -662,7 +662,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つく.る ・ つく.り ・ -ずくり</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/造%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=造" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/造%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/造%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=造" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>現</span></span><span class="interpunct">・</span><span class="kanji-details">actual ・ appear <br><span class="interpunct">・</span><small>0706 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -673,7 +673,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あらわ.れる ・ あらわ.す</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/現%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=現" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/現%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/現%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=現" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>制</span></span><span class="interpunct">・</span><span class="kanji-details">system ・ control <br><span class="interpunct">・</span><small>0708 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -684,7 +684,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/制%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=制" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/制%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/制%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=制" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>製</span></span><span class="interpunct">・</span><span class="kanji-details">manufacture <br><span class="interpunct">・</span><small>0709 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -695,7 +695,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/製%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=製" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/製%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/製%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=製" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>準</span></span><span class="interpunct">・</span><span class="kanji-details">semi- <br><span class="interpunct">・</span><small>0714 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -703,23 +703,23 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#water-p009">water</a>, <a href="https://nihongonotes.com/kanji/particles/#turkey-p059">turkey</a>, <a href="https://nihongonotes.com/kanji/grade1/#ten-0005">ten</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#water-p009">water</a>, <a href="https://nihongonotes.com/kanji/particles/#turkey-p055">turkey</a>, <a href="https://nihongonotes.com/kanji/grade1/#ten-0005">ten</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ジュン</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/準%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=準" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/準%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/準%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=準" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>備</span></span><span class="interpunct">・</span><span class="kanji-details">equip/provide <br><span class="interpunct">・</span><small>0715 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#person-0015">person</a>, <a href="https://nihongonotes.com/kanji/particles/#flowers-p046">flowers</a>, <a href="https://nihongonotes.com/kanji/particles/#cliff-p027">cliff</a>, <a href="https://nihongonotes.com/kanji/grade2/#task-0047">task</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#person-0015">person</a>, <a href="https://nihongonotes.com/kanji/particles/#flowers-p043">flowers</a>, <a href="https://nihongonotes.com/kanji/particles/#cliff-p027">cliff</a>, <a href="https://nihongonotes.com/kanji/grade2/#task-0047">task</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ビ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">そな.える ・ そな.わる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/備%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=備" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/備%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/備%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=備" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>犯</span></span><span class="interpunct">・</span><span class="kanji-details">offense <br><span class="interpunct">・</span><small>0735 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -730,7 +730,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">おか.す</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/犯%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=犯" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/犯%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/犯%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=犯" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>非</span></span><span class="interpunct">・</span><span class="kanji-details">is not <br><span class="interpunct">・</span><small>0738 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -741,7 +741,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/非%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=非" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/非%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/非%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=非" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>罪</span></span><span class="interpunct">・</span><span class="kanji-details">crime <br><span class="interpunct">・</span><small>0741 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -752,7 +752,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つみ</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/罪%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=罪" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/罪%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/罪%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=罪" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>判</span></span><span class="interpunct">・</span><span class="kanji-details">judge ・ personal seal <br><span class="interpunct">・</span><small>0744 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -763,7 +763,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/判%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=判" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/判%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/判%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=判" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>評</span></span><span class="interpunct">・</span><span class="kanji-details">comment <br><span class="interpunct">・</span><small>0745 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -774,7 +774,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/評%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=評" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/評%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/評%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=評" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>師</span></span><span class="interpunct">・</span><span class="kanji-details">expert <br><span class="interpunct">・</span><small>0748 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -785,7 +785,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/師%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=師" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/師%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/師%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=師" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>率</span></span><span class="interpunct">・</span><span class="kanji-details">rate ・ lead <br><span class="interpunct">・</span><small>0752 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -796,7 +796,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ひき.いる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/率%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=率" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/率%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/率%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=率" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>燃</span></span><span class="interpunct">・</span><span class="kanji-details">burn <br><span class="interpunct">・</span><small>0761 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -807,7 +807,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">も.える ・ も.やす ・ も.す</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/燃%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=燃" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/燃%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/燃%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=燃" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>旧</span></span><span class="interpunct">・</span><span class="kanji-details">former <br><span class="interpunct">・</span><small>0771 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -818,7 +818,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/旧%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=旧" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/旧%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/旧%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=旧" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>格</span></span><span class="interpunct">・</span><span class="kanji-details">norm ・ status ・ character <br><span class="interpunct">・</span><small>0789 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -829,7 +829,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/格%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=格" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/格%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/格%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=格" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>略</span></span><span class="interpunct">・</span><span class="kanji-details">leave out ・ strategy <br><span class="interpunct">・</span><small>0791 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -840,7 +840,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/略%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=略" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/略%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/略%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=略" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>酸</span></span><span class="interpunct">・</span><span class="kanji-details">acid ・ oxygen <br><span class="interpunct">・</span><small>0800 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -851,7 +851,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">す.い</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/酸%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=酸" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/酸%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/酸%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=酸" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>導</span></span><span class="interpunct">・</span><span class="kanji-details">guide <br><span class="interpunct">・</span><small>0804 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -862,7 +862,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">みちび.く</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/導%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=導" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/導%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/導%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=導" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>仏</span></span><span class="interpunct">・</span><span class="kanji-details">buddha <br><span class="interpunct">・</span><small>0811 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -873,7 +873,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ほとけ</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/仏%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=仏" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/仏%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/仏%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=仏" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>可</span></span><span class="interpunct">・</span><span class="kanji-details">possible <br><span class="interpunct">・</span><small>0814</small></span></div>
 
@@ -885,7 +885,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade2/#what-0815">何</a> </span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/可%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=可" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/可%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/可%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=可" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>河</span></span><span class="interpunct">・</span><span class="kanji-details">river ② <br><span class="interpunct">・</span><small>0818 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -896,7 +896,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">かわ</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/河%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=河" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/河%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/河%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=河" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>飼</span></span><span class="interpunct">・</span><span class="kanji-details">raise animals <br><span class="interpunct">・</span><small>0823 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -907,7 +907,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">か.う</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/飼%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=飼" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/飼%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/飼%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=飼" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>責</span></span><span class="interpunct">・</span><span class="kanji-details">responsibility ・ blame <br><span class="interpunct">・</span><small>0831 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -918,7 +918,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">せ.める</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/責%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=責" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/責%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/責%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=責" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>績</span></span><span class="interpunct">・</span><span class="kanji-details">achievements <br><span class="interpunct">・</span><small>0836 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -929,7 +929,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/績%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=績" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/績%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/績%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=績" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>接</span></span><span class="interpunct">・</span><span class="kanji-details">contact <br><span class="interpunct">・</span><small>0847 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -940,7 +940,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つ.ぐ</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/接%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=接" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/接%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/接%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=接" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>断</span></span><span class="interpunct">・</span><span class="kanji-details">cut off ・ decide <br><span class="interpunct">・</span><small>0849 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -951,7 +951,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">た.つ ・ ことわ.る</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/断%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=断" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/断%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/断%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=断" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>応</span></span><span class="interpunct">・</span><span class="kanji-details">respond to <br><span class="interpunct">・</span><small>0850 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -962,7 +962,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">こた.える</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/応%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=応" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/応%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/応%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=応" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>移</span></span><span class="interpunct">・</span><span class="kanji-details">shift <br><span class="interpunct">・</span><small>0860 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -973,7 +973,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">うつ.る ・ うつ.す</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/移%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=移" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/移%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/移%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=移" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>複</span></span><span class="interpunct">・</span><span class="kanji-details">compound <br><span class="interpunct">・</span><small>0863 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -984,7 +984,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/複%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=複" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/複%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/複%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=複" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>復</span></span><span class="interpunct">・</span><span class="kanji-details">return to <br><span class="interpunct">・</span><small>0865 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -995,7 +995,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/復%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=復" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/復%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/復%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=復" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>往</span></span><span class="interpunct">・</span><span class="kanji-details">go on <br><span class="interpunct">・</span><small>0866 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1006,7 +1006,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/往%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=往" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/往%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/往%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=往" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>能</span></span><span class="interpunct">・</span><span class="kanji-details">ability ・ noh drama <br><span class="interpunct">・</span><small>0892 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1017,7 +1017,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/能%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=能" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/能%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/能%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=能" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>態</span></span><span class="interpunct">・</span><span class="kanji-details">state ・ posture <br><span class="interpunct">・</span><small>0893 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1028,7 +1028,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/態%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=態" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/態%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/態%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=態" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>久</span></span><span class="interpunct">・</span><span class="kanji-details">of long duration <br><span class="interpunct">・</span><small>0904 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1039,7 +1039,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ひさ.しい</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/久%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=久" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/久%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/久%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=久" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>舎</span></span><span class="interpunct">・</span><span class="kanji-details">hut <br><span class="interpunct">・</span><small>0910 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1050,7 +1050,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/舎%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=舎" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/舎%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/舎%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=舎" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>再</span></span><span class="interpunct">・</span><span class="kanji-details">again <br><span class="interpunct">・</span><small>0911 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1061,7 +1061,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ふたた.び</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/再%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=再" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/再%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/再%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=再" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>演</span></span><span class="interpunct">・</span><span class="kanji-details">perform <br><span class="interpunct">・</span><small>0914 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1072,7 +1072,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/演%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=演" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/演%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/演%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=演" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>構</span></span><span class="interpunct">・</span><span class="kanji-details">construct ・ mind <br><span class="interpunct">・</span><small>0917 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1083,7 +1083,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">かま.える ・ かま.う</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/構%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=構" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/構%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/構%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=構" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>講</span></span><span class="interpunct">・</span><span class="kanji-details">lecture <br><span class="interpunct">・</span><small>0918 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1094,7 +1094,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/講%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=講" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/講%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/講%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=講" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>仮</span></span><span class="interpunct">・</span><span class="kanji-details">temporary ・ fake <br><span class="interpunct">・</span><small>0921 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1105,7 +1105,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">かり ・ かり-</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/仮%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=仮" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/仮%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/仮%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=仮" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>版</span></span><span class="interpunct">・</span><span class="kanji-details">printing plate ・ publishing <br><span class="interpunct">・</span><small>0923 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1116,7 +1116,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/版%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=版" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/版%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/版%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=版" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>義</span></span><span class="interpunct">・</span><span class="kanji-details">righteousness ・ meaning ・ substitute <br><span class="interpunct">・</span><small>0926 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1127,7 +1127,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/義%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=義" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/義%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/義%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=義" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>輸</span></span><span class="interpunct">・</span><span class="kanji-details">transport <br><span class="interpunct">・</span><small>0945 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1138,7 +1138,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/輸%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=輸" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/輸%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/輸%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=輸" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>承</span></span><span class="interpunct">・</span><span class="kanji-details">agree to ・ receive <br><span class="interpunct">・</span><small>0959 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1149,7 +1149,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">うけたまわ.る</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/承%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=承" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/承%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/承%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=承" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>夢</span></span><span class="interpunct">・</span><span class="kanji-details">dream <br><span class="interpunct">・</span><small>0964 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1160,7 +1160,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ゆめ</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/夢%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=夢" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/夢%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/夢%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=夢" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>枝</span></span><span class="interpunct">・</span><span class="kanji-details">branch <br><span class="interpunct">・</span><small>0965 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1171,7 +1171,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">えだ</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/枝%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=枝" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/枝%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/枝%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=枝" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>技</span></span><span class="interpunct">・</span><span class="kanji-details">skill <br><span class="interpunct">・</span><small>0966 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1182,7 +1182,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">わざ ・</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/技%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=技" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/技%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/技%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=技" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>情</span></span><span class="interpunct">・</span><span class="kanji-details">emotion ・ actual conditions <br><span class="interpunct">・</span><small>0973 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1193,7 +1193,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">なさ.け</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/情%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=情" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/情%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/情%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=情" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>精</span></span><span class="interpunct">・</span><span class="kanji-details">refined ・ essence ・ spirit <br><span class="interpunct">・</span><small>0976 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1204,7 +1204,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/精%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=精" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/精%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/精%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=精" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>採</span></span><span class="interpunct">・</span><span class="kanji-details">pick ・ gather <br><span class="interpunct">・</span><small>0989 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1215,7 +1215,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">と.る</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/採%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=採" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/採%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/採%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=採" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>術</span></span><span class="interpunct">・</span><span class="kanji-details">practical art <br><span class="interpunct">・</span><small>0993 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1226,7 +1226,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/術%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=術" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/術%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/術%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=術" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>述</span></span><span class="interpunct">・</span><span class="kanji-details">state <br><span class="interpunct">・</span><small>0994 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1237,7 +1237,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/述%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=述" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/述%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/述%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=述" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>余</span></span><span class="interpunct">・</span><span class="kanji-details">excess <br><span class="interpunct">・</span><small>0995</small></span></div>
 
@@ -1249,7 +1249,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong>Usage</strong><br><span class="japanese large"><a href="https://nihongonotes.com/kanji/grade72/#diagonal-0999">斜</a> </span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/余%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=余" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/余%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/余%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=余" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>婦</span></span><span class="interpunct">・</span><span class="kanji-details">adult woman <br><span class="interpunct">・</span><small>1017 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1260,7 +1260,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/婦%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=婦" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/婦%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/婦%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=婦" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>謝</span></span><span class="interpunct">・</span><span class="kanji-details">thank ・ apologize <br><span class="interpunct">・</span><small>1022 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1271,7 +1271,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あやま.る</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/謝%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=謝" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/謝%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/謝%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=謝" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>検</span></span><span class="interpunct">・</span><span class="kanji-details">examine <br><span class="interpunct">・</span><small>1029 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1282,7 +1282,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/検%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=検" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/検%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/検%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=検" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>険</span></span><span class="interpunct">・</span><span class="kanji-details">risky <br><span class="interpunct">・</span><small>1031 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1293,7 +1293,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">けわ.しい</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/険%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=険" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/険%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/険%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=険" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>容</span></span><span class="interpunct">・</span><span class="kanji-details">countenance ・ contain <br><span class="interpunct">・</span><small>1037 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1304,7 +1304,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/容%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=容" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/容%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/容%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=容" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>弁</span></span><span class="interpunct">・</span><span class="kanji-details">speak ・ manage ・ valve <br><span class="interpunct">・</span><small>1052 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1315,7 +1315,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/弁%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=弁" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/弁%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/弁%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=弁" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>統</span></span><span class="interpunct">・</span><span class="kanji-details">unite ・ interconnected system <br><span class="interpunct">・</span><small>1058 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1326,7 +1326,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">す.べる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/統%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=統" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/統%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/統%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=統" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>編</span></span><span class="interpunct">・</span><span class="kanji-details">compile ・ knit <br><span class="interpunct">・</span><small>1083 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1337,7 +1337,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あ.む ・ -あ.み</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/編%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=編" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/編%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/編%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=編" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>職</span></span><span class="interpunct">・</span><span class="kanji-details">employment <br><span class="interpunct">・</span><small>1087 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1348,7 +1348,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/職%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=職" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/職%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/職%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=職" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>織</span></span><span class="interpunct">・</span><span class="kanji-details">weave <br><span class="interpunct">・</span><small>1088 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1359,7 +1359,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">お.る ・ お.り ・ おり ・ -おり ・ -お.り</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/織%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=織" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/織%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/織%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=織" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>識</span></span><span class="interpunct">・</span><span class="kanji-details">discriminate ・ knowledge <br><span class="interpunct">・</span><small>1089 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1370,7 +1370,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/識%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=識" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/識%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/識%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=識" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>退</span></span><span class="interpunct">・</span><span class="kanji-details">retreat <br><span class="interpunct">・</span><small>1091 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1381,18 +1381,18 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">しりぞ.く ・ しりぞ.ける</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/退%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=退" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/退%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/退%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=退" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>眼</span></span><span class="interpunct">・</span><span class="kanji-details">eyeball <br><span class="interpunct">・</span><small>1092 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#eye-0021">eye</a>, <a href="https://nihongonotes.com/kanji/particles/#root-p055">root</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/grade1/#eye-0021">eye</a>, <a href="https://nihongonotes.com/kanji/particles/#root-p051">root</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">ガン ・ ゲン</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まなこ ・ め*</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/眼%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=眼" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/眼%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/眼%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=眼" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>招</span></span><span class="interpunct">・</span><span class="kanji-details">invite <br><span class="interpunct">・</span><small>1104 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1403,29 +1403,29 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まね.く</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/招%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=招" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/招%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/招%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=招" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>適</span></span><span class="interpunct">・</span><span class="kanji-details">fit <br><span class="interpunct">・</span><small>1121 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#road-p040">road</a>, <a href="https://nihongonotes.com/kanji/particles/#old-wizard-p085">old wizard</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#road-p038">road</a>, <a href="https://nihongonotes.com/kanji/particles/#old-wizard-p080">old wizard</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">テキ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/適%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=適" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/適%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/適%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=適" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>敵</span></span><span class="interpunct">・</span><span class="kanji-details">enemy <br><span class="interpunct">・</span><small>1122 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="japanese large">啇</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#old-wizard-p085">old wizard</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p045">folding chair</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#old-wizard-p080">old wizard</a>, <a href="https://nihongonotes.com/kanji/particles/#folding-chair-p042">folding chair</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">テキ</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">かたき</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/敵%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=敵" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/敵%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/敵%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=敵" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>授</span></span><span class="interpunct">・</span><span class="kanji-details">confer ・ instruct <br><span class="interpunct">・</span><small>1123 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1436,7 +1436,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">さず.ける ・ さず.かる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/授%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=授" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/授%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/授%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=授" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>確</span></span><span class="interpunct">・</span><span class="kanji-details">certain <br><span class="interpunct">・</span><small>1133 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1447,7 +1447,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">たし.か ・ たし.かめる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/確%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=確" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/確%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/確%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=確" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>減</span></span><span class="interpunct">・</span><span class="kanji-details">decrease <br><span class="interpunct">・</span><small>1148 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1458,7 +1458,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">へ.る ・ へ.らす</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/減%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=減" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/減%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/減%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=減" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>貧</span></span><span class="interpunct">・</span><span class="kanji-details">poor <br><span class="interpunct">・</span><small>1161 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1469,7 +1469,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まず.しい</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/貧%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=貧" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/貧%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/貧%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=貧" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>貸</span></span><span class="interpunct">・</span><span class="kanji-details">lend <br><span class="interpunct">・</span><small>1163 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1480,7 +1480,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">か.す ・ か.し- ・ かし-</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/貸%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=貸" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/貸%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/貸%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=貸" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>資</span></span><span class="interpunct">・</span><span class="kanji-details">resources <br><span class="interpunct">・</span><small>1165 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1491,7 +1491,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/資%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=資" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/資%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/資%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=資" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>賛</span></span><span class="interpunct">・</span><span class="kanji-details">approve of ・ praise <br><span class="interpunct">・</span><small>1166 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1502,7 +1502,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/賛%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=賛" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/賛%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/賛%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=賛" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>貿</span></span><span class="interpunct">・</span><span class="kanji-details">trade <br><span class="interpunct">・</span><small>1169 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1513,18 +1513,18 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/貿%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=貿" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/貿%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/貿%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=貿" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>留</span></span><span class="interpunct">・</span><span class="kanji-details">detain <br><span class="interpunct">・</span><small>1170 <mark class="cited">Unreviewed</mark></small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#nose-p034">nose</a>, <a href="https://nihongonotes.com/kanji/grade2/#sword-0085">sword</a>, <a href="https://nihongonotes.com/kanji/grade1/#rice-field-0020">rice field</a></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#nose-p033">nose</a>, <a href="https://nihongonotes.com/kanji/grade2/#sword-0085">sword</a>, <a href="https://nihongonotes.com/kanji/grade1/#rice-field-0020">rice field</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">リュウ ・ ル</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">と.める ・ -と.める ・ -ど.め ・ と.まる ・ とど.まる*</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/留%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=留" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/留%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/留%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=留" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>賀</span></span><span class="interpunct">・</span><span class="kanji-details">congratulate <br><span class="interpunct">・</span><small>1172 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1535,7 +1535,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/賀%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=賀" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/賀%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/賀%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=賀" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>税</span></span><span class="interpunct">・</span><span class="kanji-details">tax <br><span class="interpunct">・</span><small>1195 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1546,7 +1546,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/税%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=税" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/税%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/税%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=税" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>序</span></span><span class="interpunct">・</span><span class="kanji-details">introductory part ・ order <br><span class="interpunct">・</span><small>1209 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1557,7 +1557,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/序%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=序" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/序%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/序%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=序" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>増</span></span><span class="interpunct">・</span><span class="kanji-details">increase <br><span class="interpunct">・</span><small>1223 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1568,7 +1568,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ま.す ・ ま.し ・ ふ.える ・ ふ.やす</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/増%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=増" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/増%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/増%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=増" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>営</span></span><span class="interpunct">・</span><span class="kanji-details">operate ・ barracks <br><span class="interpunct">・</span><small>1243 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1579,7 +1579,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">いとな.む</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/営%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=営" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/営%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/営%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=営" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>桜</span></span><span class="interpunct">・</span><span class="kanji-details">cherry <br><span class="interpunct">・</span><small>1249 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1590,7 +1590,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">さくら</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/桜%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=桜" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/桜%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/桜%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=桜" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>経</span></span><span class="interpunct">・</span><span class="kanji-details">pass through ・ manage ・ sutra <br><span class="interpunct">・</span><small>1257 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1601,7 +1601,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">へ.る ・ た.つ*</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/経%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=経" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/経%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/経%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=経" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>絶</span></span><span class="interpunct">・</span><span class="kanji-details">break off ・ come to an end ・ without match <br><span class="interpunct">・</span><small>1271 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1612,7 +1612,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">た.える ・ た.やす ・ た.つ</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/絶%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=絶" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/絶%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/絶%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=絶" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>許</span></span><span class="interpunct">・</span><span class="kanji-details">permit <br><span class="interpunct">・</span><small>1276 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1623,7 +1623,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ゆる.す</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/許%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=許" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/許%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/許%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=許" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>像</span></span><span class="interpunct">・</span><span class="kanji-details">image <br><span class="interpunct">・</span><small>1278 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1634,7 +1634,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/像%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=像" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/像%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/像%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=像" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>寄</span></span><span class="interpunct">・</span><span class="kanji-details">contribute ・ draw near <br><span class="interpunct">・</span><small>1330 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1645,7 +1645,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">よ.る ・ -よ.り ・ よ.せる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/寄%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=寄" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/寄%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/寄%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=寄" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>墓</span></span><span class="interpunct">・</span><span class="kanji-details">grave <br><span class="interpunct">・</span><small>1340 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1656,7 +1656,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">はか</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/墓%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=墓" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/墓%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/墓%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=墓" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>暴</span></span><span class="interpunct">・</span><span class="kanji-details">violent ・ disclose <br><span class="interpunct">・</span><small>1346 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1667,7 +1667,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">あば.く ・ あば.れる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/暴%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=暴" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/暴%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/暴%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=暴" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>似</span></span><span class="interpunct">・</span><span class="kanji-details">resemble <br><span class="interpunct">・</span><small>1354 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1678,7 +1678,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">に.る</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/似%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=似" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/似%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/似%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=似" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>俵</span></span><span class="interpunct">・</span><span class="kanji-details">straw sack <br><span class="interpunct">・</span><small>1355 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1689,7 +1689,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">たわら</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/俵%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=俵" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/俵%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/俵%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=俵" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>群</span></span><span class="interpunct">・</span><span class="kanji-details">group ② <br><span class="interpunct">・</span><small>1408 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1700,7 +1700,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">む.れる ・ む.れ ・ むら ・ むら.がる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/群%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=群" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/群%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/群%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=群" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>効</span></span><span class="interpunct">・</span><span class="kanji-details">effect <br><span class="interpunct">・</span><small>1413 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1711,18 +1711,18 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">き.く</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/効%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=効" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/効%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/効%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=効" target="_blank">wanikani.com</a></small></div>
 
-<div class="kanji-wrapper" markdown>### <span class="kanji"><span>混</span></span><span class="interpunct">・</span><span class="kanji-details">mix <br><span class="interpunct">・</span><small>1426 <mark class="cited">Unreviewed</mark></small></span></div>
+<div class="kanji-wrapper" markdown>### <span class="kanji"><span>混</span></span><span class="interpunct">・</span><span class="kanji-details">mix <br><span class="interpunct">・</span><small>1426</small></span></div>
 
 <div class="grid grid--kanji">
 <p class="grid__card"><strong>Variant</strong><br> <span class="faded">None</span></p>
-<p class="grid__card"><strong>Particles</strong><br> <span class="faded">None</span></p>
+<p class="grid__card"><strong>Particles</strong><br> <a href="https://nihongonotes.com/kanji/particles/#water-p009">water</a>, <a href="https://nihongonotes.com/kanji/grade1/#sun-0001">sun</a>, <a href="https://nihongonotes.com/kanji/grade5/#compare-0123">compare</a></p>
 <p class="grid__card"><strong class="japanese">音読み</strong><br> <span class="japanese">コン</span></p>
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ま.じる ・ -ま.じり ・ ま.ざる ・ ま.ぜる ・ こ.む</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/混%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=混" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/混%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/混%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=混" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>勢</span></span><span class="interpunct">・</span><span class="kanji-details">power ・ condition <br><span class="interpunct">・</span><small>1434 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1733,7 +1733,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">いきお.い</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/勢%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=勢" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/勢%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/勢%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=勢" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>妻</span></span><span class="interpunct">・</span><span class="kanji-details">wife <br><span class="interpunct">・</span><small>1457 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1744,7 +1744,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">つま</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/妻%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=妻" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/妻%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/妻%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=妻" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>報</span></span><span class="interpunct">・</span><span class="kanji-details">report ・ requite <br><span class="interpunct">・</span><small>1472 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1755,7 +1755,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">むく.いる ・ むく.う</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/報%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=報" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/報%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/報%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=報" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>富</span></span><span class="interpunct">・</span><span class="kanji-details">rich <br><span class="interpunct">・</span><small>1481 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1766,7 +1766,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">と.む ・ とみ</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/富%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=富" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/富%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/富%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=富" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>査</span></span><span class="interpunct">・</span><span class="kanji-details">look into <br><span class="interpunct">・</span><small>1514 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1777,7 +1777,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/査%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=査" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/査%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/査%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=査" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>境</span></span><span class="interpunct">・</span><span class="kanji-details">boundary ・ situation <br><span class="interpunct">・</span><small>1548 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1788,7 +1788,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">さかい</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/境%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=境" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/境%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/境%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=境" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>潔</span></span><span class="interpunct">・</span><span class="kanji-details">immaculate <br><span class="interpunct">・</span><small>1570 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1799,7 +1799,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">いさぎよ.い</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/潔%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=潔" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/潔%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/潔%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=潔" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>銭</span></span><span class="interpunct">・</span><span class="kanji-details">money <br><span class="interpunct">・</span><small>1585 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1810,7 +1810,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ぜに</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/銭%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=銭" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/銭%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/銭%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=銭" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>損</span></span><span class="interpunct">・</span><span class="kanji-details">loss <br><span class="interpunct">・</span><small>1595 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1821,7 +1821,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">そこ.なう ・ -そこ.なう ・ そこ.ねる ・ -そこ.ねる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/損%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=損" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/損%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/損%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=損" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>築</span></span><span class="interpunct">・</span><span class="kanji-details">construct <br><span class="interpunct">・</span><small>1635 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1832,7 +1832,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">きず.く</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/築%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=築" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/築%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/築%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=築" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>耕</span></span><span class="interpunct">・</span><span class="kanji-details">till <br><span class="interpunct">・</span><small>1643 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1843,7 +1843,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">たがや.す</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/耕%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=耕" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/耕%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/耕%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=耕" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>護</span></span><span class="interpunct">・</span><span class="kanji-details">protect <br><span class="interpunct">・</span><small>1661 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1854,7 +1854,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まも.る*</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/護%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=護" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/護%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/護%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=護" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>徳</span></span><span class="interpunct">・</span><span class="kanji-details">virtue <br><span class="interpunct">・</span><small>1668 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1865,7 +1865,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/徳%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=徳" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/徳%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/徳%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=徳" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>修</span></span><span class="interpunct">・</span><span class="kanji-details">cultivate ・ repair <br><span class="interpunct">・</span><small>1676 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1876,7 +1876,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">おさ.める ・ おさ.まる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/修%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=修" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/修%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/修%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=修" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>提</span></span><span class="interpunct">・</span><span class="kanji-details">present ・ carry in hand <br><span class="interpunct">・</span><small>1679 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1887,7 +1887,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">さ.げる</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/提%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=提" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/提%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/提%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=提" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>永</span></span><span class="interpunct">・</span><span class="kanji-details">eternal <br><span class="interpunct">・</span><small>1691 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1898,7 +1898,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">なが.い</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/永%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=永" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/永%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/永%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=永" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>因</span></span><span class="interpunct">・</span><span class="kanji-details">cause <br><span class="interpunct">・</span><small>1725 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1909,7 +1909,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">よ.る</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/因%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=因" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/因%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/因%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=因" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>恩</span></span><span class="interpunct">・</span><span class="kanji-details">grace ・ debt of gratitude <br><span class="interpunct">・</span><small>1728 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1920,7 +1920,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/恩%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=恩" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/恩%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/恩%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=恩" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>迷</span></span><span class="interpunct">・</span><span class="kanji-details">perplexed <br><span class="interpunct">・</span><small>1773 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1931,7 +1931,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">まよ.う</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/迷%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=迷" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/迷%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/迷%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=迷" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>逆</span></span><span class="interpunct">・</span><span class="kanji-details">reverse <br><span class="interpunct">・</span><small>1775 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1942,7 +1942,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">さか ・ さか.さ ・ さか.らう</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/逆%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=逆" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/逆%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/逆%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=逆" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>幹</span></span><span class="interpunct">・</span><span class="kanji-details">trunk <br><span class="interpunct">・</span><small>1808 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1953,7 +1953,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">みき</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/幹%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=幹" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/幹%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/幹%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=幹" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>属</span></span><span class="interpunct">・</span><span class="kanji-details">belong to <br><span class="interpunct">・</span><small>1872 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1964,7 +1964,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/属%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=属" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/属%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/属%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=属" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>慣</span></span><span class="interpunct">・</span><span class="kanji-details">habitual practice <br><span class="interpunct">・</span><small>1912 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1975,7 +1975,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">な.れる ・ な.らす</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/慣%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=慣" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/慣%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/慣%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=慣" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>領</span></span><span class="interpunct">・</span><span class="kanji-details">dominion <br><span class="interpunct">・</span><small>1922 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1986,7 +1986,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/領%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=領" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/領%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/領%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=領" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>額</span></span><span class="interpunct">・</span><span class="kanji-details">amount ・ picture frame ・ forehead <br><span class="interpunct">・</span><small>1929 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -1997,7 +1997,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">ひたい</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/額%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=額" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/額%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/額%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=額" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>災</span></span><span class="interpunct">・</span><span class="kanji-details">natural calamity <br><span class="interpunct">・</span><small>1979 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -2008,7 +2008,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">わざわ.い</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/災%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=災" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/災%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/災%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=災" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>張</span></span><span class="interpunct">・</span><span class="kanji-details">stretch <br><span class="interpunct">・</span><small>2020</small></span></div>
 
@@ -2019,7 +2019,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">は.る ・ -は.り ・ -ば.り</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/張%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=張" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/張%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/張%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=張" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>肥</span></span><span class="interpunct">・</span><span class="kanji-details">fatten <br><span class="interpunct">・</span><small>2023 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -2030,7 +2030,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="japanese">こ.える ・ こえ ・ こ.やす ・ こ.やし</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/肥%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=肥" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/肥%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/肥%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=肥" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>鉱</span></span><span class="interpunct">・</span><span class="kanji-details">ore ・ mine <br><span class="interpunct">・</span><small>2065 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -2041,7 +2041,7 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/鉱%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=鉱" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/鉱%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/鉱%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=鉱" target="_blank">wanikani.com</a></small></div>
 
 <div class="kanji-wrapper" markdown>### <span class="kanji"><span>銅</span></span><span class="interpunct">・</span><span class="kanji-details">copper <br><span class="interpunct">・</span><small>2066 <mark class="cited">Unreviewed</mark></small></span></div>
 
@@ -2052,5 +2052,5 @@ I'm gradually updating the kanji keywords as I see them in my immersion.
 <p class="grid__card"><strong class="japanese">訓読み</strong><br> <span class="faded">None</span></p>
 </div>
 
-<div class="kanji-contexts"><small>View on: <a href="https://jisho.org/search/銅%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=銅" target="_blank">wanikani.com</a></small></div>
+<div class="kanji-contexts"><small>View on: <a href="https://jisho.hlorenzi.com/search/銅%20%23kanji" target="_blank">Lorenzi's Jisho</a> | <a href="https://jisho.org/search/銅%20%23kanji" target="_blank">jisho.org</a> | <a href="https://www.wanikani.com/search?query=銅" target="_blank">wanikani.com</a></small></div>
 

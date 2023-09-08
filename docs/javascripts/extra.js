@@ -7,3 +7,31 @@ document.addEventListener('DOMContentLoaded', function(){
         window.scrollTo(0, elementTop);
     }
 }, false);
+
+const filters = document.querySelectorAll('.filter');
+
+filters.forEach(filter => { 
+
+  filter.addEventListener('click', function() {
+
+    let selectedFilter = filter.getAttribute('data-filter');
+    let itemsToHide = document.querySelectorAll(`.media-grid .media-item:not([data-filter='${selectedFilter}'])`);
+    let itemsToShow = document.querySelectorAll(`.media-grid [data-filter='${selectedFilter}']`);
+
+    if (selectedFilter == 'all') {
+      itemsToHide = [];
+      itemsToShow = document.querySelectorAll('.media-grid [data-filter]');
+    }
+
+    itemsToHide.forEach(el => {
+      el.classList.add('hide');
+      el.classList.remove('show');
+    });
+
+    itemsToShow.forEach(el => {
+      el.classList.remove('hide');
+      el.classList.add('show'); 
+    });
+
+  });
+});

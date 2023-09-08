@@ -3,33 +3,23 @@ site_name: Nihongo Notes
 dev_addr: '127.0.0.1:9000'
 nav:
     - Home: index.md
-    # - Path: path.md
-    # - Cards: cards/index.md
-    # - Games: games.md
-    # - TV:
-    #     - Drama: drama.md
-    #     - Anime: anime.md
-    # - YouTube: youtube.md
-    # - Books:
-    #     - Manga: manga.md
-    #     - Novels: novels.md
-    #     - Textbooks: textbooks.md
-    # - Kanji Particles: kanji-particles.md
-    # - Kanji Phonetics: kanji-phonetics.md
+    - Immersion: immersion.md
     - Kanji:
         - "<span>1st Grade</span>": kanji/grade1.md
         - "<span>2nd Grade&nbsp;<mark class=\"cited\">82%</mark></span>": kanji/grade2.md
         - "<span>3rd Grade&nbsp;<mark class=\"cited\">48%</mark></span>": kanji/grade3.md
         - "<span>4th Grade&nbsp;<mark class=\"cited\">32%</mark></span>": kanji/grade4.md
         - "<span>5th Grade&nbsp;<mark class=\"cited\">21%</mark></span>": kanji/grade5.md
-        - "<span>6th Grade&nbsp;<mark class=\"cited\">20%</mark></span>": kanji/grade6.md
+        - "<span>6th Grade&nbsp;<mark class=\"cited\">21%</mark></span>": kanji/grade6.md
         - "<span>High School (1/5)&nbsp;<mark class=\"cited\">19%</mark></span>": kanji/grade71.md
-        - "<span>High School (2/5)&nbsp;<mark class=\"cited\">1%</mark></span>": kanji/grade72.md
+        - "<span>High School (2/5)&nbsp;<mark class=\"cited\">2%</mark></span>": kanji/grade72.md
         - "<span>High School (3/5)&nbsp;<mark class=\"cited\">3%</mark></span>": kanji/grade73.md
-        - "<span>High School (4/5)&nbsp;<mark class=\"cited\">3%</mark></span>": kanji/grade74.md
+        - "<span>High School (4/5)&nbsp;<mark class=\"cited\">4%</mark></span>": kanji/grade74.md
         - "<span>High School (5/5)&nbsp;<mark class=\"cited\">1%</mark></span>": kanji/grade75.md
-        - "<span>Other&nbsp;<mark class=\"cited\">8%</mark></span>": kanji/other.md
+        - "<span>Other&nbsp;<mark class=\"cited\">9%</mark></span>": kanji/other.md
         - "<span>Particles</span>": kanji/particles.md
+    - Blog:
+        - blog/index.md
 theme:
     name: material
     custom_dir: overrides
@@ -37,6 +27,10 @@ theme:
     favicon: images/favicon.png
     logo: images/logo.svg
     font: false
+    palette:
+        primary: custom
+        accent: custom
+        scheme: custom
     features:
         - search.share
         - navigation.tabs
@@ -56,6 +50,7 @@ extra:
 markdown_extensions:
     - meta
     - def_list
+    - abbr
     - toc:
         permalink: true
     - attr_list
@@ -80,6 +75,7 @@ markdown_extensions:
 watch:
     - includes
 plugins:
+    - blog
     - glightbox:
         skip_classes:
             - nopop
