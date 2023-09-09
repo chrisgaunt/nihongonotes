@@ -441,7 +441,7 @@ mark.cited-vocab {
 }
 
 .media-item {
-    display: flex !important;
+    display: flex;
     flex-direction: column;
     max-width: 272px;
     margin-left: auto;
@@ -581,7 +581,7 @@ mark.cited-vocab {
 @keyframes hide {
     0%{
         transform: scale(1);
-        display: block;
+        display: flex;
     }
     100% {
         transform: scale(0);
@@ -595,6 +595,6 @@ mark.cited-vocab {
     }
     100% {
         transform: scale(1);
-        display: block;
+        display: flex;
     }
 }
