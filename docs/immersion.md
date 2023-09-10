@@ -1,7 +1,7 @@
 ---
 title: Immersion
 description: My immersion path through various types of media.
-hide: navigation
+hide: navigation toc
 search:
   exclude: true
 ---
@@ -15,91 +15,21 @@ search:
   <span class="filter" data-filter="youtube">YouTube</span>
 </div>
 
-<!-- ## Up Next -->
-
-<!-- <div class="media-grid">
-
-  <div class="media-item show media-item--wishlist"  data-filter="tv">
-    <div class="media-item__image">
-      <a href="#"><img src="../images/immersion/game-stacklands.jpg" alt="Stacklands" class="nopop"></a>
-    </div>
-    <div class="media-item__details">
-      <div class="media-item__details__start"></div>
-      <div class="media-item__details__platform"><img src="../images/immersion/platform-steam.png" alt="Steam" class="nopop"></div>
-      <div class="media-item__details__end"></div>
-    </div>
-  </div>
-
-  <div class="media-item show media-item--wishlist"  data-filter="game">
-    <div class="media-item__image">
-      <a href="#"><img src="../images/immersion/game-stacklands.jpg" alt="Stacklands" class="nopop"></a>
-    </div>
-    <div class="media-item__details">
-      <div class="media-item__details__start"></div>
-      <div class="media-item__details__platform"><img src="../images/immersion/platform-steam.png" alt="Steam" class="nopop"></div>
-      <div class="media-item__details__end"></div>
-    </div>
-  </div>
-
-</div> -->
-
-## September 2023
-
 <div class="media-grid">
 
-  <div class="media-item show" data-filter="game">
-    <div class="media-item__image">
-      <a href="https://store.steampowered.com/app/1948280/Stacklands/" target="_blank"><img src="../images/immersion/game-stacklands.jpg" alt="Stacklands" class="nopop"></a>
-    </div>
-    <div class="media-item__details">
-      <div class="media-item__details__start">09 Sep 23</div>
-      <div class="media-item__details__platform"><img src="../images/immersion/platform-steam.png" alt="Steam" class="nopop"></div>
-      <div class="media-item__details__end">Playing</div>
-    </div>
-  </div>
+  <a class="media-item show media-item--completed" data-filter="youtube" href="https://cijapanese.com/snowman/" target="_blank">
+    <i class="fa-regular fa-circle-check"></i>
+    <img src="../images/immersion/youtube-cj-01-snowman.png" alt="Snowman" class="nopop">
+  </a>
+  
+  <a class="media-item show" data-filter="game" href="https://store.steampowered.com/app/1948280/Stacklands/" target="_blank">
+    <i class="fa-solid fa-spinner fa-spin"></i>
+    <!-- <i class="fa-regular fa-circle-left"></i> -->
+    <img src="../images/immersion/game-stacklands.jpg" alt="Stacklands" class="nopop">
+  </a>
 
-  <div class="media-item show media-item--completed"  data-filter="youtube">
-    <div class="media-item__image">
-      <a href="https://cijapanese.com/snowman/" target="_blank"><img src="../images/immersion/youtube-cj-01-snowman.png" alt="Snowman" class="nopop"></a>
-    </div>
-    <div class="media-item__details">
-      <div class="media-item__details__start">08 Sep 23</div>
-      <div class="media-item__details__platform"><img src="../images/immersion/platform-youtube.png" alt="YouTube" class="nopop"></div>
-      <div class="media-item__details__end">08 Sep 23</div>
-    </div>
-  </div>
-
-  <!-- <div class="media-item show media-item--hold" data-filter="game">
-    <div class="media-item__image">
-      <a href="#"><img src="../images/immersion/game-stacklands.jpg" alt="Stacklands" class="nopop"></a>
-    </div>
-    <div class="media-item__details">
-      <div class="media-item__details__start">06 Sep 23</div>
-      <div class="media-item__details__platform"><img src="../images/immersion/platform-steam.png" alt="Steam" class="nopop"></div>
-      <div class="media-item__details__end">On Hold</div>
-    </div>
-  </div>
-
-  <div class="media-item show media-item--abandoned" data-filter="game">
-    <div class="media-item__image">
-      <a href="#"><img src="../images/immersion/game-stacklands.jpg" alt="Stacklands" class="nopop"></a>
-    </div>
-    <div class="media-item__details">
-      <div class="media-item__details__start">06 Sep 23</div>
-      <div class="media-item__details__platform"><img src="../images/immersion/platform-steam.png" alt="Steam" class="nopop"></div>
-      <div class="media-item__details__end"><abbr title="The game was getting boring">Abandoned</abbr></div>
-    </div>
-  </div>
-
-  <div class="media-item show media-item--completed"  data-filter="tv">
-    <div class="media-item__image">
-      <a href="#"><img src="../images/immersion/game-stacklands.jpg" alt="Stacklands" class="nopop"></a>
-    </div>
-    <div class="media-item__details">
-      <div class="media-item__details__start">06 Sep 23</div>
-      <div class="media-item__details__platform"><img src="../images/immersion/platform-steam.png" alt="Steam" class="nopop"></div>
-      <div class="media-item__details__end">20 Dec 23</div>
-    </div>
-  </div> -->
+  <a class="media-item show media-item--date" data-filter="date" href="#september-2023">
+    <h2 id="september-2023">Sep 2023</h2>
+  </a>
 
 </div>
