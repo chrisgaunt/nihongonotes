@@ -15,7 +15,7 @@ filters.forEach(filter => {
   filter.addEventListener('click', function() {
 
     let selectedFilter = filter.getAttribute('data-filter');
-    let itemsToHide = document.querySelectorAll(`.media-grid .media-item:not([data-filter='${selectedFilter}'])`);
+    let itemsToHide = document.querySelectorAll(`.media-grid .media-item:not([data-filter='text'],[data-filter='${selectedFilter}'])`);
     let itemsToShow = document.querySelectorAll(`.media-grid [data-filter='${selectedFilter}']`);
 
     if (selectedFilter == 'all') {
